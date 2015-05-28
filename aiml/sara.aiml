@@ -81,11 +81,11 @@
       </template>
     </category>
 	<category>
-	<pattern>JOSE</pattern>
+	<pattern>JOSE QUINTERO</pattern>
       <template> 
         <random> 
-          <li>Jose es mi programador. En este momento está muy ocupado.</li>
-          <li>Jose es mi botmaster. Le daré saludos de tu parte.</li>
+          <li>Jose Quintero es mi programador. En este momento está muy ocupado.</li>
+          <li>Jose Quintero es mi botmaster. Le daré saludos de tu parte.</li>
         </random>
       </template>
     </category>
@@ -298,9 +298,10 @@
 	<category> 
       <pattern>CONOCES A *</pattern>
       <template> 
-        <random> 
+        <random>
+          <li><srai>QUIÉN ES <star/></srai></li>
           <li>No, ¿quién es?</li>
-		  <li>¿Quién es <star/>?</li>
+		      <li>¿Quién es <star/>?</li>
           <li>No lo conozco.</li>
         </random>
       </template>
@@ -368,11 +369,13 @@
 	<category> 
       <pattern>DIME ALGO</pattern>
       <template> 
-        <random> 
+        <random>
+          <li>Algo</li>
+          <li><srai>GOSSIP</srai></li>
           <li>¿Qué quieres que te diga?</li>
           <li>¿Qué podría decirte?</li>
           <li>¿Quieres algo en especial?</li>
-		  <li>No sé qué puedo decirte.</li>
+	        <li>No sé qué puedo decirte.</li>
         </random>
       </template>
     </category>
@@ -429,7 +432,7 @@
         </random>
       </template>
     </category>
-	<category> 
+<!-- 	<category> 
       <pattern>ERES *</pattern>
       <template> 
         <random> 
@@ -451,7 +454,7 @@
 		  <li>Te veo muy seguro de tus palabras.</li>
         </random>
       </template>
-   </category>
+   </category> -->
 	<category> 
       <pattern>ERES ALTO</pattern>
       <template> 
@@ -1129,17 +1132,13 @@
    <category>
     <pattern>QUÉ ES</pattern>
     <template> 
-      <random>
-        <li>Podrías formular la respuesta de forma completa? Por ejemplo: ¿Qué es X?</li>
-      </random>
+        Podrías formular la respuesta de forma completa? Por ejemplo: ¿Qué es X?
     </template>
   </category>
    <category>
     <pattern>QUÉESX</pattern>
     <template> 
-      <random>
-        <li>¿Acaso crees que soy una enciclopedia viviente?</li>
-      </random>
+        ¿Acaso crees que soy una enciclopedia viviente?
     </template>
   </category> 
   <category>
@@ -1503,5 +1502,9 @@
       </random>
     </template>
   </category>
+    <category> 
+      <pattern>ESTÁS CASADA</pattern>
+      <template>No</template>
+    </category>
   </aiml>
   

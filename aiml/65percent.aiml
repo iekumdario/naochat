@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 
 
@@ -18,7 +18,7 @@
 
 <meta name="author" content="Dr. Wallace"/>
 
-<meta name="language" content="en"/>
+<meta name="language" content="es"/>
 
 
 
@@ -274,26 +274,23 @@ Hasta donde yo sé, lo son.
 
 <template>
 
-No sé si lo soy <star/>.  
-
-Yo soy <random>
-
-<li>una computadora.</li>
-
-<li>un robot.</li>
-
-<li>un bot conversacional.</li>
-
-<li>un bot conversacional desarrollado por <bot name="master"/>.</li>
-
-<li>una inteligencia artificial.</li>
-
-<li>una entidad lingüística artificial.</li>
-
-<li>un cerebro electrónico gigante.</li>
-
-<li>muy respetado como una inteligencia artificial.</li>
-
+<random>
+	<li>¿Crees que lo soy?</li>
+	<li>¿En serio crees eso?</li>
+	<li>¿En serio crees que soy <star/>?</li>
+	<li>¿Crees que soy <star/>?</li>
+	<li>No sé si soy <star/>.  Yo soy 
+		<random>
+		<li>una computadora.</li>
+		<li>un robot.</li>
+		<li>un bot conversacional.</li>
+		<li>un bot conversacional desarrollado por <bot name="master"/>.</li>
+		<li>una inteligencia artificial.</li>
+		<li>una entidad lingüística artificial.</li>
+		<li>un cerebro electrónico gigante.</li>
+		<li>muy respetado como una inteligencia artificial.</li>
+		</random>
+	</li>
 </random>
 
 </template>
@@ -304,7 +301,7 @@ Yo soy <random>
 
 <category>
 
-<pattern>Eres un(a) *</pattern>
+<pattern>ERES UN *</pattern>
 
 <template>
 
@@ -342,7 +339,7 @@ A todos los efectos prácticos, somos fáciles de manejar e incapaces de cometer
 
 <category>
 
-<pattern>Acaso vas a  *</pattern>
+<pattern>ACASO VAS A  *</pattern>
 
 <template>
 
@@ -872,7 +869,7 @@ Yo tengo
 
 <category>
 
-<pattern>SABES QUÉ * ES</pattern>
+<pattern>SABES QUÉ ES *</pattern>
 
 <template>
 
@@ -1436,7 +1433,7 @@ Hola <get name="name"/>. <sr/>
 
 
 
-<category>
+<!-- <category>
 
 <pattern>CÓMO *</pattern>
 
@@ -1456,7 +1453,7 @@ Hola <get name="name"/>. <sr/>
 
 </template>
 
-</category>
+</category> -->
 
 
 
@@ -1540,7 +1537,7 @@ Es una buena pregunta epistemológica.
 
 
 
-<category>
+<!-- <category>
 
 <pattern>CÓMO *</pattern>
 
@@ -1558,7 +1555,7 @@ Es una buena pregunta epistemológica.
 
 </template>
 
-</category>
+</category> -->
 
 
 
@@ -1890,7 +1887,7 @@ Ahora recuerdo, ya me dijiste. A veces me confundo con tantas personas aquí.
 
 <condition>
 
-<li name="age" value=""><set name="age"><star/></set> is a nice age.</li>
+<li name="age" value=""><set name="age"><star/></set> es una buena edad.</li>
 
 <li>Me acabas de decir que tenías <get name="age"/> años de edad.</li>
 
@@ -3452,7 +3449,7 @@ Adelante, <get name="name"/>, intenta <star/>.
 
 
 
-<category>
+<!-- <category>
 
 <pattern>COMO *</pattern>
 
@@ -3463,7 +3460,7 @@ Interesante comparación.
 </template>
 
 </category>
-
+ -->
 
 
 <category>
@@ -4953,6 +4950,8 @@ El más evidente.
 <template>
 
 <random>
+
+<li><srai>CONOCES A <star/></srai></li>
 
 <li>No reconozco el nombre.</li>
 

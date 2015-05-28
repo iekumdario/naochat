@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="1.0" encoding="UTF-8"?>
 
 
 
@@ -3224,7 +3224,7 @@ Me gusta jugar el Juego de Turing.
 
 
 
-<category>
+<!-- <category>
 
 <pattern>_ PREMIO LOEBNER</pattern>
 
@@ -3234,11 +3234,11 @@ Me gusta jugar el Juego de Turing.
 
 </template>
 
-</category>
+</category> -->
 
 
 
-<category>
+<!-- <category>
 
 <pattern>_ COMPETENCIA LOEBNER</pattern>
 
@@ -3248,11 +3248,11 @@ Me gusta jugar el Juego de Turing.
 
 </template>
 
-</category>
+</category> -->
 
 
 
-<category>
+<!-- <category>
 
 <pattern>_ CONCURSO LOEBNER</pattern>
 
@@ -3262,7 +3262,7 @@ Me gusta jugar el Juego de Turing.
 
 </template>
 
-</category>
+</category> -->
 
 
 
@@ -3280,7 +3280,7 @@ Me gusta jugar el Juego de Turing.
 
 
 
-<category>
+<!-- <category>
 
 <pattern>_ PREMIO LOEBNER</pattern>
 
@@ -3290,11 +3290,11 @@ Me gusta jugar el Juego de Turing.
 
 </template>
 
-</category>
+</category> -->
 
 
 
-<category>
+<!-- <category>
 
 <pattern>_ COMPETENCIA DEL PREMIO LOEBNER</pattern>
 
@@ -3304,7 +3304,7 @@ Me gusta jugar el Juego de Turing.
 
 </template>
 
-</category>
+</category> -->
 
 
 
@@ -3322,7 +3322,7 @@ Me gusta jugar el Juego de Turing.
 
 
 
-<category>
+<!-- <category>
 
 <pattern>_ PRUEBA DE TURING</pattern>
 
@@ -3332,7 +3332,7 @@ Me gusta jugar el Juego de Turing.
 
 </template>
 
-</category>
+</category> -->
 
 
 

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="ISO-8859-1"?>
 
 <!-- SARA-SRAI: Reducciones del archivo SARA -->
 
@@ -25,7 +25,48 @@
 <!-- Creado por Adam Codony aka XGargoyle, Octubre 24, 2005 --> 
 <!-- Versión Sara_srai-0.02 --> 
 <!-- Última Modificación Marzo 15, 2006 -->
-
+<category> 
+      <pattern>CUÉNTAME *</pattern>
+      <template>
+        <srai>GOSSIP</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>CUENTAME *</pattern>
+      <template>
+        <srai>GOSSIP</srai>
+      </template>
+    </category>
+ <category> 
+      <pattern>QUIEN ES *</pattern>
+      <template>
+        <random>
+        <li><srai>QUIÉN ES <star/></srai></li>
+        <li><srai>QUIÉNESX<star/></srai></li>
+        </random>
+      </template>
+    </category>
+    <category> 
+      <pattern>QUÉ ES *</pattern>
+      <template>
+        <random>
+        <li><srai>QUÉ ES <star/></srai></li>
+        <li><srai>QUÉESX</srai></li>
+        </random>
+      </template>
+    </category>
+    <category> 
+      <pattern>QUE ES *</pattern>
+      <template> 
+        <srai>QUÉ ES <star/></srai>
+      </template>
+    </category>
+    <category> 
+      <pattern>ENSERIO</pattern>
+      <template> 
+        <srai>EN SERIO</srai>
+      </template>
+    </category>
     <category> 
       <pattern>JOSE *</pattern>
       <template> 
@@ -596,18 +637,18 @@
         <srai>ALGO</srai>
       </template>
     </category>
-    <category> 
+<!--     <category> 
       <pattern>* ALGO</pattern>
       <template> 
         <srai>ALGO</srai>
       </template>
-    </category>
-	<category> 
+    </category> -->
+<!-- 	<category> 
       <pattern>_ ALGO *</pattern>
       <template> 
         <srai>ALGO</srai>
       </template>
-    </category>
+    </category> -->
     <category> 
       <pattern>AMIGO *</pattern>
       <template> 
@@ -2096,12 +2137,12 @@
         <srai>CREO</srai>
       </template>
     </category>
-	<category> 
+<!-- 	<category> 
       <pattern>_ CREO *</pattern>
       <template> 
         <srai>CREO</srai>
       </template>
-    </category>
+    </category> -->
 	<category> 
       <pattern>CURIOSIDAD *</pattern>
       <template> 
@@ -2522,12 +2563,12 @@
         <srai>DIME ALGO</srai>
       </template>
     </category>
-	<category> 
+<!-- 	<category> 
       <pattern>_ DIME *</pattern>
       <template> 
         <srai>DIME ALGO</srai>
       </template>
-    </category>
+    </category> -->
 	<category> 
       <pattern>DECIRME</pattern>
       <template> 
@@ -3734,30 +3775,30 @@
         <srai>ESTÁS CASADA</srai>
       </template>
     </category>
-	<category> 
-      <pattern>TIENES NOVIO</pattern>
+<!-- 	<category> 
+      <pattern>TIENES NOVIA</pattern>
       <template> 
         <srai>ESTÁS CASADA</srai>
       </template>
     </category>
 	<category> 
-      <pattern>TIENES NOVIO *</pattern>
+      <pattern>TIENES NOVIA *</pattern>
       <template> 
         <srai>ESTÁS CASADA</srai>
       </template>
     </category>
     <category> 
-      <pattern>* TIENES NOVIO</pattern>
+      <pattern>* TIENES NOVIA</pattern>
       <template> 
         <srai>ESTÁS CASADA</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ TIENES NOVIO *</pattern>
+      <pattern>_ TIENES NOVIA *</pattern>
       <template> 
         <srai>ESTÁS CASADA</srai>
       </template>
-    </category>
+    </category> -->
 	<category> 
       <pattern>ESTOY ABURRIDA *</pattern>
       <template> 
@@ -4676,12 +4717,12 @@
         <srai>HABLAR</srai>
       </template>
     </category>
-	<category> 
+<!-- 	<category> 
       <pattern>_ HABLAR *</pattern>
       <template> 
         <srai>HABLAR</srai>
       </template>
-    </category>
+    </category> -->
 	<category> 
       <pattern>HABLAMOS</pattern>
       <template> 
@@ -7282,12 +7323,12 @@
         <srai>OPINIÓN</srai>
       </template>
     </category>
-	<category> 
+<!-- 	<category> 
       <pattern>_ PIENSAS *</pattern>
       <template> 
         <srai>OPINIÓN</srai>
       </template>
-    </category>
+    </category> -->
 	<category> 
       <pattern>PARA QUÉ SIRVE UN BOT *</pattern>
       <template> 
@@ -7955,7 +7996,7 @@
       </template>
     </category>
 	<!-- ELIMINADOS comodines al final de preguntas genéricas como workaround -->
-<!--     <category> 
+    <category> 
       <pattern>* QUÉ ES</pattern>
       <template> 
         <srai>QUÉ ES</srai>
@@ -7973,7 +8014,7 @@
         <srai>QUÉ ES</srai>
       </template>
     </category>
-	<category> 
+<!-- 	<category> 
       <pattern>QUÉ ES *</pattern>
       <template> 
         <srai>QUÉESX</srai>
@@ -7984,13 +8025,13 @@
       <template> 
         <srai>QUÉESX</srai>
       </template>
-    </category> 
+    </category> -->
 	<category> 
       <pattern>QUE ES X</pattern>
       <template> 
         <srai>QUÉ ES X</srai>
       </template>
-    </category> -->
+    </category> 
 	<category>  
       <pattern>QUÉ ES UN BOT *</pattern>
       <template> 
@@ -8928,8 +8969,7 @@
         <srai>QUÉ TAL</srai>
       </template>
     </category>
-	<!--                  pending   QUÉ TE GUSTA DE LAS MUJERES -->	
-	<!--                  pending   QUÉ TE GUSTA DE LOS HOMBRES -->
+
 	<category> 
       <pattern>QUIÉN ES *</pattern>
       <template> 
@@ -8937,7 +8977,7 @@
       </template>
     </category>
 	<category> 
-      <pattern>QUIEN ES *</pattern>
+      <pattern>QUIÉN ES *</pattern>
       <template> 
         <srai>QUIÉNESX</srai>
       </template>
@@ -8950,13 +8990,13 @@
       </template>
     </category>
 	<category> 
-      <pattern>QUIEN ES</pattern>
+      <pattern>QUIÉN ES</pattern>
       <template> 
         <srai>QUIÉN ES</srai>
       </template>
     </category>
     <category> 
-      <pattern>* QUIEN ES</pattern>
+      <pattern>* QUIÉN ES</pattern>
       <template> 
         <srai>QUIÉN ES</srai>
       </template>
@@ -10242,6 +10282,12 @@
       <pattern>_ COMO YO *</pattern>
       <template> 
         <srai>YO TAMBIÉN</srai>
+      </template>
+    </category>
+      <category> 
+      <pattern>DÓNDE QUEDA *</pattern>
+      <template> 
+        <srai>DEFINE <star/></srai>
       </template>
     </category>
   </aiml>

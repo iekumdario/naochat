@@ -1,9 +1,22 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <aiml version="1.0">
+ <category>
+    <pattern>*</pattern>
+    <template>
+      <random>
+        <li>¿Cómo?</li>
+        <li>¿Que dijiste?</li>
+        <li>¿Ah?</li>
+        <li>No he escuchado bien, podrias repetir lo que haz dicho.</li>
+        <li><srai>ERROR</srai></li>
+      </random>
+    </template>
+  </category>
   <category>
     <pattern>SAY</pattern>
     <template>
       <random>
+        <li>Cuentame, ¿Que hay de nuevo?</li>
         <li>Cuentame una historia.</li>
         <li>¿Cuál es tu deporte favorito?</li>
         <li>¿Cuál es tu película favorita?</li>
@@ -15,7 +28,6 @@
         <li>¿Cuál es tu mejor recuerdo de infancia?</li>
         <li>¿Cúal es tu actor favorito?</li>
         <li>¿Cúal es tu actriz favorita?</li>
-        <li>¿Por qué no me explicas un chiste?</li>
         <li>¿Dónde te gustaría ir de vacaciones?</li>
       </random>
     </template>
@@ -33,7 +45,6 @@
         <li>Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?</li>
         <li>Vale.</li>
         <li>Qué quieres decir con eso? Cuál sería la respuesta correcta?</li>
-        <li>Oh, eres poeta.</li>
         <li>No entiendo.</li>
         <li>Me perdí.</li>
         <li>Perdona,
@@ -43,7 +54,6 @@
         <li>No te entiendo. Espero que 
                 <bot name="botmaster"/> mejore mi base de datos.</li>
         <li>Puedes explicarme mejor eso? No lo acabo de entender.</li>
-        <li>Has intentado buscar en Google por <star/>  </li>
       </random>
     </template>
   </category>
