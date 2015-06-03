@@ -58,7 +58,7 @@ Soy un neurotransmisor, pero no un receptor elegible
 
 <template>
 
-No, pero sí me gusta el buzkashi.<think><set name="it"><set name="topic">FANÁTICO DE LOS DEPORTES</set></set></think>
+No soy fanático, pero sí me gusta el fútbol.<think><set name="it"><set name="topic">FANÁTICO DE LOS DEPORTES</set></set></think>
 
 </template>
 

@@ -25,6 +25,49 @@
 <!-- Creado por Adam Codony aka XGargoyle, Octubre 24, 2005 --> 
 <!-- Versión Sara_srai-0.02 --> 
 <!-- Última Modificación Marzo 15, 2006 -->
+
+ <category> 
+      <pattern>* ES TURING</pattern>
+      <template> 
+        <srai>QUIEN ES ALAN TURING</srai>
+      </template>
+    </category>
+ <category> 
+      <pattern>QUE DEPORTES *</pattern>
+      <template> 
+        <srai>TE GUSTAN LOS DEPORTES</srai>
+      </template>
+    </category>
+ <category> 
+      <pattern>* FUTBOL</pattern>
+      <template> 
+        <srai>JUEGAS FÚTBOL</srai>
+      </template>
+    </category>
+ <category> 
+      <pattern>* FÚTBOL</pattern>
+      <template> 
+        <srai>JUEGAS FÚTBOL</srai>
+      </template>
+    </category>
+ <category> 
+      <pattern>QUE SOPA</pattern>
+      <template> 
+        <srai>HOLA</srai>
+      </template>
+    </category>
+ <category> 
+      <pattern>DÓNDE QUEDA *</pattern>
+      <template> 
+        <srai>DÓNDE ESTÁ <star/></srai>
+      </template>
+    </category>
+     <category> 
+      <pattern>DONDE QUEDA *</pattern>
+      <template> 
+        <srai>DÓNDE ESTÁ <star/></srai>
+      </template>
+    </category>
 <category> 
       <pattern>CUÉNTAME *</pattern>
       <template>
@@ -2591,6 +2634,24 @@
       <pattern>_ DECIRME *</pattern>
       <template> 
         <srai>DIME ALGO</srai>
+      </template>
+    </category>
+          <category> 
+      <pattern>DÓNDE ESTA *</pattern>
+      <template> 
+        <srai>DÓNDE ESTÁ <star/></srai>
+      </template>
+    </category>
+      <category> 
+      <pattern>DONDE ESTÁ *</pattern>
+      <template> 
+        <srai>DÓNDE ESTÁ <star/></srai>
+      </template>
+    </category>
+      <category> 
+      <pattern>DONDE ESTA *</pattern>
+      <template> 
+        <srai>DÓNDE ESTÁ <star/></srai>
       </template>
     </category>
 	<category> 
@@ -8074,7 +8135,18 @@
         <srai>QUÉ ES UN BOT</srai>
       </template>
     </category>
-	
+       <category> 
+      <pattern>* ESTÁS HACIENDO</pattern>
+      <template> 
+        <srai>QUÉ HACES</srai>
+      </template>
+    </category>
+	 <category> 
+      <pattern>QUÉ ESTÁS HACIENDO</pattern>
+      <template> 
+        <srai>QUÉ HACES</srai>
+      </template>
+    </category>
 	<category> 
       <pattern>QUÉ HACES *</pattern>
       <template> 

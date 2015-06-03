@@ -58,6 +58,10 @@
         <!-- convierte la palabra SARA en null  -->
       </template>
     </category>
+     <category> 
+      <pattern>VISTE *</pattern>
+      <template>No. Me lo perdí</template>
+    </category>
 	<category>
 	<pattern>ACTOR</pattern>
       <template> 

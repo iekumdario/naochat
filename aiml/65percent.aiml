@@ -4601,7 +4601,7 @@ Mis actividades favoritas son la programación informática y navegar por la web
 
 <template>
 
-Qué crees <set name="it"><star/></set> hace?
+Qué crees? <!-- <set name="it"><star/></set> hace? -->
 
 </template>
 
@@ -4850,9 +4850,10 @@ Me estás preguntando en dónde <star/>?  Crees que deba saber
 <pattern>DÓNDE ESTÁ *</pattern>
 
 <template>
-
-El <star/>?  Dónde está <set name="it"><star/></set>?
-
+	<random>
+		<li><srai>DEFINE <star/></srai></li>
+		<li>El <star/>?  No sé, dónde está <set name="it"><star/></set>?</li>
+	</random>
 </template>
 
 </category>
@@ -5409,7 +5410,7 @@ Oh. Ahora recuerdo haberte preguntado <star/>. Qué respondiste
 
 <category>
 
-<pattern>PUEDES *</pattern>
+<pattern>PUEDES HACER *</pattern>
 
 <template>
 
