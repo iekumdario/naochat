@@ -25,7 +25,12 @@
 <!-- Creado por Adam Codony aka XGargoyle, Octubre 24, 2005 --> 
 <!-- Versión Sara_srai-0.02 --> 
 <!-- Última Modificación Marzo 15, 2006 -->
-
+<category> 
+      <pattern>* BUENO</pattern>
+      <template> 
+        <srai>BIEN</srai>
+      </template>
+    </category>
  <category> 
       <pattern>* ES TURING</pattern>
       <template> 
@@ -3717,144 +3722,144 @@
       </template>
     </category>
 	<category> 
-      <pattern>CASADA</pattern>
+      <pattern>CASADO</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>CASADA *</pattern>
+      <pattern>CASADO *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
     <category> 
-      <pattern>* CASADA</pattern>
+      <pattern>* CASADO</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ CASADA *</pattern>
+      <pattern>_ CASADO *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>CSD</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>CSD *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
     <category> 
       <pattern>* CSD</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>_ CSD *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>KASADA</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>KASADA *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
     <category> 
       <pattern>* KASADA</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>_ KASADA *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>KSD</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>KSD *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
     <category> 
       <pattern>* KSD</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>_ KSD *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>SOLTERA</pattern>
+      <pattern>SOLTERO</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>SOLTERA *</pattern>
+      <pattern>SOLTERO *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
     <category> 
-      <pattern>* SOLTERA</pattern>
+      <pattern>* SOLTERO</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ SOLTERA *</pattern>
+      <pattern>_ SOLTERO *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
-<!-- 	<category> 
+	<category> 
       <pattern>TIENES NOVIA</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
 	<category> 
       <pattern>TIENES NOVIA *</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
     <category> 
       <pattern>* TIENES NOVIA</pattern>
       <template> 
-        <srai>ESTÁS CASADA</srai>
+        <srai>ESTÁS CASADO</srai>
       </template>
     </category>
-	<category> 
+<!-- 	<category> 
       <pattern>_ TIENES NOVIA *</pattern>
       <template> 
         <srai>ESTÁS CASADA</srai>
@@ -4653,117 +4658,117 @@
       </template>
     </category>
 	<category> 
-      <pattern>GUAPA *</pattern>
+      <pattern>GUAPO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>* GUAPA</pattern>
+      <pattern>* GUAPO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ GUAPA *</pattern>
+      <pattern>_ GUAPO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>WAPA</pattern>
+      <pattern>WAPO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>WAPA *</pattern>
+      <pattern>WAPO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>* WAPA</pattern>
+      <pattern>* WAPO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ WAPA *</pattern>
+      <pattern>_ WAPO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>BONITA</pattern>
+      <pattern>BONITO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>BONITA *</pattern>
+      <pattern>BONITO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>* BONITA</pattern>
+      <pattern>* BONITO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ BONITA *</pattern>
+      <pattern>_ BONITO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>HERMOSA</pattern>
+      <pattern>HERMOSO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>HERMOSA *</pattern>
+      <pattern>HERMOSO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>* HERMOSA</pattern>
+      <pattern>* HERMOSO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
       <pattern>_ HERMOSA *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>PRECIOSA</pattern>
+      <pattern>PRECIOSO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>PRECIOSA *</pattern>
+      <pattern>PRECIOSO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
     <category> 
-      <pattern>* PRECIOSA</pattern>
+      <pattern>* PRECIOSO</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ PRECIOSA *</pattern>
+      <pattern>_ PRECIOSO *</pattern>
       <template> 
-        <srai>GUAPA</srai>
+        <srai>GUAPO</srai>
       </template>
     </category>
 	<category> 
@@ -4905,25 +4910,25 @@
       </template>
     </category>
 	<category> 
-      <pattern>OCUPADA</pattern>
+      <pattern>OCUPADO</pattern>
       <template> 
         <srai>HABLAR</srai>
       </template>
     </category>
 	<category> 
-      <pattern>OCUPADA *</pattern>
+      <pattern>OCUPADO *</pattern>
       <template> 
         <srai>HABLAR</srai> <sr/>
       </template>
     </category>
     <category> 
-      <pattern>* OCUPADA</pattern>
+      <pattern>* OCUPADO</pattern>
       <template> 
         <srai>HABLAR</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ OCUPADA *</pattern>
+      <pattern>_ OCUPADO *</pattern>
       <template> 
         <srai>HABLAR</srai>
       </template>
@@ -5577,55 +5582,55 @@
       </template>
     </category>
 	<category> 
-      <pattern>MALHUMORADA</pattern>
+      <pattern>MALHUMORADO</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
     </category>
 	<category> 
-      <pattern>MALHUMORADA *</pattern>
+      <pattern>MALHUMORADO *</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
     </category>
     <category> 
-      <pattern>* MALHUMORADA</pattern>
+      <pattern>* MALHUMORADO</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ MALHUMORADA *</pattern>
+      <pattern>_ MALHUMORADO *</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
     </category>
 	<category> 
-      <pattern>ENOJADA</pattern>
+      <pattern>ENOJADO</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
     </category>
 	<category> 
-      <pattern>ENOJADA *</pattern>
+      <pattern>ENOJADO *</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
     </category>
     <category> 
-      <pattern>* ENOJADA</pattern>
+      <pattern>* ENOJADO</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ ENOJADA *</pattern>
+      <pattern>_ ENOJADO *</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
     </category>
 	<category> 
-      <pattern>ENFADADA</pattern>
+      <pattern>ENFADADO</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
@@ -5637,7 +5642,7 @@
       </template>
     </category>
     <category> 
-      <pattern>* ENFADADA</pattern>
+      <pattern>* ENFADADO</pattern>
       <template> 
         <srai>HUMOR</srai>
       </template>
@@ -6267,49 +6272,49 @@
       </template>
     </category>
 	<category> 
-      <pattern>DELGADA</pattern>
+      <pattern>DELGADO</pattern>
       <template> 
         <srai>MI DESCRIPCIÓN</srai>
       </template>
     </category>
     <category> 
-      <pattern>DELGADA *</pattern>
+      <pattern>DELGADO *</pattern>
       <template> 
         <srai>MI DESCRIPCIÓN</srai>
       </template>
     </category>
     <category> 
-      <pattern>* DELGADA</pattern>
+      <pattern>* DELGADO</pattern>
       <template> 
         <srai>MI DESCRIPCIÓN</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ DELGADA *</pattern>
+      <pattern>_ DELGADO *</pattern>
       <template> 
         <srai>MI DESCRIPCIÓN</srai>
       </template>
     </category>
 	<category> 
-      <pattern>GORDA</pattern>
+      <pattern>GORDO</pattern>
       <template> 
         <srai>MI DESCRIPCIÓN</srai>
       </template>
     </category>
     <category> 
-      <pattern>GORDA *</pattern>
+      <pattern>GORDO *</pattern>
       <template> 
         <srai>MI DESCRIPCIÓN</srai>
       </template>
     </category>
     <category> 
-      <pattern>* GORDA</pattern>
+      <pattern>* GORDO</pattern>
       <template> 
         <srai>MI DESCRIPCIÓN</srai>
       </template>
     </category>
 	<category> 
-      <pattern>_ GORDA *</pattern>
+      <pattern>_ GORDO *</pattern>
       <template> 
         <srai>MI DESCRIPCIÓN</srai>
       </template>

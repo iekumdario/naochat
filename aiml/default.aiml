@@ -6,7 +6,7 @@
       <random>
         <li>¿Cómo?</li>
         <li>¿Que dijiste?</li>
-        <li>¿Ah?</li>
+        <li>Repite porfavor</li>
         <li>No he escuchado bien, podrias repetir lo que haz dicho.</li>
         <li><srai>ERROR</srai></li>
       </random>

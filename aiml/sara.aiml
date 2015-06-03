@@ -204,7 +204,7 @@
         <li>Bien.</li>
         <li>Vale.</li>
         <li>Excelente.</li>
-        <li>Bien, ¿y tú? </li>
+<!--         <li>Bien, ¿y tú? </li> -->
       </random>
     </template>
   </category>
@@ -544,6 +544,7 @@
         <random> 
           <li>Por el momento estoy soltero y sin compromiso.</li>
           <li>Por el momento estoy soltero, pero no soy facil.</li>
+          <li>No.</li>
         </random>
       </template>
     </category>
@@ -636,13 +637,13 @@
     <pattern>GRACIAS</pattern>
     <template> 
       <random>
-        <li>Encantada.</li>
+        <li>A la orden.</li>
         <li>De nada.</li>
       </random>
     </template>
   </category>
   <category> 
-      <pattern>GUAPA</pattern>
+      <pattern>GUAPO</pattern>
       <template> 
         <random> 
           <li>Gracias, es un cumplido muy bonito.</li>
@@ -1432,8 +1433,7 @@
   <category> 
       <pattern>TU NOMBRE</pattern>
       <template> 
-        <random> 
-          <li>Creo que es facil determinar mi nombre.</li>
+        <random>
           <li><bot name="name"/>.</li>
           <li>Me llamo <bot name="name"/>.</li>
           <li><bot name="name"/>, ¿y tú? </li>
@@ -1506,9 +1506,5 @@
       </random>
     </template>
   </category>
-    <category> 
-      <pattern>ESTÁS CASADA</pattern>
-      <template>No</template>
-    </category>
   </aiml>
   

@@ -22,9 +22,247 @@
 <!-- Nombres.aiml: Nombres de personas que conoce el bot --> 
 <!-- Creado por Adam Codony aka XGargoyle, Octubre 24, 2005 --> 
 <!-- Versión nombres-0.02 --> 
-<!-- Última Modificación Marzo 15, 2006 --> 
-
-   
+<!-- Última Modificación Marzo 15, 2006 -->
+<category> 
+      <pattern>ROBERTO</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>ROBERTO *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* ROBERTO</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ ROBERTO *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+<category> 
+      <pattern>ROLANDO</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>ROLANDO *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* ROLANDO</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ ROLANDO *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+<category> 
+      <pattern>ROSA</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>ROSA *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* ROSA</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ ROSA *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+    <category> 
+      <pattern>BIANCA</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>BIANCA *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* BIANCA</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ BIANCA *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+    <category> 
+      <pattern>ANANÍAS</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>ANANÍAS *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* ANANÍAS</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ ANANÍAS *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+    <category> 
+      <pattern>ELVIS</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>ELVIS *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* ELVIS</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ ELVIS *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+        <category> 
+      <pattern>ALEXEY</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>ALEXEY *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* ALEXEY</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ ALEXEY *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+    <category> 
+      <pattern>EVELIA</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>EVELIA *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* EVELIA</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ EVELIA *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+    <category> 
+      <pattern>DONNA</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>DONNA *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* DONNA</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ DONNA *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+    <category> 
+      <pattern>RAFAEL</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>RAFAEL *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>* RAFAEL</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
+  <category> 
+      <pattern>_ RAFAEL *</pattern>
+      <template> 
+        <srai>ME LLAMO</srai>
+      </template>
+    </category>
 	<category> 
       <pattern>ADAN</pattern>
       <template> 
@@ -719,6 +957,12 @@
       <pattern>_ JORGE *</pattern>
       <template> 
         <srai>ME LLAMO</srai>
+      </template>
+    </category>
+    <category> 
+      <pattern>JOSÉ</pattern>
+      <template> 
+        <srai>JOSE</srai>
       </template>
     </category>
 	<category> 
