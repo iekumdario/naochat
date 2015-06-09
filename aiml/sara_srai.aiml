@@ -25,6 +25,25 @@
 <!-- Creado por Adam Codony aka XGargoyle, Octubre 24, 2005 --> 
 <!-- Versión Sara_srai-0.02 --> 
 <!-- Última Modificación Marzo 15, 2006 -->
+
+<category> 
+      <pattern>QUIÉN INVENTO *</pattern>
+      <template> 
+        <srai>QUIÉN INVENTÓ <star/></srai>
+      </template>
+</category>
+<category> 
+      <pattern>QUIEN INVENTO *</pattern>
+      <template> 
+        <srai>QUIÉN INVENTÓ <star/></srai>
+      </template>
+</category>
+<category> 
+      <pattern>QUIEN INVENTÓ *</pattern>
+      <template> 
+        <srai>QUIÉN INVENTÓ <star/></srai>
+      </template>
+</category>
 <category> 
       <pattern>* BUENO</pattern>
       <template> 

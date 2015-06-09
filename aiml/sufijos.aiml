@@ -756,9 +756,7 @@ niños.
 
 <template>
 
-Mi película favorita es <favoritemovie/>. Has visto
-
-<set name="it"><favoritemovie/></set>?
+Mi película favorita es <bot name="favoritemovie"/>. La has visto?
 
 </template>
 
