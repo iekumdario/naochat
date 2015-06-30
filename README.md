@@ -5,8 +5,8 @@ El género del bot se cambió a masculino, para ser utilizado con el robot NAO
 
 ##Dependencias
 
-[PyAIML](https://goo.gl/Pw8bOM)
-[poster](http://goo.gl/DEvhe5)
+-[PyAIML](https://goo.gl/Pw8bOM)
+-[poster](http://goo.gl/DEvhe5)
 
 ##Instalación
 
