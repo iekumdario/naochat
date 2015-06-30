@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package uuid="naochatinteractivoesp-20032e">
+ <names>
+  <name lang="en_US">naochat interactivo esp</name>
+ </names>
+ <descriptionLanguages>
+  <language>en_US</language>
+ </descriptionLanguages>
+ <contents>
+  <behaviorContent path="naochat interactivo">
+   <nature></nature>
+   <permissions/>
+  </behaviorContent>
+ </contents>
+</package>

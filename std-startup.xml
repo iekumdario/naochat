@@ -1,0 +1,28 @@
+<aiml version="1.0">
+
+<!-- This category works with the Standard AIML Set -->
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- Load standard AIML set -->
+<learn>aiml-set/65percent.aiml</learn>
+<learn>aiml-set/chismes.aiml</learn>
+<learn>aiml-set/conocimiento.aiml</learn>
+<learn>aiml-set/default.aiml</learn>
+<learn>aiml-set/deportes.aiml</learn>
+<learn>aiml-set/geografia.aiml</learn>
+<learn>aiml-set/inventos.aiml</learn>
+<learn>aiml-set/nombres.aiml</learn>
+<learn>aiml-set/numeros.aiml</learn>
+<learn>aiml-set/reptiles.aiml</learn>
+<learn>aiml-set/sara.aiml</learn>
+<learn>aiml-set/sara_srai.aiml</learn>
+<learn>aiml-set/si-no.aiml</learn>
+<learn>aiml-set/sufijos.aiml</learn>
+<learn>aiml-set/turing.aiml</learn>
+
+</template>
+</category>
+
+</aiml>
