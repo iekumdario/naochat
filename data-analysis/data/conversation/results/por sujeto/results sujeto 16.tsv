@@ -1,0 +1,23 @@
+1	hola		4	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+2	como te llamas		14	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+3	cómo estás		12	-1	¿Crees que hay vida después de la muerte?	0
+4	qué haces		10	-1	¿Crees que las máquinas son inteligentes?	0
+5	cuéntame algo		14	-1	¿Cuál es tu película favorita?	0
+6	qué musica te gusta		20	-1	Cuentame una historia.	0
+1	nombres de deportes		19	-1	¿Cuál es tu color favorito?	0
+4	conoces el béisbol		19	-1	Cuentame una historia.	0
+5	donde está ubicado venezuela		29	-1	¿Cúal es tu actriz favorita?	0
+6	lima donde está ubicado		24	-1	¿Cuál es tu deporte favorito?	0
+9	donde está lima		16	-1	¿Cuál es tu color favorito?	0
+10	el blanco		9	-1	¿Cúal es tu actriz favorita?	0
+2	conoces el béisbol	conocer Facebook	11	0.49912527	¿Cómo?	0
+3	conoces el béisbol	béisbol	11	0.67725283	Repite porfavor	0
+11	jennifer lópez	jennifer lópez	0	0.79466987	"No he escuchado bien, podrias repetir lo que haz dicho."	1
+9	recomiéndame una película	película	18	0.84822637	"Mi película favorita es ""Robocop""."	1
+7	el béisbol béisbol	face	20	0.85468179	Repite porfavor	0
+7	y películas	ipeliculas	4	0.86481392	¿Cómo?	0
+8	sabes quién es juan pablo segundo	sabes quién es juan pablo segundo	0	0.93831843	"Jeje, conozco a alguien con tu mismo nombre."	0
+12	Jennifer López	Jennifer López	0	0.95170844	"No he escuchado bien, podrias repetir lo que haz dicho."	1
+10	gracias	gracias	0	0.96156687	A la orden.	1
+8	cuál es tu actor favorito	cuál es tu color favorito	3	0.98087358	¿Cuál es tu color favorito?	0
+			6.7	0.837123737		0.4

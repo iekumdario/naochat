@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	qué es la natación
+h	0.94931662	qué es la natación
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	quién inventó la pólvora
+h	0.8734045	quién inventó la
+a	Los Hermanos Wright.
+c	1
+-------------------------------------
+r	dónde queda el Barcelona
+h	0.75369924	dónde queda el Barcelona
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	dónde queda el barcelona
+h	0.90506148	dónde queda el barcelona
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	Megan Fox
+h	0.96933579	Megan Fox
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	0
+-------------------------------------
+r	Megan Fox
+h	0.96271664	Megan Fox
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	0
+-------------------------------------
+r	quién inventó el avión
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	si
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	las crónicas de narnia
+h	0.90198529	las crónicas de narnia
+a	¿Cómo?
+c	0
+-------------------------------------
+r	las crónicas de narnia
+h	0.9308117	Las crónicas de Narnia
+a	¿Que dijiste?
+c	0
+-------------------------------------
+r	adiós
+h	0.54815114	adiós
+a	Hasta luego.
+c	1
+-------------------------------------
+-------------------------------------

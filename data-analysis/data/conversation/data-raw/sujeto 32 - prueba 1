@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.95918852	Hola
+a	¿Qué tal?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	cómo estás
+h	0.85047686	cómo estás
+a	Muy bien, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	qué haces
+h	0.9296571	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.90787011	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	recomiendame una película
+h	0.90459377	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.81373465	gracias
+a	De nada.
+c	1
+-------------------------------------
+r	adiós
+h	0.7099449	adiós
+a	Hasta luego.
+c	1
+-------------------------------------
+-------------------------------------

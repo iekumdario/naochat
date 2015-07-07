@@ -1,0 +1,48 @@
+-------------------------------------
+-------------------------------------
+r	qué opinión me das sobre el deporte
+h	0.97208673	qué opinión sobre el deporte
+a	Vaya, espero que Jose Quintero me dote de la capacidad para opinar.
+c	1
+-------------------------------------
+r	qué es la geografía
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	quién inventó el facebook
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	quién inventó el facebook
+h	0.88145006	quién inventó el facebook
+a	Eli Whitney inventó la desmotadora de algodón.
+c	1
+-------------------------------------
+r	si
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	a soná de chame
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	dime un concepto general sobre la inteligencia artificial
+h	0.84131491	dime un
+a	¿Qué podría decirte? ¿Cómo?
+c	1
+-------------------------------------
+r	qué es la inteligencia artificial
+h	0.92623359	qué es la inteligencia artificial
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	adiós
+h	0.8397904	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

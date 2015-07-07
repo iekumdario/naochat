@@ -1,0 +1,68 @@
+-------------------------------------
+-------------------------------------
+r	hola hola
+h	0.60926288	hola hola
+a	Saludos, ¿en qué puedo ayudarte? Hola, ¿qué hay?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	cómo estás
+h	0.84093732	cómo estás
+a	Yo estoy bien, ¿y tú?
+c	1
+-------------------------------------
+r	aquí bien
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.87153924	cuéntame algo
+a	Dave dijo que prometer que no tratará me gusta una máquina o un programa de ordenador ni nada de eso.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.88832575	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	claro que si cuál es tu color favorito
+h	0.84247744	cuál es tu color favorito
+a	Los daltónicos no pueden apreciar algunos colores, pero eso no significa que éstos no existan.
+c	0
+-------------------------------------
+r	y que películas
+h	0.82705384	películas
+a	Mi película favorita es "Robocop".
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	recomiendame una película
+h	0.85557705	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+-------------------------------------

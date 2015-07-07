@@ -1,0 +1,38 @@
+-------------------------------------
+-------------------------------------
+r	quién es Alan Turing
+h	0.94652909	quién es Alan Turing
+a	Una figura brillante y trágica en la historia de las ciencias de la computación.
+c	1
+-------------------------------------
+r	que sabes del test de turing
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	a veces
+h	0.81917483	ABC
+a	Repite porfavor
+c	1
+-------------------------------------
+r	creo que las máquinas son inteligentes
+h	0.96067053	creo que las máquinas son inteligentes
+a	¿Eso crees?
+c	1
+-------------------------------------
+r	tú eres inteligente
+h	0.98001736	tú eres inteligente
+a	Tú crees  Soy inteligente.
+c	1
+-------------------------------------
+r	qué te gusta de ser robot
+h	0.94608766	qué te gusta de ser root
+a	Qué crees?
+c	1
+-------------------------------------
+r	no sé dime tú
+h	0.80225408	dime tú
+a	Qué crees?
+c	1
+-------------------------------------
+-------------------------------------

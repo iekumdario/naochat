@@ -1,0 +1,23 @@
+-------------------------------------
+-------------------------------------
+r	cuál es tu país de origen
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	cuál es tu equipo favorito
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	cuál es tu invento favorito
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	yo a mi casa oye
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+-------------------------------------

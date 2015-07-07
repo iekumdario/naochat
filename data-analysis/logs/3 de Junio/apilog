@@ -1,0 +1,302 @@
+
+--[2009-09-17 00:32:03.376177]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"Hola","confidence":0.95918852},{"transcript":"ola"},{"transcript":"hola"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:32:20.239578]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cómo te llamas","confidence":0.97724348},{"transcript":"cómo te llama"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:32:34.313478]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cómo estás","confidence":0.84093755},{"transcript":"como estas"},{"transcript":"como stas"},{"transcript":"como éstas"},{"transcript":"cómo éstas"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:32:49.655244]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"yo estoy bien también","confidence":0.96472108},{"transcript":"yo estoy bien tú estás bien"},{"transcript":"yo estoy bien"},{"transcript":"yo estoy bien tú también"},{"transcript":"yo estoy bien tú"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:33:04.018343]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"qué haces","confidence":0.95290637},{"transcript":"que haces"},{"transcript":"qué hacés"},{"transcript":"qué hace"},{"transcript":"qué hacer"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:33:19.692437]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuéntame algo","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:33:34.907335]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"qué música te gusta","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:33:52.215326]--
+{"result":[]}
+--
+--[2009-09-17 00:34:05.785963]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"a Panamá","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:34:17.518533]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"a Panamá","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:34:29.095757]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"películas te gusta","confidence":0.90136117},{"transcript":"películas te gustan"},{"transcript":"películas de gusta"},{"transcript":"películas de gustar"},{"transcript":"películas de gustan"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:34:41.436643]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu actor favorito","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:34:55.639320]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"recomiendame una película","confidence":0.98146969},{"transcript":"recomiendame una pelicula"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:35:09.726794]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"gracias","confidence":0.98001736},{"transcript":"gracias a"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 00:35:22.468257]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"adiós","confidence":0.9079085},{"transcript":"adios"},{"transcript":"adioz"},{"transcript":"a Dios"},{"transcript":"audios"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:24:57.541085]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"Hola","confidence":0.95748633},{"transcript":"ola"},{"transcript":"hola"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:25:13.295446]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"Cindy y tú","confidence":0.88332731},{"transcript":"Cindy y Tú"},{"transcript":"sindee y tú"},{"transcript":"Cindy ITU"},{"transcript":"Cindy y to"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:26:48.983568]--
+{"result":[]}
+--
+--[2009-09-17 01:27:02.350548]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"hola cómo te llamas","confidence":0.96667922},{"transcript":"hola cómo te llama"},{"transcript":"cómo te llamas"},{"transcript":"hola como te llamas"},{"transcript":"hola cómo te llamas tú"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:27:15.632662]--
+{"result":[]}
+--
+--[2009-09-17 01:27:29.354663]--
+{"result":[]}
+--
+--[2009-09-17 01:27:43.219457]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"qué música te gusta","confidence":0.96928781},{"transcript":"qué música te gustó"},{"transcript":"qué música te gusto"},{"transcript":"música te gusta"},{"transcript":"qué música te gusta a"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:27:56.184938]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"favoritos"},{"transcript":"por favor"},{"transcript":"favorito"},{"transcript":"lancaster favorito"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:28:09.028156]--
+{"result":[]}
+--
+--[2009-09-17 01:28:22.794917]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu actor favorito","confidence":0.96348},{"transcript":"cuál es tu favorito"},{"transcript":"cuál es tu artista favorito"},{"transcript":"cuál es tu actor favorito 2"},{"transcript":"cuál es su favorito"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:28:36.847569]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"qué música te gusta","confidence":0.98001736},{"transcript":"qué música te gusta más"},{"transcript":"qué música te gusta a"},{"transcript":"qué música te gustó"},{"transcript":"qué música te gusta el"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:28:49.737614]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cómo estás","confidence":0.84093702},{"transcript":"como estas"},{"transcript":"como stas"},{"transcript":"como éstas"},{"transcript":"cómo éstas"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:29:03.578468]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuéntame algo","confidence":0.98001736},{"transcript":"cuéntame algo y"},{"transcript":"cuénteme algo y"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:29:18.037840]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"recomiendame una película","confidence":0.98146969},{"transcript":"recomiendame una pelicula"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:29:30.953146]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"adiós","confidence":0.85626781},{"transcript":"adios"},{"transcript":"adioz"},{"transcript":"audios"},{"transcript":"adioooss"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:31:23.488450]--
+{"result":[]}
+--
+--[2009-09-17 01:31:36.657362]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"ITU"},{"transcript":"y tú"},{"transcript":"ictus"},{"transcript":"ytú"},{"transcript":"YouTube"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:31:50.149266]--
+{"result":[]}
+--
+--[2009-09-17 01:32:02.545658]--
+{"result":[]}
+--
+--[2009-09-17 01:32:17.382561]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu película","confidence":0.9187851},{"transcript":"cuál es tu pelicula"},{"transcript":"cuál es su película"},{"transcript":"cual es tu pelicula"},{"transcript":"cuáles su película"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:32:35.587601]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"así es","confidence":0.73374248},{"transcript":"así es mi lap"},{"transcript":"así es mi laptop"},{"transcript":"si es"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:32:47.364381]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu actor favorito","confidence":0.98339641},{"transcript":"cuál es tu actor favorito 1"},{"transcript":"foto favorito"},{"transcript":"favorito"},{"transcript":"Photo favorito"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:33:02.729658]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"y tu música favorita","confidence":0.95846277},{"transcript":"es tu música favorita"},{"transcript":"música favorita"},{"transcript":"is tu música favorita"},{"transcript":"y tu música favorita y"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:33:15.656830]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"adiós","confidence":0.64135247},{"transcript":"avión"},{"transcript":"adios"},{"transcript":"a Dios"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:40:24.259983]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"hola","confidence":0.70950091},{"transcript":"puebla"},{"transcript":"pola"},{"transcript":"ola"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:40:36.804754]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cómo te llamas","confidence":0.96130866},{"transcript":"cómo te llama"},{"transcript":"cómo te llamo"},{"transcript":"1 te llamo"},{"transcript":"humo te llamo"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:40:52.330955]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cómo estás","confidence":0.83129656},{"transcript":"como estas"},{"transcript":"cómo está"},{"transcript":"como ésta"},{"transcript":"como stas"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:41:06.221368]--
+{"result":[]}
+--
+--[2009-09-17 01:41:18.822262]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"el fútbol","confidence":0.77881277},{"transcript":"fútbol"},{"transcript":"football"},{"transcript":"el futbol"},{"transcript":"futbol"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:41:30.832844]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuéntame algo","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:41:45.529509]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"qué música te gusta","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:41:59.127789]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"y qué películas te gustan","confidence":0.96068811},{"transcript":"y qué películas te gusta"},{"transcript":"y qué película te gusta"},{"transcript":"y qué películas te gustan a"},{"transcript":"y qué películas me gustan a"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:42:12.429225]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu color favorito","confidence":0.98401386},{"transcript":"cuál es tu favorito"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:42:28.673823]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu actor favorito","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:42:42.792927]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"recomiendame una película","confidence":0.98147088},{"transcript":"recomiendame una pelicula"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:42:56.725384]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"gracias","confidence":0.94061738},{"transcript":"gracia"},{"transcript":"gracias a"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:43:10.039749]--
+{"result":[]}
+--
+--[2009-09-17 01:47:13.102190]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"Hola","confidence":0.95210308},{"transcript":"ola"},{"transcript":"ONLAE"},{"transcript":"hola"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 01:47:24.155694]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cómo estás","confidence":0.84093755},{"transcript":"como estas"},{"transcript":"como stas"},{"transcript":"como éstas"},{"transcript":"cómo éstas"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:13:06.526015]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"hola cómo estás","confidence":0.67319995},{"transcript":"Hola"},{"transcript":"hola como estas"},{"transcript":"Hola como stas"},{"transcript":"Hola como estas"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:13:25.793028]--
+{"result":[]}
+--
+--[2009-09-17 02:13:42.380140]--
+{"result":[]}
+--
+--[2009-09-17 02:13:55.453861]--
+{"result":[]}
+--
+--[2009-09-17 02:14:11.347377]--
+{"result":[]}
+--
+--[2009-09-17 02:14:24.206414]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"qué haces","confidence":0.76933253},{"transcript":"ke ase"},{"transcript":"qué hacer"},{"transcript":"qué hace"},{"transcript":"que haces"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:14:39.446554]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"llamas"},{"transcript":"llama"},{"transcript":"llamar"},{"transcript":"Llamas"},{"transcript":"ya más"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:14:53.447932]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuéntame algo","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:15:11.289270]--
+{"result":[]}
+--
+--[2009-09-17 02:15:26.290035]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"música te gusta","confidence":0.98001736},{"transcript":"música te gusta a"},{"transcript":"música de gusta a"},{"transcript":"musicade gusta a"},{"transcript":"música d gusta a"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:15:58.991917]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"películas","confidence":0.83964676},{"transcript":"película"},{"transcript":"peliculas"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:16:17.030005]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu actor favorito","confidence":0.98001736},{"transcript":"cuál es tu color favorito"},{"transcript":"cuál es tu actor favorito y"},{"transcript":"cuál es tu color favorito y"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:16:39.709778]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"una película"},{"transcript":"películas"},{"transcript":"miel dame una película"},{"transcript":"miel de una película"},{"transcript":"mierda de película"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:17:16.790583]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"adiós","confidence":0.79367107},{"transcript":"adios"},{"transcript":"a dios"},{"transcript":"avíos"},{"transcript":"audios"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:19:22.789950]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"deporte te gusta","confidence":0.97050732},{"transcript":"deporte te gustan"},{"transcript":"deporte te guste"},{"transcript":"deportes te gustan"},{"transcript":"reporte te gustan"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:20:25.529536]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu deporte favorito","confidence":0.93554485},{"transcript":"tu deporte favorito"},{"transcript":"cuál es tu deporte favorito y"},{"transcript":"tu deporte favorito y"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:20:39.700779]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"geografía te gusta"},{"transcript":"geografia te gusta"},{"transcript":"jeografía te gusta"},{"transcript":"geografías te gusta"},{"transcript":"qué jeografía te gusta"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:20:55.132205]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"dime algún invento innova","confidence":0.94067383},{"transcript":"dime algún invento de Innova"},{"transcript":"dime algún invento Innobo"},{"transcript":"dime algún invento Innova"},{"transcript":"dime algún invento de hinojo"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:21:09.894124]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"inteligencia artificial","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:21:25.908232]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"un robot es inteligente"},{"transcript":"robot es inteligente"},{"transcript":"robot eres inteligente"},{"transcript":"un robot eres inteligente"},{"transcript":"el robot es inteligente"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:21:39.677749]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál es tu color favorito","confidence":0.98001736}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:21:53.513186]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuántos años tienes tú","confidence":0.97779751},{"transcript":"cuantos años tienes tú"},{"transcript":"cuántos años tienes tu"},{"transcript":"a cuántos años tienes tú"},{"transcript":"a cuantos años tienes tú"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:22:07.814843]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"qué deporte prácticas","confidence":0.97666401},{"transcript":"qué deporte practicar"},{"transcript":"qué deporte práctica"},{"transcript":"que deporte practicar"},{"transcript":"qué deportes práctica"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:22:19.620485]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"cuál país te gusta","confidence":0.96727705},{"transcript":"cuál país te gustan"},{"transcript":"cuál país te guste"},{"transcript":"el país te gusta"},{"transcript":"cuál País te gusta"}],"final":true}],"result_index":0}
+--
+--[2009-09-17 02:22:32.790257]--
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"adiós","confidence":0.61338973},{"transcript":"radios"},{"transcript":"adios"},{"transcript":"audios"}],"final":true}],"result_index":0}
+--

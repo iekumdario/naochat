@@ -1,0 +1,19 @@
+2	cómo te llamas		15	-1	Cuentame una historia.	0
+3	cómo estás		12	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+7	y películas		12	-1	¿Cúal es tu actor favorito?	0
+5	si		2	-1	¿Dónde fuiste de vacaciones la última vez?	0
+6	fui a la playa		14	-1	¿Cuál es tu deporte favorito?	0
+4	quién es el presidente de Panamá	cine presidente de Panamá	9	0.49944511	"Mi película favorita es ""Terminator""."	0
+10	adiós	adiós	0	0.7099449	Hasta luego.	1
+9	gracias	gracias	0	0.81373465	De nada.	1
+1	háblame del fútbol	háblame del fútbol	0	0.82211381	No sé cómo jugar fútbol.	1
+8	fútbol	fútbol	0	0.83179921	No entiendo.	0
+7	fútbol	fútbol	0	0.84175807	¿Que dijiste?	1
+4	cómo estás	cómo estás	0	0.85047686	"Muy bien, ¿en qué puedo ayudarte?"	1
+8	recomiendame una película	recomiendame una película	0	0.90459377	Mi película favorita es Robocop. La has visto?	1
+6	qué música te gusta	qué música te gusta	0	0.90787011	Me encantan las canciones de Daft Punk.	1
+5	qué haces	qué haces	0	0.9296571	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.	1
+2	donde está ubicado Francia	donde está ubicado Francia	0	0.94641614	¿Cómo?	1
+1	Hola	Hola	0	0.95918852	¿Qué tal?	1
+3	quién inventó la computadora	quién inventó la computadora	0	0.97472274	"Muchas personas han contribuido a ello. Pero debe darsele el credito a Steve Wozniak, quien creó un PC asequible integrada a la plataforma de Apple I."	1
+			0.692307692	0.845516999		0.846153846

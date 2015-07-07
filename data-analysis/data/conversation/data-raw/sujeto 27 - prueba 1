@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.74998927	Hola
+a	Saludos, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.89574289	cómo te llamas
+a	Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.84228373	cómo estás
+a	Yo estoy bien, ¿qué tal tú?
+c	1
+-------------------------------------
+r	qué haces
+h	0.82213259	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	qué música te gusta
+h	0.79356265	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	y películas
+h	0.71016598	ipeliculas
+a	Repite porfavor
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Jude Law en "AI".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.80178136	gracias
+a	De nada.
+c	1
+-------------------------------------
+r	adiós
+h	0.82383704	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

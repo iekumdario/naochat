@@ -1,0 +1,68 @@
+-------------------------------------
+-------------------------------------
+r	Hola hola
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.98118323	cómo te llamas
+a	Nao, ¿y tú?
+c	1
+-------------------------------------
+r	Maybelline
+h	0.95049375	Maybelline
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	qué haces
+h	0.865767	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.85006285	cuéntame algo
+a	Charlie dijo que escriba una palabra y luego escriba una palabra que suena como él.
+c	1
+-------------------------------------
+r	que música te gusta
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	que música te gusta
+h	0.95312053	música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Rutger Hauer en "Blade Runner".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.86857915	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.81153274	gracias
+a	De nada.
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+-------------------------------------

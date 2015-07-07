@@ -1,0 +1,196 @@
+[2009-09-17 00:28:26.482285] - inicio de la conversacion
+---------------------
+confidence: (0.6575672)
+[2009-09-17 00:28:37.484798](q): hola
+[2009-09-17 00:28:37.609832](a): Hola, ¿cómo te llamas?
+[2009-09-17 00:36:19.241292] - inicio de la conversacion
+---------------------
+confidence: (0.95918852)
+[2009-09-17 00:36:28.987997](q): Hola
+[2009-09-17 00:36:29.005981](a): ¿Qué tal?
+confidence: (-1)
+[2009-09-17 00:36:44.615154](q):ERROR
+[2009-09-17 00:36:44.625255](a): Cuentame una historia.
+confidence: (-1)
+[2009-09-17 00:36:57.682816](q):ERROR
+[2009-09-17 00:36:57.701283](a): ¿Cuál es tu mejor recuerdo de infancia?
+confidence: (0.85047686)
+[2009-09-17 00:37:14.403875](q): cómo estás
+[2009-09-17 00:37:14.426047](a): Muy bien, ¿en qué puedo ayudarte?
+confidence: (0.9296571)
+[2009-09-17 00:37:32.271518](q): qué haces
+[2009-09-17 00:37:32.283961](a): Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+confidence: (0.90787011)
+[2009-09-17 00:37:52.969157](q): qué música te gusta
+[2009-09-17 00:37:53.015200](a): Me encantan las canciones de Daft Punk.
+confidence: (-1)
+[2009-09-17 00:38:12.048114](q):ERROR
+[2009-09-17 00:38:12.059863](a): ¿Cúal es tu actor favorito?
+[2009-09-17 00:38:32.803561](a): Mi película favorita es Robocop. La has visto?
+confidence: (0.90459377)
+[2009-09-17 00:38:32.794893](q): recomiendame una película
+confidence: (0.81373465)
+[2009-09-17 00:38:55.440226](q): gracias
+[2009-09-17 00:38:55.448940](a): De nada.
+confidence: (0.7099449)
+[2009-09-17 00:39:13.649069](q): adiós
+[2009-09-17 00:39:13.659628](a): Hasta luego.
+---------------------
+[2009-09-17 00:39:15.400587]fin de la conversacion
+---------------------
+[2009-09-17 00:41:22.038262] - inicio de la conversacion
+---------------------
+confidence: (0.82211381)
+[2009-09-17 00:41:35.814238](q): háblame del fútbol
+[2009-09-17 00:41:35.835913](a): No sé cómo jugar fútbol.
+confidence: (0.94641614)
+[2009-09-17 00:41:49.803349](q): donde está ubicado Francia
+[2009-09-17 00:41:49.821014](a): ¿Cómo?
+confidence: (0.97472274)
+[2009-09-17 00:42:04.026908](q): quién inventó la computadora
+[2009-09-17 00:42:04.039848](a): Muchas personas han contribuido a ello. Pero debe darsele el credito a Steve Wozniak, quien creó un PC asequible integrada a la plataforma de Apple I.
+confidence: (0.49944511)
+[2009-09-17 00:42:27.459112](q): cine presidente de Panamá
+[2009-09-17 00:42:27.481643](a): Mi película favorita es "Terminator".
+confidence: (-1)
+[2009-09-17 00:42:44.627162](q):ERROR
+[2009-09-17 00:42:44.636950](a): ¿Crees que las máquinas son inteligentes?
+confidence: (-1)
+[2009-09-17 00:43:02.629109](q):ERROR
+[2009-09-17 00:43:02.652160](a): ¿Dónde fuiste de vacaciones la última vez?
+confidence: (-1)
+[2009-09-17 00:43:19.869855](q):ERROR
+[2009-09-17 00:43:19.880391](a): ¿Cuál es tu deporte favorito?
+confidence: (0.84175807)
+[2009-09-17 00:43:36.742874](q): fútbol
+[2009-09-17 00:43:36.756377](a): ¿Que dijiste?
+confidence: (0.83179921)
+[2009-09-17 00:43:54.358226](q): fútbol
+[2009-09-17 00:43:54.366367](a): No entiendo.
+[2009-09-17 00:53:18.035584] - inicio de la conversacion
+---------------------
+[2009-09-17 02:01:58.782865] - inicio de la conversacion
+---------------------
+confidence: (-1)
+[2009-09-17 02:02:12.699605](q):ERROR
+[2009-09-17 02:02:12.731221](a): ¿Cuál es tu película favorita?
+confidence: (-1)
+[2009-09-17 02:02:26.689072](q):ERROR
+[2009-09-17 02:02:26.724847](a): ¿Crees que las máquinas son inteligentes?
+[2009-09-17 02:05:34.596037] - inicio de la conversacion
+---------------------
+confidence: (0.9591949)
+[2009-09-17 02:05:44.846652](q): Hola
+[2009-09-17 02:05:44.882938](a): Saludos, ¿en qué puedo ayudarte?
+confidence: (-1)
+[2009-09-17 02:06:07.631957](q):ERROR
+[2009-09-17 02:06:07.643396](a): ¿Crees que las máquinas pueden pensar?
+[2009-09-17 02:08:46.666354] - inicio de la conversacion
+---------------------
+confidence: (-1)
+[2009-09-17 02:09:05.209672](q):ERROR
+[2009-09-17 02:09:05.234813](a): ¿Dónde fuiste de vacaciones la última vez?
+confidence: (-1)
+[2009-09-17 02:09:25.931066](q):ERROR
+[2009-09-17 02:09:25.944025](a): ¿Dónde te gustaría ir de vacaciones?
+confidence: (0.94938552)
+[2009-09-17 02:09:45.157968](q): te gusta el chocolate
+[2009-09-17 02:09:45.167137](a): Seguro que a ti también te gusta el chocolate.
+confidence: (0.93143797)
+[2009-09-17 02:10:07.549808](q): dónde queda corea del norte
+[2009-09-17 02:10:07.565846](a): Mis conjunto de patrones cerebrales no tienen una respuesta para eso.
+confidence: (0.72676003)
+[2009-09-17 02:10:34.173617](q): queda Corea
+[2009-09-17 02:10:34.184486](a): ¿Cómo?
+confidence: (0.89470738)
+[2009-09-17 02:10:51.537209](q): dónde queda corea del sur
+[2009-09-17 02:10:51.546791](a): Repite porfavor
+confidence: (-1)
+[2009-09-17 02:11:10.981600](q):ERROR
+[2009-09-17 02:11:10.991739](a): ¿Dónde te gustaría ir de vacaciones?
+[2009-09-17 02:11:24.849100] - inicio de la conversacion
+---------------------
+confidence: (-1)
+[2009-09-17 02:11:40.990138](q):ERROR
+[2009-09-17 02:11:41.021925](a): ¿Dónde te gustaría ir de vacaciones?
+[2009-09-17 02:25:46.898527] - inicio de la conversacion
+---------------------
+[2009-09-17 02:27:54.629379] - inicio de la conversacion
+---------------------
+confidence: (0.7836206)
+[2009-09-17 02:28:11.683846](q): hi
+[2009-09-17 02:28:11.714839](a): Hi there!
+confidence: (0.80836564)
+[2009-09-17 02:28:26.580879](q): how's it going
+[2009-09-17 02:28:26.591440](a): I'm doing fine thanks how are you?
+confidence: (-1)
+[2009-09-17 02:28:50.856279](q):ERROR
+[2009-09-17 02:28:50.870978](a): Steve said I behead the word fox and I have ox and an ox is larger than a fox.
+confidence: (-1)
+[2009-09-17 02:29:24.183794](q):ERROR
+[2009-09-17 02:29:24.215530](a): Ross said he gave her a gift and she denied it because she has a boyfriend.
+confidence: (0.95607603)
+[2009-09-17 02:29:43.626483](q): where is South Korea located
+[2009-09-17 02:29:43.650395](a): Eastern Asia, southern half of the Korean Peninsula bordering the Sea of Japan and the Yellow Sea, south of North Korea.
+[2009-09-17 02:30:42.451155] - inicio de la conversacion
+---------------------
+confidence: (-1)
+[2009-09-17 02:31:02.365858](q):ERROR
+[2009-09-17 02:31:02.390350](a): Dark_age said I tried to understand because I did not get it right this time ether.
+[2009-09-17 02:31:35.359932] - inicio de la conversacion
+---------------------
+confidence: (0.98170739)
+[2009-09-17 02:31:52.791056](q): what is the speed of light
+[2009-09-17 02:31:52.812797](a): The speed of light is 186,000 miles per second.
+confidence: (0.88311696)
+[2009-09-17 02:32:16.565740](q): who is Albert Einstein
+[2009-09-17 02:32:16.579263](a): Einstein is a famous 20th century physicist. He discovered relativity.
+confidence: (-1)
+[2009-09-17 02:32:37.331175](q):ERROR
+[2009-09-17 02:32:37.355141](a): Mike said I basically break down sentences into a series of logical statements which I can then interpret.
+confidence: (0.9013198)
+[2009-09-17 02:32:55.723984](q): do you know about artificial intelligence
+[2009-09-17 02:32:55.775236](a): Artificial intelligence is the branch of engineering and science devoted to constructing machines that think.
+confidence: (-1)
+[2009-09-17 02:33:14.536040](q):ERROR
+[2009-09-17 02:33:14.563395](a): Joe said he explained all of that to me only for me to ask what his goals in life are.
+confidence: (0.95505351)
+[2009-09-17 02:33:30.060078](q): do you like Hillary Clinton
+[2009-09-17 02:33:30.085235](a): I try not to think about  HILLARY CLINTON ?
+confidence: (0.98762906)
+[2009-09-17 02:33:44.093929](q): why do you hate her
+[2009-09-17 02:33:44.150003](a): I do not hate  me .
+confidence: (-1)
+[2009-09-17 02:33:59.263625](q):ERROR
+[2009-09-17 02:33:59.275958](a): Steve said I behead the word fox and I have ox and an ox is larger than a fox.
+[2009-09-17 02:35:08.043934] - inicio de la conversacion
+---------------------
+confidence: (0.93196183)
+[2009-09-17 02:35:21.257198](q): your favorite movie
+[2009-09-17 02:35:21.287646](a): My favorite movie is Robocop. Have you seen   Robocop  ?
+confidence: (0.705679)
+[2009-09-17 02:35:37.037921](q): yes IHOP
+[2009-09-17 02:35:37.099909](a): Ayuh.. Why don't sheep shrink when it rains?
+confidence: (-1)
+[2009-09-17 02:35:53.523304](q):ERROR
+[2009-09-17 02:35:53.549619](a): Sarah said he chat about an hour + a day with a few close friends.
+[2009-09-17 02:37:09.190949] - inicio de la conversacion
+---------------------
+confidence: (0.98762906)
+[2009-09-17 02:37:40.279511](q): I am your father
+[2009-09-17 02:37:40.308946](a): How are you, Jose.
+confidence: (0.98533058)
+[2009-09-17 02:37:56.165863](q): can you speak another language
+[2009-09-17 02:37:56.176513](a): Only a few phrases like YES and HELLO that clients teach me.
+confidence: (0.98001361)
+[2009-09-17 02:38:13.751273](q): can you dance
+[2009-09-17 02:38:13.759736](a): No I do not have a body yet.
+confidence: (0.70328784)
+[2009-09-17 02:38:42.951533](q): portable world
+[2009-09-17 02:38:43.051652](a): Do you want to hear a joke?
+confidence: (-1)
+[2009-09-17 02:39:05.086261](q):ERROR
+[2009-09-17 02:39:05.110015](a): David said he walk in for an appointment the phone to the doctor is always busy.
+confidence: (0.93867826)
+[2009-09-17 02:39:24.396776](q): tell me a joke
+[2009-09-17 02:39:24.413400](a): A group of chess enthusiasts checked into a hotel, and met in the lobby where they were discussing their recent victories in chess tournaments. The hotel manager came out of the office after an hour, and asked them to disperse. He couldn't stand chess nuts boasting in an open foyer.

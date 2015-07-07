@@ -1,0 +1,43 @@
+-------------------------------------
+-------------------------------------
+r	mencióname dos deportes
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	mencióname dos deportes
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	dónde queda Canadá
+h	0.9622798	dónde queda Canadá
+a	Canadá es una nación enorme que ocupa gran parte del continente norteamericano.
+c	1
+-------------------------------------
+r	quién inventó el celular
+h	0.98001736	quién inventó el celular
+a	David Bacon. :-)
+c	1
+-------------------------------------
+r	que es inteligencia artificial
+h	0.97415829	que es inteligencia artificial
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	quién fue alf
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	quién fue alf
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	adiós
+h	0.88586175	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

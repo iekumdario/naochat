@@ -1,0 +1,10 @@
+1	cuál es tu jugador de béisbol favorito	cuál es tu jugador favorito	12	0.94740868	Me estás preguntando sobre mi jugador favorito ?	1
+2	correcto	correcto	0	0.80163819	No he escuchado bien, podrias repetir lo que haz dicho.	0
+3	cual es tu jugador favorito		27	-1	¿Cuál es tu color favorito?	0
+4	rojo	robo	1	0.74152386	¿Que dijiste?	0
+5	rojo		4	-1	¿Cúal es tu actriz favorita?	0
+6	me gusta ver mucho under the dome		33	-1	Cuentame una historia.	0
+7	donde está ubicado el monte Everest	donde está ubicado el monte Everest	0	0.98090786	El ubicado el monte Everest? No sé, dónde está ubicado el monte Everest?	1
+8	quién inventó la electricidad	quién inventó la electricidad	0	0.98001736	Thomas Edison.	1
+9	que es inteligencia artificial		30	-1	¿Crees que hay vida después de la muerte?	0
+10	adiós	adiós	0	0.67619991	Espero haber sido de ayuda.	1

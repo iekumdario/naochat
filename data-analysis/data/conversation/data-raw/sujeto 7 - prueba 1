@@ -1,0 +1,103 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.95918983	Hola
+a	Saludos, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	como estás
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	como te llamas
+h	0.88595223	se llama
+a	¿Cómo?
+c	1
+-------------------------------------
+r	que haces
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	Keanu Reeves
+h	0.85822678	Keanu Reeves
+a	Repite porfavor
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.96573704	cómo te llamas
+a	Me llamo Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.84093773	cómo estás
+a	Yo estoy bien, ¿qué tal tú?
+c	1
+-------------------------------------
+r	qué haces
+h	0.93604219	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Crystal dijo que me escucha lo menos que podía hacer por él es escuchar a él.
+c	1
+-------------------------------------
+r	que música te gusta
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	a su manera
+h	0.98001736	a su manera
+a	Repite porfavor
+c	1
+-------------------------------------
+r	a su manera
+h	0.89154106	asu manera
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	que música te gusta
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	a Hawaii
+h	0.86624306	Hawaii
+a	Repite porfavor
+c	1
+-------------------------------------
+r	y peliculas
+h	0.6847254	ipeliculas
+a	Repite porfavor
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Robin Williams en "El Hombre Bicentenario".
+c	1
+-------------------------------------
+r	recomiendame una pelicula
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	adiós
+h	0.92200613	adiós
+a	Espero verte de nuevo.
+c	1
+-------------------------------------
+-------------------------------------

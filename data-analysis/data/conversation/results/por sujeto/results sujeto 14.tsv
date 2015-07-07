@@ -1,0 +1,25 @@
+1	Hola	Hola	0	0.85728753	Buenas.	1
+2	cómo te llamas	cómo te llamas	0	0.95677954	Me llamo Nao.	1
+3	como estás		11	-1	¿Cuál es tu película favorita?	0
+4	que haces		9	-1	¿Cúal es tu actor favorito?	0
+5	cuéntame algo		14	-1	¿Cuál es tu película favorita?	0
+6	qué música te gusta	te gustó	15	0.8193233	¿Cómo?	0
+7	qué música te gusta	qué música te gusta	0	0.94939739	Me encantan las canciones de Daft Punk.	1
+8	y películas	películas	2	0.96163762	"Mi película favorita es ""El Hombre Bicentenario""."	1
+9	cuál es tu actor favorito		26	-1	¿Dónde te gustaría ir de vacaciones?	0
+10	recomiéndame una película		27	-1	¿Crees que las máquinas son inteligentes?	0
+11	gracias		7	-1	"Cuentame, ¿Que hay de nuevo?"	0
+12	adiós	adiós	0	0.89834362	Hasta luego.	1
+1	que deporte te gusta		20	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+2	ninguno	ninguno	0	0.93174458	¿Nada de nada?	1
+3	y el tuyo cuál es	YouTube cuál es	8	0.9808982	"No he escuchado bien, podrias repetir lo que haz dicho."	1
+4	el tuyo cuál es	cuál es	8	0.98001736	"El primero  uno, creo."	0
+5	te gusta jugar béisbol	te gusta jugar	9	0.963552	"A ti también te debe gustar, ¿no?"	1
+6	si		2	-1	¿Crees que las máquinas pueden pensar?	0
+7	no	mu	2	0.68024641	¿Cómo?	0
+8	qué opinas del fútbol	qué opinas del fútbol	0	0.96129453	Yo no opino.	1
+9	entonces qué haces	entonces qué haces	0	0.88861626	Interesante deducción.  Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.	1
+10	no quiero tu servicio	no quiero tu servicio	0	0.86090779	¿Realmente quieres eso?	1
+11	si		2	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+12	adiós	adiós	0	0.80309802	Espero verte de nuevo.	1
+			6.75	0.18721434		0.5

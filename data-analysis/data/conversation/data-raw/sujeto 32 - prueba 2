@@ -1,0 +1,43 @@
+-------------------------------------
+-------------------------------------
+r	háblame del fútbol
+h	0.82211381	háblame del fútbol
+a	No sé cómo jugar fútbol.
+c	1
+-------------------------------------
+r	donde está ubicado Francia
+h	0.94641614	donde está ubicado Francia
+a	¿Cómo?
+c	1
+-------------------------------------
+r	quién inventó la computadora
+h	0.97472274	quién inventó la computadora
+a	Muchas personas han contribuido a ello. Pero debe darsele el credito a Steve Wozniak, quien creó un PC asequible integrada a la plataforma de Apple I.
+c	1
+-------------------------------------
+r	quién es el presidente de Panamá
+h	0.49944511	cine presidente de Panamá
+a	Mi película favorita es "Terminator".
+c	0
+-------------------------------------
+r	si
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	fui a la playa
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	fútbol
+h	0.84175807	fútbol
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	fútbol
+h	0.83179921	fútbol
+a	No entiendo.
+c	0
+-------------------------------------
+-------------------------------------

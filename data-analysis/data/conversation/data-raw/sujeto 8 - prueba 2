@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	te gusta el deporte
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	no
+h	0.78489035	no
+a	¿Por qué tan negativo?
+c	1
+-------------------------------------
+r	ves béisbol
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	negro y tú
+h	0.9012779	negro YouTube
+a	¿Sabías que los esquimales pueden diferenciar hasta 12 tonos distintos de blancos?
+c	1
+-------------------------------------
+r	ves béisbol
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	juegas béisbol
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	play ball
+h	0.72333306	play ball
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	play ball
+h	0.75335872	play bool
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	juegas basketball basketball
+h	0.6482926	juega basquetbol basketball
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	fútbol
+h	0.41618392	Wolf
+a	Lo que dijiste es o muy complejo o muy simple para mi.
+c	1
+-------------------------------------
+r	fútbol
+h	0.83174777	fútbol
+a	¿Que dijiste?
+c	1
+-------------------------------------
+-------------------------------------

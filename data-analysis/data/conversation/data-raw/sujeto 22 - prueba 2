@@ -1,0 +1,48 @@
+-------------------------------------
+-------------------------------------
+r	cual es tu equipo favorito
+h	0.79164016	favorito
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	cuál es tu comida favorita
+h	0.87892836	cuál es tu comida favorita
+a	Me estás preguntando sobre mi comida favorita ?
+c	1
+-------------------------------------
+r	dónde se encuentra china
+h	0.91645801	dónde se encuentra china
+a	Alguna ubicación específica
+c	0
+-------------------------------------
+r	quién inventó la computadora
+h	0.79943955	quién inventó la computadora
+a	Muchas personas han contribuido a ello. Pero debe darsele el credito a Steve Wozniak, quien creó un PC asequible integrada a la plataforma de Apple I.
+c	1
+-------------------------------------
+r	quién inventó whatsapp
+h	0.85435319	quién inventó whatsapp
+a	Linus Torvalds
+c	1
+-------------------------------------
+r	dónde se encuentra Estados Unidos
+h	0.95809019	dónde se encuentra Estados Unidos
+a	Dónde crees
+c	1
+-------------------------------------
+r	conoces a Shakira
+h	0.88549751	conoces a Shakira
+a	No lo conozco.
+c	1
+-------------------------------------
+r	conoces a Prince Royce
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	adiós
+h	0.83996052	adiós
+a	Espero verte de nuevo.
+c	1
+-------------------------------------
+-------------------------------------

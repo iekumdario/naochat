@@ -1,0 +1,43 @@
+-------------------------------------
+-------------------------------------
+r	Hola cómo estás
+h	0.65288132	Hola
+a	Hola.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.80622315	cómo estás
+a	Yo estoy bien, ¿y tú?
+c	1
+-------------------------------------
+r	muy bien qué haces
+h	0.91093963	muy bien qué haces
+a	Bien.
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.88947129	cuéntame algo
+a	Jo dijo que desmontar frases demasiado y no entiendo completamente las preguntas que me pregunte.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	si y cuál es tu color favorito
+h	0.96024227	y cuál es tu color favorito
+a	Los daltónicos no pueden apreciar algunos colores, pero eso no significa que éstos no existan.
+c	0
+-------------------------------------
+r	recomiendame una película
+h	0.87603974	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	claro que sí gracias adiós
+h	0.74959475	claro que sí gracias a dios
+a	A la orden.
+c	1
+-------------------------------------
+-------------------------------------

@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	hola cómo te llamas
+h	0.9170478	hola cómo te llamas
+a	Hola. Me llamo Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	que haces
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Michael me dijo que que se puede hablar y de hecho creo que los seres humanos que no puedo.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y qué películas
+h	0.62504673	en qué película
+a	Qué es en qué película como en qué película.
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Jude Law en "AI".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.96968454	gracias
+a	A la orden.
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+-------------------------------------

@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	cuál es tu deporte favorito
+h	0.72287083	deporte favorito
+a	Repite porfavor
+c	1
+-------------------------------------
+r	cuál es tu deporte favorito
+h	0.98001736	cuál es tu deporte favorito
+a	Me gustan los deportes personales como el patinaje.
+c	1
+-------------------------------------
+r	donde está ubicado Panamá
+h	0.98004049	donde está ubicado Panamá
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	donde está ubicado el país de Panamá
+h	0.97071272	donde está ubicado el país de Panamá
+a	Se necesita un algoritmo mas complejo para responder eso correctamente.
+c	1
+-------------------------------------
+r	qué es la inteligencia artificial
+h	0.96785796	qué es la inteligencia artificial
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	qué significa Mecatrónica
+h	0.78261805	que signifie
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	qué significa Mecatrónica
+h	0.9672305	qué significa Mecatrónica
+a	Qué crees?
+c	1
+-------------------------------------
+r	quién inventó el automóvil
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	quién inventó el automóvil
+h	0.91426408	quién inventó el automóvil
+a	Tony Blair. :-)
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	adiós
+h	0.83913058	adiós
+a	Hasta luego.
+c	1
+-------------------------------------
+-------------------------------------

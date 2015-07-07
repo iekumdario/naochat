@@ -1,0 +1,33 @@
+-------------------------------------
+-------------------------------------
+r	juegas algun deporte
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	has visitado otro país
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	quién es tu dueño
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	no
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	quién inventó el auto
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	quién inventó la mochila
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+-------------------------------------

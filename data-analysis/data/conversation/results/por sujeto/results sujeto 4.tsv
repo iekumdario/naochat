@@ -1,0 +1,29 @@
+1	hola como te llamas		19	-1	¿Cuál es tu deporte favorito?	0
+2	hola		4	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+3	hola	hola	0	0.81658518	"Saludos, ¿en qué puedo ayudarte?"	1
+4	cómo te llamas		15	-1	¿Crees que las máquinas son inteligentes?	0
+5	cómo te llamas	cómo te llamas	0	0.96731949	Me llamo Nao.	1
+6	cómo estás	cómo estás	0	0.84093726	"Yo estoy bien, ¿y tú?"	1
+7	también que haces	también	10	0.88739014	Mira que bien.	1
+8	Cuéntame algo	Cuéntame	5	0.95561963	¿Cómo?	1
+9	qué música te gusta		21	-1	¿Dónde te gustaría ir de vacaciones?	0
+10	a Playa Blanca	a Playa Blanca	0	0.92672426	"No he escuchado bien, podrias repetir lo que haz dicho."	1
+11	qué música te gusta	qué música te gusta	0	0.98001736	Me encantan las canciones de Daft Punk.	1
+12	y peliculas		11	-1	¿Dónde fuiste de vacaciones la última vez?	0
+13	me quede en mi casa		19	-1	¿Cuál es tu película favorita?	0
+14	no recuerdo		11	-1	¿Dónde fuiste de vacaciones la última vez?	0
+15	cuál es tu actor favorito	cuál es tu actor favorito	0	0.98001736	"Mi actor favorito es Jude Law en ""AI""."	1
+16	recomiendame una película	recomiendame una película	0	0.98146969	Mi película favorita es Robocop. La has visto?	1
+17	si gracias	gracias	3	0.77263898	De nada.	1
+1	cuál es tu deporte favorito	deporte favorito	12	0.72287083	Repite porfavor	1
+2	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+3	donde está ubicado Panamá	donde está ubicado Panamá	0	0.98004049	"No he escuchado bien, podrias repetir lo que haz dicho."	1
+4	donde está ubicado el país de Panamá	donde está ubicado el país de Panamá	0	0.97071272	Se necesita un algoritmo mas complejo para responder eso correctamente.	1
+5	qué es la inteligencia artificial	qué es la inteligencia artificial	0	0.96785796	¿Acaso crees que soy una enciclopedia viviente?	1
+6	qué significa Mecatrónica	que signifie	16	0.78261805	¿Que dijiste?	1
+7	qué significa Mecatrónica	qué significa Mecatrónica	0	0.9672305	Qué crees?	1
+8	quién inventó el automóvil		29	-1	¿Crees que hay vida después de la muerte?	0
+9	quién inventó el automóvil	quién inventó el automóvil	0	0.91426408	Tony Blair. :-)	1
+10	adiós		6	-1	¿Cúal es tu actor favorito?	0
+11	adiós	adiós	0	0.83913058	Hasta luego.	1
+			6.464285714	0.294052211		0.678571429

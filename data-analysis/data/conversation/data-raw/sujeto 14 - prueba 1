@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.85728753	Hola
+a	Buenas.
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.95677954	cómo te llamas
+a	Me llamo Nao.
+c	1
+-------------------------------------
+r	como estás
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	que haces
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	qué música te gusta
+h	0.8193233	te gustó
+a	¿Cómo?
+c	0
+-------------------------------------
+r	qué música te gusta
+h	0.94939739	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y películas
+h	0.96163762	películas
+a	Mi película favorita es "El Hombre Bicentenario".
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	recomiéndame una película
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	gracias
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	adiós
+h	0.89834362	adiós
+a	Hasta luego.
+c	1
+-------------------------------------
+-------------------------------------

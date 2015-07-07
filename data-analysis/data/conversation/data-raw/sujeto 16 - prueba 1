@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	hola
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	como te llamas
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	qué musica te gusta
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	y películas
+h	0.86481392	ipeliculas
+a	¿Cómo?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98087358	cuál es tu color favorito
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	recomiéndame una película
+h	0.84822637	película
+a	Mi película favorita es "Robocop".
+c	1
+-------------------------------------
+r	gracias
+h	0.96156687	gracias
+a	A la orden.
+c	1
+-------------------------------------
+-------------------------------------

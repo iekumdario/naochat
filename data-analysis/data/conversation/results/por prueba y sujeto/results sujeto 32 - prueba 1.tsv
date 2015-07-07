@@ -1,0 +1,10 @@
+1	Hola	Hola	0	0.95918852	¿Qué tal?	1
+2	cómo te llamas		15	-1	Cuentame una historia.	0
+3	cómo estás		12	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+4	cómo estás	cómo estás	0	0.85047686	Muy bien, ¿en qué puedo ayudarte?	1
+5	qué haces	qué haces	0	0.9296571	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.	1
+6	qué música te gusta	qué música te gusta	0	0.90787011	Me encantan las canciones de Daft Punk.	1
+7	y películas		12	-1	¿Cúal es tu actor favorito?	0
+8	recomiendame una película	recomiendame una película	0	0.90459377	Mi película favorita es Robocop. La has visto?	1
+9	gracias	gracias	0	0.81373465	De nada.	1
+10	adiós	adiós	0	0.7099449	Hasta luego.	1

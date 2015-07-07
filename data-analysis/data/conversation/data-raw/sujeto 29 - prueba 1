@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	hola
+h	0.81434357	hola
+a	¿Qué tal?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	cómo estás
+h	0.84093726	cómo estás
+a	Muy bien, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.79617023	cuéntame algo
+a	Knight dijo que estrelló su coche contra un muro y se perdió el examen más importante de su vida.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	qué películas te gustan
+h	0.79285246	películas te gusta
+a	Mi película favorita es "Terminator".
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.97837865	cuál es tu actor favorito
+a	Mi actor favorito es Arnold Schwarzenegger en "Terminator".
+c	1
+-------------------------------------
+r	recomiéndame una película
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	gracias
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+-------------------------------------

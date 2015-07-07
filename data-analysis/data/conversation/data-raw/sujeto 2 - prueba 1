@@ -1,0 +1,68 @@
+-------------------------------------
+-------------------------------------
+r	hola
+h	0.70950091	hola
+a	Hola.
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.96130866	cómo te llamas
+a	Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.83129656	cómo estás
+a	Encantado para ayudarte en todo lo que pueda.
+c	1
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	el fútbol
+h	0.77881277	el fútbol
+a	Eso es un hecho
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Electra dijo que me visto no existirá después de cortar en I con un código de borrado.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y qué películas te gustan
+h	0.96068811	y qué películas te gustan
+a	Mi película favorita es "Blade Runner".
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98401386	cuál es tu color favorito
+a	¿Sabías que los esquimales pueden diferenciar hasta 12 tonos distintos de blancos?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Arnold Schwarzenegger en "Terminator".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98147088	recomiendame una película
+a	Mi película favorita es . La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.94061738	gracias
+a	De nada.
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+-------------------------------------

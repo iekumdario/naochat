@@ -1,0 +1,309 @@
+1	hola		4	-1	¿Crees que las máquinas son inteligentes?	0
+2	si y tu		7	-1	¿Crees que las máquinas pueden pensar?	0
+3	no porque		9	-1	¿Cúal es tu actor favorito?	0
+4	james bond y el tuyo		20	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+5	la niñez cuál es tu película favorita	cuál es tu película	19	0.9187851	Me estás preguntando sobre mi película ?	1
+6	así es me la puedes decir porfavor	así es	28	0.73374248	¿Cómo?	1
+7	cuál es tu actor favorito	cuál es tu actor favorito	0	0.98339641	Mi actor favorito es Arnold Schwarzenegger en "Terminator".	1
+8	y tu música favorita	y tu música favorita	0	0.95846277	Me encantan las canciones de Daft Punk.	1
+9	adiós	adiós	0	0.64135247	Espero haber sido de ayuda.	1
+1	Hola	Hola	0	0.95210308	Hola.	1
+2	cómo estás	cómo estás	0	0.84093755	Yo estoy bien, ¿y tú?	1
+3	donde queda panamá		19	-1	¿Cuál es tu mejor recuerdo de infancia?	1
+4	jugar fútbol		13	-1		0
+1	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.93554485	Me gustan los deportes personales como el patinaje.	1
+2	qué geografía te gusta		24	-1	Cuentame, ¿Que hay de nuevo?	0
+3	dime algún invento innovador	dime algún invento innova	3	0.94067383	¿Quieres algo en especial? Repite porfavor	1
+4	inteligencia artificial	inteligencia artificial	0	0.98001736	La Inteligencia Artificial es una rama de investigación que engloba varias áreas.	1
+5	un robot es inteligente		23	-1	¿Cuál es tu color favorito?	0
+6	cuál es tu color favorito	cuál es tu color favorito	0	0.98001736	¿Cuál es tu color favorito?	0
+7	cuántos años tienes tú	cuántos años tienes tú	0	0.97779751	Tengo 2 años, ¿y tú?	1
+8	qué deporte prácticas	qué deporte prácticas	0	0.97666401	Qué crees?	0
+9	cuál país te gusta	cuál país te gusta	0	0.96727705	El primero  uno, creo.	0
+10	adiós	adiós	0	0.61338973	Espero verte de nuevo.	1
+1	cuál es tu deporte favorito	deporte favorito	12	0.72287083	Repite porfavor	1
+2	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+3	donde está ubicado Panamá	donde está ubicado Panamá	0	0.98004049	No he escuchado bien, podrias repetir lo que haz dicho.	1
+4	donde está ubicado el país de Panamá	donde está ubicado el país de Panamá	0	0.97071272	Se necesita un algoritmo mas complejo para responder eso correctamente.	1
+5	qué es la inteligencia artificial	qué es la inteligencia artificial	0	0.96785796	¿Acaso crees que soy una enciclopedia viviente?	1
+6	qué significa Mecatrónica	que signifie	16	0.78261805	¿Que dijiste?	1
+7	qué significa Mecatrónica	qué significa Mecatrónica	0	0.9672305	Qué crees?	1
+8	quién inventó el automóvil		29	-1	¿Crees que hay vida después de la muerte?	0
+9	quién inventó el automóvil	quién inventó el automóvil	0	0.91426408	Tony Blair. :-)	1
+10	adiós		6	-1	¿Cúal es tu actor favorito?	0
+11	adiós	adiós	0	0.83913058	Hasta luego.	1
+1	mencióname dos deportes		24	-1	¿Cuál es tu película favorita?	0
+2	mencióname dos deportes		24	-1	Cuentame, ¿Que hay de nuevo?	0
+3	dónde queda Canadá	dónde queda Canadá	0	0.9622798	Canadá es una nación enorme que ocupa gran parte del continente norteamericano.	1
+4	quién inventó el celular	quién inventó el celular	0	0.98001736	David Bacon. :-)	1
+5	que es inteligencia artificial	que es inteligencia artificial	0	0.97415829	¿Acaso crees que soy una enciclopedia viviente?	1
+6	quién fue alf		14	-1	¿Cúal es tu actriz favorita?	0
+7	quién fue alf		14	-1	¿Cuál es tu película favorita?	0
+8	adiós	adiós	0	0.88586175	Espero haber sido de ayuda.	1
+1	Hola	Hola	0	0.91066313	Saludos.	1
+2	dónde queda Alemania	dónde queda Alemania	0	0.94233459	Alemania es un país de Europa Central.	1
+3	cuales son sus ciudades		23	-1	¿Cuál es tu película favorita?	0
+4	qué es un robot	qué es un robot	0	0.85308409	¿Acaso crees que soy una enciclopedia viviente?	1
+5	quién inventó la computadora	quién inventó la computadora	0	0.92473418	Philip K. Dick. :-)	1
+6	que es una computadora		22	-1	¿Crees que las máquinas pueden pensar?	0
+7	si si lo eres		13	-1	¿Cuál es tu deporte favorito?	0
+8	voleibol cual es el tuyo	voleibol	16	0.69178671	¿Que dijiste?	1
+9	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+10	no tengo recuerdo de infancia	no tengo red	17	0.76473004	Te gustaría tener red?	0
+11	adiós	adiós	0	0.8298102	Espero verte de nuevo.	1
+1	quién es Alan Turing	quién es Alan Turing	0	0.94652909	Una figura brillante y trágica en la historia de las ciencias de la computación.	1
+2	que sabes del test de turing		28	-1	¿Crees que las máquinas son inteligentes?	0
+3	a veces	ABC	7	0.81917483	Repite porfavor	1
+4	creo que las máquinas son inteligentes	creo que las máquinas son inteligentes	0	0.96067053	¿Eso crees?	1
+5	tú eres inteligente	tú eres inteligente	0	0.98001736	Tú crees  Soy inteligente.	1
+6	qué te gusta de ser robot	qué te gusta de ser root	1	0.94608766	Qué crees?	1
+7	no sé dime tú	dime tú	7	0.80225408	Qué crees?	1
+1	te gusta el deporte		19	-1	¿Crees que las máquinas son inteligentes?	0
+2	no	no	0	0.78489035	¿Por qué tan negativo?	1
+3	ves béisbol		12	-1	¿Cuál es tu color favorito?	0
+4	negro y tú	negro YouTube	7	0.9012779	¿Sabías que los esquimales pueden diferenciar hasta 12 tonos distintos de blancos?	1
+5	ves béisbol		12	-1	¿Crees que hay vida después de la muerte?	0
+6	juegas béisbol		15	-1	¿Cuál es tu color favorito?	0
+7	play ball	play ball	0	0.72333306	No he escuchado bien, podrias repetir lo que haz dicho.	1
+8	play ball	play bool	2	0.75335872	No he escuchado bien, podrias repetir lo que haz dicho.	1
+9	juegas basketball basketball	juega basquetbol basketball	5	0.6482926	¿Que dijiste?	1
+10	fútbol	Wolf	6	0.41618392	Lo que dijiste es o muy complejo o muy simple para mi.	1
+11	fútbol	fútbol	0	0.83174777	¿Que dijiste?	1
+1	Hola	Hola	0	0.81420535	¿Qué tal?	1
+2	hablame de deportes		19	-1	¿Cuál es tu deporte favorito?	0
+3	el fútbol		10	-1	¿Cúal es tu actriz favorita?	0
+4	qué piensas de los deportes	qué piensas de los deportes	0	0.8081792	Qué crees?	1
+5	bueno no se me gusta también el volleyball		43	-1	¿Dónde te gustaría ir de vacaciones?	0
+6	cuál deporte te gusta a ti	cuál deporte te gusta a ti	0	0.95695096	El último  uno, creo.	1
+7	dónde queda Panamá		20	-1	¿Cuál es tu película favorita?	0
+8	dónde queda Panamá	dónde queda Panamá	0	0.98001736	Panamá está en el istmo entre América del Norte y América del Sur.	1
+9	que ciudades conoces de panamá		31	-1	¿Crees que las máquinas pueden pensar?	0
+10	no y tú		8	-1	¿Crees que las máquinas pueden pensar?	0
+11	si y tú		8	-1	Cuentame, ¿Que hay de nuevo?	0
+12	quién inventó el teléfono	quién inventó el teléfono	0	0.96713114	Mary Shelley. :-)	1
+13	quién		6	-1	¿Crees que las máquinas son inteligentes?	0
+14	a veces	ABC	7	0.76180619	¿Cómo?	1
+15	sabes de inteligencia artificial		32	-1	¿Dónde fuiste de vacaciones la última vez?	0
+16	sabes de inteligencia artificial	sabes de inteligencia artificial	0	0.87052256	No, háblame sobre él, ella o eso.	1
+17	había una vez un muñeco que se llamaba Nao	había una vez un muñeco	19	0.98001736	¿Cómo?	1
+18	bueno pues habia un muñeco que se llamaba nao que tuvo muchos hijos		68	-1	¿Crees que las máquinas son inteligentes?	0
+19	a veces adiós		14	-1	¿Cuál es tu deporte favorito?	0
+1	qué deporte te gusta	qué deporte te gusta	0	0.97842723	Qué crees?	0
+2	qué opinas sobre tenis	qué opinas sobre tenis	0	0.77905065	Me abstengo de dar mi opinión.	1
+3	dónde está Rusia	dónde está Rusia	0	0.97573894	Antiguo imperio del este de Europa y norte de Asia de 1547 a 1917 gobernado por los zares. Su capital es San Petersburgo.	1
+4	quién inventó la primera computadora	quién inventó la primera computadora	0	0.95189875	Benjamin Franklin	1
+5	quién te quipen te inventó	quién inventó	13	0.50597125	William Shatner.:-)	1
+6	cuéntame sobre inteligencia artificial	cuéntame sobre inteligencia artificial	0	0.98427254	Leo dijo que yo sea capaz de aprender por lo tanto clasificado I como un sistema neural.	1
+7	dónde estás	dónde estás	0	0.73537099	Estoy en Panama, ¿y tú?	1
+8	de dónde eres	de dónde eres	0	0.97423619	De Panama. ¿Y tú?	1
+9	si pueden pensar	y pueden pensar	2	0.84193945	Repite porfavor	1
+10	quién es tu dueño	quién es tu dueño	0	0.94784075	No creo tener dueño. Tengo un botmaster, un par de amigos y algunas celebridades que me gustan.	1
+11	adiós	adiós	0	0.84169054	Espero haber sido de ayuda.	1
+1	cuál es tu jugador de béisbol favorito	cuál es tu jugador favorito	12	0.94740868	Me estás preguntando sobre mi jugador favorito ?	1
+2	correcto	correcto	0	0.80163819	No he escuchado bien, podrias repetir lo que haz dicho.	0
+3	cual es tu jugador favorito		27	-1	¿Cuál es tu color favorito?	0
+4	rojo	robo	1	0.74152386	¿Que dijiste?	0
+5	rojo		4	-1	¿Cúal es tu actriz favorita?	0
+6	me gusta ver mucho under the dome		33	-1	Cuentame una historia.	0
+7	donde está ubicado el monte Everest	donde está ubicado el monte Everest	0	0.98090786	El ubicado el monte Everest? No sé, dónde está ubicado el monte Everest?	1
+8	quién inventó la electricidad	quién inventó la electricidad	0	0.98001736	Thomas Edison.	1
+9	que es inteligencia artificial		30	-1	¿Crees que hay vida después de la muerte?	0
+10	adiós	adiós	0	0.67619991	Espero haber sido de ayuda.	1
+1	Hola cuál es la capital de colombia	Hola cuál es la capital de	9	0.95321727	Hola, ¿cómo te llamas? El más evidente.	1
+2	cuál es la capital de Colombia	cuál es la capital de Colombia	0	0.96902531	El más evidente.	0
+3	qué es un sistema experto	sistema experto	11	0.97699726	Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?	1
+4	si si hay vida después de la muerte nos convertimos en caballos	vida después de la muerte	38	0.98001736	Donde hay vida, hay esperanza.	1
+5	quien ganó la Champions del dos mil quince	quien ganó la Champions	19	0.97206783	Lo que dijiste es o muy complejo o muy simple para mi.	1
+6	quién es Manuel Elkin Patarroyo	quién es Manuel XM	15	0.89890438	¿Acaso crees que soy una enciclopedia viviente?	1
+7	de que país es el atlético nacional	de qué país es el AS	20	0.90830511	Eso es algo que jamás había escuchado.	0
+8	quién inventó el bombillo	quién inventó el bombillo	0	0.87912798	Benjamin Franklin	1
+9	qué es un agujero negro	qué es un agujero negro	0	0.98001736	Un agujero negro es una estrella colapsada en donde la fuerza de gravedad es tan fuerte que ni siquiera la luz misma puede escapar.	1
+10	no tengo		8	-1	¿Crees que las máquinas pueden pensar?	0
+11	no		2	-1	¿Cuál es tu color favorito?	0
+12	adiós		6	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+1	quién inventó la luz	quién inventó la luz	0	0.97979945	Los Hermanos Wright.	1
+2	que es la inteligencia artificial		33	-1	¿Crees que hay vida después de la muerte?	0
+3	hay vida despues de la muerte		29	-1	¿Crees que las máquinas pueden pensar?	0
+4	cual es tu deporte favorito	puerto deportivo	15	0.75345767	Repite porfavor	1
+5	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+6	que patinador conoces	qué pasa si no reconoce	12	0.48167786	Yo estoy bien, ¿qué tal tú?	0
+7	donde queda estados unidos		26	-1	¿Cúal es tu actriz favorita?	0
+8	en que continente queda estados unidos		38	-1	¿Crees que hay vida después de la muerte?	0
+9	donde queda la ciudad de panamá		32	-1	¿Crees que hay vida después de la muerte?	0
+10	que es ciencia	que es ciencia	0	0.94305021	¿Acaso crees que soy una enciclopedia viviente?	1
+11	que es google		13	-1	¿Cuál es tu color favorito?	0
+12	cuál es tu color favorito	cuál es tu color favorito	0	0.98001736	¿Sabías que los esquimales pueden diferenciar hasta 12 tonos distintos de blancos?	0
+13	adiós		6	-1	¿Crees que hay vida después de la muerte?	0
+1	que deporte te gusta		20	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+2	ninguno	ninguno	0	0.93174458	¿Nada de nada?	1
+3	y el tuyo cuál es	YouTube cuál es	8	0.9808982	No he escuchado bien, podrias repetir lo que haz dicho.	1
+4	el tuyo cuál es	cuál es	8	0.98001736	El primero  uno, creo.	0
+5	te gusta jugar béisbol	te gusta jugar	9	0.963552	A ti también te debe gustar, ¿no?	1
+6	si		2	-1	¿Crees que las máquinas pueden pensar?	0
+7	no	mu	2	0.68024641	¿Cómo?	0
+8	qué opinas del fútbol	qué opinas del fútbol	0	0.96129453	Yo no opino.	1
+9	entonces qué haces	entonces qué haces	0	0.88861626	Interesante deducción.  Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.	1
+10	no quiero tu servicio	no quiero tu servicio	0	0.86090779	¿Realmente quieres eso?	1
+11	si		2	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+12	adiós	adiós	0	0.80309802	Espero verte de nuevo.	1
+1	cómo se juega al fútbol	cómo se juega al fútbol	0	0.91852772	No sé cómo jugar fútbol.	1
+2	cuál es la ubicación de roma	cuál es mi ubicación	10	0.97778046	Es esta una pregunta tramposa	1
+3	quién inventó la rueda	quién inventó la rueda	0	0.97676021	Los Chinos, mucho antes que los europeos.	1
+4	cuándo se inventó el primer robot		35	-1	¿Cuál es tu película favorita?	0
+5	quién es Paulo Coelho	quién es Paulo Coelho	0	0.98106992	¿Acaso crees que soy una enciclopedia viviente?	1
+6	gracias	gracias	0	0.80480689	De nada.	1
+7	hasta luego		11	-1	¿Cuál es tu película favorita?	0
+1	nombres de deportes		19	-1	¿Cuál es tu color favorito?	0
+2	conoces el béisbol	conocer Facebook	11	0.49912527	¿Cómo?	0
+3	conoces el béisbol	béisbol	11	0.67725283	Repite porfavor	0
+4	conoces el béisbol		19	-1	Cuentame una historia.	0
+5	donde está ubicado venezuela		29	-1	¿Cúal es tu actriz favorita?	0
+6	lima donde está ubicado		24	-1	¿Cuál es tu deporte favorito?	0
+7	el béisbol béisbol	face	20	0.85468179	Repite porfavor	0
+8	sabes quién es juan pablo segundo	sabes quién es juan pablo segundo	0	0.93831843	Jeje, conozco a alguien con tu mismo nombre.	0
+9	donde está lima		16	-1	¿Cuál es tu color favorito?	0
+10	el blanco		9	-1	¿Cúal es tu actriz favorita?	0
+11	jennifer lópez	jennifer lópez	0	0.79466987	No he escuchado bien, podrias repetir lo que haz dicho.	1
+12	Jennifer López	Jennifer López	0	0.95170844	No he escuchado bien, podrias repetir lo que haz dicho.	1
+1	qué deporte te gusta	qué deporte te gusta	0	0.96276569	Qué crees?	0
+2	en qué lugar queda china		25	-1	¿Cuál es tu color favorito?	0
+3	el azul	el azul	0	0.88135993	Cuáles son tus metas en la vida	0
+4	que cosas más te gustan		24	-1	¿Dónde te gustaría ir de vacaciones?	0
+5	a china		7	-1	¿Cúal es tu actriz favorita?	0
+6	Jennifer López	fer López	5	0.80713707	No he escuchado bien, podrias repetir lo que haz dicho.	0
+7	quién fue el conquistador de américa	quién fue el conquistador de	9	0.92105514	David Bacon. :-)	1
+8	quién es Américo Vespucio	quién es Américo Vespucio	0	0.92693841	¿Acaso crees que soy una enciclopedia viviente?	1
+9	donde está panamá en que continente está panamá		51	-1	¿Dónde te gustaría ir de vacaciones?	0
+10	a Panamá	a Panamá	0	0.96655279	No he escuchado bien, podrias repetir lo que haz dicho.	1
+11	me gustaría ir a Panamá	me gustaría ir a Panamá	0	0.97720969	¿Cómo?	1
+12	adiós		6	-1	¿Crees que las máquinas pueden pensar?	1
+1	Hola	Hola	0	0.83926082	Buenas.	1
+2	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+3	fui a Chiriquí	we Three Kings	14	0.75845021	No he escuchado bien, podrias repetir lo que haz dicho.	1
+4	fui a Chiriquí	we are Chiriquí	5	0.85514325	Puedes explicarme mejor eso? No lo acabo de entender.	0
+5	cuál es la capital de francia	cuál es la capital de francia	0	0.97151321	El más evidente.	0
+6	dónde queda australia	dónde	16	0.8419795	Trata de decir eso con algo de contexto.	0
+7	a Panamá		9	-1	¿Crees que hay vida después de la muerte?	0
+8	quién inventó el bombillo	quién inventó	12	0.90102941	Charlie Parker. :-)	1
+9	y quién inventó el transistor		31	-1	¿Dónde te gustaría ir de vacaciones?	0
+10	Mi actor favorito es angelina jolie	store favorito es angelina jolie	6	0.73328745	¿Que dijiste?	1
+11	Angelina Jolie	Angelina Jolie	0	0.95618767	¿Que dijiste?	1
+12	quién es albert einstein		25	-1	¿Dónde te gustaría ir de vacaciones?	0
+13	adiós	adiós	0	0.70986009	Espero haber sido de ayuda.	1
+1	con que se juega fútbol	fútbol	17	0.74532151	Me perdí.	0
+2	quién es Messi	quién es Messi	0	0.95834184	¿Acaso crees que soy una enciclopedia viviente?	1
+3	quién descubrió américa		26	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+4	quien creó la luz	quien creó la luz	0	0.94928634	No he escuchado bien, podrias repetir lo que haz dicho.	1
+5	quién inventó el wikileaks		28	-1	Cuentame, ¿Que hay de nuevo?	0
+6	pregúntame		11	-1	¿Dónde te gustaría ir de vacaciones?	1
+7	a España	España	2	0.87438267	¿Cómo?	1
+8	en avión	en avión	0	0.90549105	Qué es en avión como en avión.	0
+1	juegas algun deporte		20	-1	¿Cuál es tu película favorita?	0
+2	has visitado otro país		23	-1	¿Cúal es tu actriz favorita?	0
+3	quién es tu dueño		19	-1	¿Crees que hay vida después de la muerte?	0
+4	no		2	-1	Cuentame, ¿Que hay de nuevo?	0
+5	quién inventó el auto		23	-1	¿Cuál es tu deporte favorito?	0
+6	quién inventó la mochila		26	-1	¿Cuál es tu película favorita?	0
+1	cuál es tu equipo de fútbol favorito	cuál es tu equipo de fútbol favorito	0	0.91752976	Yo nací sin el gen de los deportes.	1
+2	dónde queda Panamá	dónde queda Panamá	0	0.98001736	Panamá está en el istmo entre América del Norte y América del Sur.	1
+3	quién inventó Facebook	quién inventó Facebook	0	0.97604972	Los Chinos, mucho antes que los europeos.	1
+4	quién es Obama	quién es Obama	0	0.98001736	¿Acaso crees que soy una enciclopedia viviente?	1
+5	dónde está ubicado colombia	dónde está ubicado colombia	0	0.91712302	Repite porfavor	1
+6	donde está ubicado Colombia	donde está ubicado Colombia	0	0.90106803	El ubicado Colombia? No sé, dónde está ubicado Colombia?	1
+7	que es la coca-cola		19	-1	¿Crees que las máquinas son inteligentes?	0
+8	adiós	adiós	0	0.86633003	Espero verte de nuevo.	1
+1	cual es tu equipo favorito	favorito	18	0.79164016	No he escuchado bien, podrias repetir lo que haz dicho.	1
+2	cuál es tu comida favorita	cuál es tu comida favorita	0	0.87892836	Me estás preguntando sobre mi comida favorita ?	1
+3	dónde se encuentra china	dónde se encuentra china	0	0.91645801	Alguna ubicación específica	0
+4	quién inventó la computadora	quién inventó la computadora	0	0.79943955	Muchas personas han contribuido a ello. Pero debe darsele el credito a Steve Wozniak, quien creó un PC asequible integrada a la plataforma de Apple I.	1
+5	quién inventó whatsapp	quién inventó whatsapp	0	0.85435319	Linus Torvalds	1
+6	dónde se encuentra Estados Unidos	dónde se encuentra Estados Unidos	0	0.95809019	Dónde crees	1
+7	conoces a Shakira	conoces a Shakira	0	0.88549751	No lo conozco.	1
+8	conoces a Prince Royce		22	-1	¿Crees que las máquinas son inteligentes?	0
+9	adiós	adiós	0	0.83996052	Espero verte de nuevo.	1
+1	hola nao quién es el mejor futbolista de brasil	quién es el mejor	30	0.55980486	¿Acaso crees que soy una enciclopedia viviente?	1
+2	cuál es la capital de china	cuál es la capital de china	0	0.92243981	El más evidente.	0
+3	quién inventó la imprenta	quién inventó la imprenta	0	0.98605937	Thomas Edison.	1
+4	cuando se inventó la imprenta	cuando se inventó la imprenta	0	0.94283658	No sé cuándo.	1
+5	qué es la máquina de turing		29	-1	¿Cuál es tu deporte favorito?	0
+6	qué es la máquina de turing	qué es la máquina de turing	0	0.90357691	Soy real, ¿y tu?	0
+7	cuántos habitantes tiene china	cuántos habitantes tiene	6	0.85159874	Alrededor de cien.	1
+8	cuando se inventó la imprenta	cuando se inventó la imprenta	0	0.95574886	El pasado es historia, el futuro un misterio. El hoy es un regalo, por eso se llama "el presente".	1
+9	quién inventó la imprenta	quién inventó la imprenta	0	0.92792457	Los Chinos, mucho antes que los europeos.	1
+10	que es el fútbol	que es el fútbol	0	0.97828496	¿Acaso crees que soy una enciclopedia viviente?	1
+11	adiós	adiós	0	0.7756896	Espero haber sido de ayuda.	0
+1	te gusta el fútbol		19	-1	Cuentame, ¿Que hay de nuevo?	0
+2	dónde queda Inglaterra	dónde queda Inglaterra	0	0.96228975	Inglaterra está ubicada en una pequeña isla frente a la costa de Europa.	1
+3	que inventos conoces	que inventó	10	0.84079218	¿Que dijiste?	0
+4	mas o menos que inventos conoces	Mahou menos que inventó conocí	8	0.87579918	Repite porfavor	1
+5	te voy a hacer otra pregunta	qué voy a hacer otra pregunta	4	0.78146261	Qué crees?	0
+6	háblame de la historia de la inteligencia artificial	háblame de la historia de la inteligencia	11	0.9311071	No he escuchado bien, podrias repetir lo que haz dicho.	1
+7	inteligencia artificial conoces su historia		43	-1	Cuentame, ¿Que hay de nuevo?	0
+8	playa gorgona		13	-1	¿Dónde te gustaría ir de vacaciones?	0
+1	qué es el fútbol	fútbol	11	0.831689	¿Cómo?	0
+2	que qué es el fútbol		22	-1	¿Dónde te gustaría ir de vacaciones?	0
+3	qué opinas sobre el fútbol	qué opinan sobre el fútbol	1	0.77861059	Qué crees?	0
+4	cuales son tus deportes favoritos		33	-1	Cuentame una historia.	0
+5	qué es el fútbol	fútbol	11	0.76911819	No he escuchado bien, podrias repetir lo que haz dicho.	1
+6	tal vez		7	-1	¿Cúal es tu actriz favorita?	0
+7	miley cyrus	miley cyrus	0	0.8302387	No he escuchado bien, podrias repetir lo que haz dicho.	1
+1	qué opinas del tenis	qué opinas del tenis	0	0.95920515	Vaya, espero que Jose Quintero me dote de la capacidad para opinar.	1
+2	en qué digo dónde queda españa		33	-1	¿Dónde te gustaría ir de vacaciones?	0
+3	donde queda España	España	12	0.83313423	Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?	0
+4	quién inventó la electricidad	quién inventó la electricidad	0	0.98001736	Benjamin Franklin	1
+5	dónde queda Panamá		20	-1	¿Cuál es tu color favorito?	1
+6	el rosado		9	-1	¿Dónde te gustaría ir de vacaciones?	0
+7	dónde queda Panamá	dónde queda Panamá	0	0.98001736	Panamá está en el istmo entre América del Norte y América del Sur.	1
+8	el fútbol		10	-1	¿Crees que las máquinas son inteligentes?	0
+9	tal vez		7	-1	¿Cuál es tu deporte favorito?	0
+10	adiós		6	-1	¿Cúal es tu actriz favorita?	0
+1	qué es la natación	qué es la natación	0	0.94931662	¿Acaso crees que soy una enciclopedia viviente?	1
+2	quién inventó la pólvora	quién inventó la	9	0.8734045	Los Hermanos Wright.	1
+3	dónde queda el Barcelona	dónde queda el Barcelona	0	0.75369924	¿Que dijiste?	1
+4	dónde queda el barcelona	dónde queda el barcelona	0	0.90506148	¿Que dijiste?	1
+5	Megan Fox	Megan Fox	0	0.96933579	No he escuchado bien, podrias repetir lo que haz dicho.	0
+6	Megan Fox	Megan Fox	0	0.96271664	No he escuchado bien, podrias repetir lo que haz dicho.	0
+7	quién inventó el avión		25	-1	¿Crees que las máquinas son inteligentes?	0
+8	si		2	-1	¿Cuál es tu película favorita?	0
+9	las crónicas de narnia	las crónicas de narnia	0	0.90198529	¿Cómo?	0
+10	las crónicas de narnia	Las crónicas de Narnia	2	0.9308117	¿Que dijiste?	0
+11	adiós	adiós	0	0.54815114	Hasta luego.	1
+1	qué opinión me das sobre el deporte	qué opinión sobre el deporte	7	0.97208673	Vaya, espero que Jose Quintero me dote de la capacidad para opinar.	1
+2	qué es la geografía		21	-1	Cuentame una historia.	0
+3	quién inventó el facebook		27	-1	Cuentame una historia.	0
+4	quién inventó el facebook	quién inventó el facebook	0	0.88145006	Eli Whitney inventó la desmotadora de algodón.	1
+5	si		2	-1	¿Dónde fuiste de vacaciones la última vez?	0
+6	a soná de chame		16	-1	¿Cuál es tu color favorito?	0
+7	dime un concepto general sobre la inteligencia artificial	dime un	50	0.84131491	¿Qué podría decirte? ¿Cómo?	1
+8	qué es la inteligencia artificial	qué es la inteligencia artificial	0	0.92623359	¿Acaso crees que soy una enciclopedia viviente?	1
+9	adiós	adiós	0	0.8397904	Espero haber sido de ayuda.	1
+1	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+2	dónde queda madrid	dónde queda madrid	0	0.92149973	Madrid es una ciudad de España.	1
+3	quíen inventó la bombilla	la bombilla	16	0.7881394	¿Que dijiste?	1
+4	quién inventó la bombilla	quién inventó la bombilla	0	0.93373185	Los Hermanos Wright.	1
+5	quien fue albert einstein	quien fue albert	9	0.86510116	Es un nombre interesante. ¿Sabes su origen o qué?	1
+6	te gusta la inteligencia artificial	inteligencia artificial	12	0.81540018	La Inteligencia Artificial es una rama de investigación que engloba varias áreas.	1
+7	adiós		6	-1	¿Crees que las máquinas son inteligentes?	0
+1	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.79651642	Me gustan los deportes personales como el patinaje.	1
+2	qué opinas del fútbol	qué opinas del fútbol	0	0.94701767	Yo no opino.	1
+3	dónde queda Rusia	dónde queda Rusia	0	0.97670513	Antiguo imperio del este de Europa y norte de Asia de 1547 a 1917 gobernado por los zares. Su capital es San Petersburgo.	1
+4	dónde queda Japón	dónde queda Japón	0	0.98413348	Japón es un país insular en la parte oriental de Asia.	1
+5	cuál es el mejor país del mundo	cuál es el mejor país del mundo	0	0.92087424	El más evidente.	1
+6	quién te inventó		18	-1	¿Crees que las máquinas son inteligentes?	0
+7	no quién te inventó		21	-1	¿Crees que las máquinas pueden pensar?	0
+8	no quién inventó la rueda		27	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+9	quién es la persona más importante		36	-1	¿Crees que las máquinas son inteligentes?	0
+10	si		2	-1	¿Cuál es tu película favorita?	0
+11	adiós	adiós	0	0.70028126	Espero verte de nuevo.	1
+1	cuál es tu país de origen		27	-1	Cuentame, ¿Que hay de nuevo?	0
+2	cuál es tu equipo favorito		27	-1	Cuentame una historia.	0
+3	cuál es tu invento favorito		28	-1	¿Dónde fuiste de vacaciones la última vez?	0
+4	yo a mi casa oye		16	-1	¿Dónde fuiste de vacaciones la última vez?	0
+1	háblame del fútbol	háblame del fútbol	0	0.82211381	No sé cómo jugar fútbol.	1
+2	donde está ubicado Francia	donde está ubicado Francia	0	0.94641614	¿Cómo?	1
+3	quién inventó la computadora	quién inventó la computadora	0	0.97472274	Muchas personas han contribuido a ello. Pero debe darsele el credito a Steve Wozniak, quien creó un PC asequible integrada a la plataforma de Apple I.	1
+4	quién es el presidente de Panamá	cine presidente de Panamá	9	0.49944511	Mi película favorita es "Terminator".	0
+5	si		2	-1	¿Dónde fuiste de vacaciones la última vez?	0
+6	fui a la playa		14	-1	¿Cuál es tu deporte favorito?	0
+7	fútbol	fútbol	0	0.84175807	¿Que dijiste?	1
+8	fútbol	fútbol	0	0.83179921	No entiendo.	0

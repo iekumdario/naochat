@@ -1,0 +1,35 @@
+1	Hola	Hola	0	0.88871253	¿Qué tal?	1
+2	cómo te llamas	cómo te llamas	0	0.93808937	Me llamo Nao.	1
+3	cómo estás	cómo estás	0	0.85375047	Encantado para ayudarte en todo lo que pueda.	1
+4	qué haces		10	-1	Cuentame una historia.	0
+5	cuéntame algo	cuéntame algo	0	0.98001736	"Andre dijo que es lo que son, en su caso, que es un cuerpo y en mi caso se trata de un ordenador."	1
+6	qué música te gusta	qué música te gusta	0	0.98067898	Me encantan las canciones de Daft Punk.	1
+7	y películas		12	-1	¿Cúal es tu actor favorito?	0
+8	Chuck Norris		12	-1	¿Cuál es tu película favorita?	0
+9	Mr and Ms Smith		15	-1	¿Crees que hay vida después de la muerte?	0
+10	cuál es tu actor favorito	cuál es tu actor favorito	0	0.98001736	"Mi actor favorito es Jude Law en ""AI""."	1
+11	recomiendame una película	recomiendame una película	0	0.98146969	Mi película favorita es Robocop. La has visto?	1
+12	claro		5	-1	¿Crees que hay vida después de la muerte?	0
+13	gracias	gracias	0	0.97401237	De nada.	1
+14	adiós		6	-1	¿Dónde fuiste de vacaciones la última vez?	0
+15	adiós	adiós	0	0.59843481	Hasta luego.	1
+1	Hola	Hola	0	0.81420535	¿Qué tal?	1
+2	hablame de deportes		19	-1	¿Cuál es tu deporte favorito?	0
+3	el fútbol		10	-1	¿Cúal es tu actriz favorita?	0
+4	qué piensas de los deportes	qué piensas de los deportes	0	0.8081792	Qué crees?	1
+5	bueno no se me gusta también el volleyball		43	-1	¿Dónde te gustaría ir de vacaciones?	0
+6	cuál deporte te gusta a ti	cuál deporte te gusta a ti	0	0.95695096	"El último  uno, creo."	1
+7	dónde queda Panamá		20	-1	¿Cuál es tu película favorita?	0
+8	dónde queda Panamá	dónde queda Panamá	0	0.98001736	Panamá está en el istmo entre América del Norte y América del Sur.	1
+9	que ciudades conoces de panamá		31	-1	¿Crees que las máquinas pueden pensar?	0
+10	no y tú		8	-1	¿Crees que las máquinas pueden pensar?	0
+11	si y tú		8	-1	"Cuentame, ¿Que hay de nuevo?"	0
+12	quién inventó el teléfono	quién inventó el teléfono	0	0.96713114	Mary Shelley. :-)	1
+13	quién		6	-1	¿Crees que las máquinas son inteligentes?	0
+14	a veces	ABC	7	0.76180619	¿Cómo?	1
+15	sabes de inteligencia artificial		32	-1	¿Dónde fuiste de vacaciones la última vez?	0
+16	sabes de inteligencia artificial	sabes de inteligencia artificial	0	0.87052256	"No, háblame sobre él, ella o eso."	1
+17	había una vez un muñeco que se llamaba Nao	había una vez un muñeco	19	0.98001736	¿Cómo?	1
+18	bueno pues habia un muñeco que se llamaba nao que tuvo muchos hijos		68	-1	¿Crees que las máquinas son inteligentes?	0
+19	a veces adiós		14	-1	¿Cuál es tu deporte favorito?	0
+			10.14705882	-0.049587851		0.5

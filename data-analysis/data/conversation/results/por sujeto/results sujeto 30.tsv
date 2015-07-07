@@ -1,0 +1,25 @@
+3	cómo estás		12	-1	¿Crees que las máquinas son inteligentes?	0
+11	si		2	-1	¿Cuál es tu deporte favorito?	0
+12	natación gracias		17	-1	¿Cúal es tu actriz favorita?	0
+13	adiós		6	-1	¿Crees que hay vida después de la muerte?	0
+6	quién te inventó		18	-1	¿Crees que las máquinas son inteligentes?	0
+7	no quién te inventó		21	-1	¿Crees que las máquinas pueden pensar?	0
+8	no quién inventó la rueda		27	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+9	quién es la persona más importante		36	-1	¿Crees que las máquinas son inteligentes?	0
+10	si		2	-1	¿Cuál es tu película favorita?	0
+7	y películas	ipeliculas	4	0.69023788	¿Cómo?	1
+11	adiós	adiós	0	0.70028126	Espero verte de nuevo.	1
+8	cuál es tu actor favorito	favoritos	19	0.72042197	"No he escuchado bien, podrias repetir lo que haz dicho."	1
+1	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.79651642	Me gustan los deportes personales como el patinaje.	1
+1	Hola	Hola	0	0.80522853	"Hola, ¿cómo te llamas?"	1
+5	cuéntame algo	cuéntame algo	0	0.87815797	Eddie dijo que veía y no hay nada en el directorio de búsqueda de lo que las cosas que él cree.	1
+4	no qué haces	qué haces	3	0.88357329	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.	1
+6	qué música te gusta	qué música te gusta	0	0.90473872	Me encantan las canciones de Daft Punk.	1
+5	cuál es el mejor país del mundo	cuál es el mejor país del mundo	0	0.92087424	El más evidente.	1
+2	qué opinas del fútbol	qué opinas del fútbol	0	0.94701767	Yo no opino.	1
+2	me llamo Bianca cómo te llamas	me llamo Bianca	16	0.97095013	"Jeje, conozco a alguien con tu mismo nombre."	1
+3	dónde queda Rusia	dónde queda Rusia	0	0.97670513	Antiguo imperio del este de Europa y norte de Asia de 1547 a 1917 gobernado por los zares. Su capital es San Petersburgo.	1
+9	cuál es tu actor favorito	cuál es tu actor favorito	0	0.98001736	"Mi actor favorito es Robin Williams en ""El Hombre Bicentenario""."	1
+10	recomiendame una película	recomiendame una película	0	0.98155099	Mi película favorita es Robocop. La has visto?	1
+4	dónde queda Japón	dónde queda Japón	0	0.98413348	Japón es un país insular en la parte oriental de Asia.	1
+			2.8	0.876027003		1

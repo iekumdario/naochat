@@ -1,0 +1,27 @@
+1	Hola		4	-1	Cuentame una historia.	0
+2	cómo te llamas	cómo te llamas	0	0.81843346	Nao.	1
+3	cómo estás	cómo estás	0	0.82514888	"Yo estoy bien, ¿qué tal tú?"	1
+4	bien		4	-1	¿Cúal es tu actriz favorita?	0
+5	qué haces	qué haces	0	0.88808155	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.	1
+6	cuéntame algo	cuéntame algo	0	0.98001736	Stefan dijo que conoce a un montón de gente en la escuela todos los días y los fines de semana.	1
+7	qué música te gusta	qué música te gusta	0	0.6269663	"Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?"	1
+8	si y películas	ipeliculas	6	0.7089709	¿Que dijiste?	0
+9	y películas		12	-1	¿Crees que las máquinas pueden pensar?	0
+10	cuál es tu actor favorito	cuál es tu actor favorito	0	0.97262156	"Mi actor favorito es Peter Weller en ""Robocop""."	1
+11	recomiendame una película	recomiendame una película	0	0.98146969	Mi película favorita es Robocop. La has visto?	1
+12	si gracia	gracia	3	0.46605626	"No he escuchado bien, podrias repetir lo que haz dicho."	0
+13	adiós		6	-1	Cuentame una historia.	0
+1	quién inventó la luz	quién inventó la luz	0	0.97979945	Los Hermanos Wright.	1
+2	que es la inteligencia artificial		33	-1	¿Crees que hay vida después de la muerte?	0
+3	hay vida despues de la muerte		29	-1	¿Crees que las máquinas pueden pensar?	0
+4	cual es tu deporte favorito	puerto deportivo	15	0.75345767	Repite porfavor	1
+5	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+6	que patinador conoces	qué pasa si no reconoce	12	0.48167786	"Yo estoy bien, ¿qué tal tú?"	0
+7	donde queda estados unidos		26	-1	¿Cúal es tu actriz favorita?	0
+8	en que continente queda estados unidos		38	-1	¿Crees que hay vida después de la muerte?	0
+9	donde queda la ciudad de panamá		32	-1	¿Crees que hay vida después de la muerte?	0
+10	que es ciencia	que es ciencia	0	0.94305021	¿Acaso crees que soy una enciclopedia viviente?	1
+11	que es google		13	-1	¿Cuál es tu color favorito?	0
+12	cuál es tu color favorito	cuál es tu color favorito	0	0.98001736	¿Sabías que los esquimales pueden diferenciar hasta 12 tonos distintos de blancos?	0
+13	adiós		6	-1	¿Crees que hay vida después de la muerte?	0
+			9.192307692	0.053299457		0.423076923

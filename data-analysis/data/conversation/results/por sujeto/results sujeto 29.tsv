@@ -1,0 +1,19 @@
+2	cómo te llamas		15	-1	Cuentame una historia.	0
+4	qué haces		10	-1	¿Cuál es tu película favorita?	0
+9	recomiéndame una película		27	-1	"Cuentame, ¿Que hay de nuevo?"	0
+10	gracias		7	-1	¿Crees que las máquinas son inteligentes?	0
+11	adiós		6	-1	¿Cuál es tu color favorito?	0
+7	adiós		6	-1	¿Crees que las máquinas son inteligentes?	0
+3	quíen inventó la bombilla	la bombilla	16	0.7881394	¿Que dijiste?	1
+7	qué películas te gustan	películas te gusta	6	0.79285246	"Mi película favorita es ""Terminator""."	1
+5	cuéntame algo	cuéntame algo	0	0.79617023	Knight dijo que estrelló su coche contra un muro y se perdió el examen más importante de su vida.	1
+1	hola	hola	0	0.81434357	¿Qué tal?	1
+6	te gusta la inteligencia artificial	inteligencia artificial	12	0.81540018	La Inteligencia Artificial es una rama de investigación que engloba varias áreas.	1
+3	cómo estás	cómo estás	0	0.84093726	"Muy bien, ¿en qué puedo ayudarte?"	1
+5	quien fue albert einstein	quien fue albert	9	0.86510116	Es un nombre interesante. ¿Sabes su origen o qué?	1
+2	dónde queda madrid	dónde queda madrid	0	0.92149973	Madrid es una ciudad de España.	1
+4	quién inventó la bombilla	quién inventó la bombilla	0	0.93373185	Los Hermanos Wright.	1
+8	cuál es tu actor favorito	cuál es tu actor favorito	0	0.97837865	"Mi actor favorito es Arnold Schwarzenegger en ""Terminator""."	1
+6	qué música te gusta	qué música te gusta	0	0.98001736	"Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?"	1
+1	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+			3.583333333	0.875549101		1

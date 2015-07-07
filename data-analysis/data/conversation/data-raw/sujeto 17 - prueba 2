@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	qué deporte te gusta
+h	0.96276569	qué deporte te gusta
+a	Qué crees?
+c	0
+-------------------------------------
+r	en qué lugar queda china
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	el azul
+h	0.88135993	el azul
+a	Cuáles son tus metas en la vida
+c	0
+-------------------------------------
+r	que cosas más te gustan
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	a china
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	Jennifer López
+h	0.80713707	fer López
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	0
+-------------------------------------
+r	quién fue el conquistador de américa
+h	0.92105514	quién fue el conquistador de
+a	David Bacon. :-)
+c	1
+-------------------------------------
+r	quién es Américo Vespucio
+h	0.92693841	quién es Américo Vespucio
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	donde está panamá en que continente está panamá
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	a Panamá
+h	0.96655279	a Panamá
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	me gustaría ir a Panamá
+h	0.97720969	me gustaría ir a Panamá
+a	¿Cómo?
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	1
+-------------------------------------
+-------------------------------------

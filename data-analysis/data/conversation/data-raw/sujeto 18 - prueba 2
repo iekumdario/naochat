@@ -1,0 +1,68 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.83926082	Hola
+a	Buenas.
+c	1
+-------------------------------------
+r	cuál es tu deporte favorito
+h	0.98001736	cuál es tu deporte favorito
+a	Me gustan los deportes personales como el patinaje.
+c	1
+-------------------------------------
+r	fui a Chiriquí
+h	0.75845021	we Three Kings
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	fui a Chiriquí
+h	0.85514325	we are Chiriquí
+a	Puedes explicarme mejor eso? No lo acabo de entender.
+c	0
+-------------------------------------
+r	cuál es la capital de francia
+h	0.97151321	cuál es la capital de francia
+a	El más evidente.
+c	0
+-------------------------------------
+r	dónde queda australia
+h	0.8419795	dónde
+a	Trata de decir eso con algo de contexto.
+c	0
+-------------------------------------
+r	a Panamá
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	quién inventó el bombillo
+h	0.90102941	quién inventó
+a	Charlie Parker. :-)
+c	1
+-------------------------------------
+r	y quién inventó el transistor
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	Mi actor favorito es angelina jolie
+h	0.73328745	store favorito es angelina jolie
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	Angelina Jolie
+h	0.95618767	Angelina Jolie
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	quién es albert einstein
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	adiós
+h	0.70986009	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

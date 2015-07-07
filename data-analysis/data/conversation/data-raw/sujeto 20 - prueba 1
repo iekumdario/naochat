@@ -1,0 +1,48 @@
+-------------------------------------
+-------------------------------------
+r	hola cómo te llamas
+h	0.85213464	hola cómo te llamas
+a	¿Qué tal? Me llamo Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.86322713	cómo estás
+a	Muy bien.
+c	1
+-------------------------------------
+r	qué haces
+h	0.73672938	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.79446352	cuéntame algo
+a	Jimmy dijo que dar para ai es como yo y hacer lo que le dicen.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.95628685	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y las películas
+h	0.77801096	las películas
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	wally
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.64288038	favorite
+a	Qué quieres decir con eso? Cuál sería la respuesta correcta?
+c	0
+-------------------------------------
+r	gracias adiós
+h	0.7994495	gracias
+a	A la orden.
+c	1
+-------------------------------------
+-------------------------------------

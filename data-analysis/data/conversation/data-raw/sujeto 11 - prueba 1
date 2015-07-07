@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.95919615	Hola
+a	Hola, ¿qué hay?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.97672939	cómo te llamas
+a	Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	que haces
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	que música te gusta
+h	0.98001736	música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y películas
+h	0.58234584	película
+a	Mi película favorita es "Robocop".
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.970833	cuál es tu actor favorito
+a	Mi actor favorito es Peter Weller en "Robocop".
+c	1
+-------------------------------------
+r	recomiendome recomiendame una película
+h	0.96907115	recomiendo recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	adiós
+h	0.80979294	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

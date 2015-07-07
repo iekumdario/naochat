@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	Hola cuál es la capital de colombia
+h	0.95321727	Hola cuál es la capital de
+a	Hola, ¿cómo te llamas? El más evidente.
+c	1
+-------------------------------------
+r	cuál es la capital de Colombia
+h	0.96902531	cuál es la capital de Colombia
+a	El más evidente.
+c	0
+-------------------------------------
+r	qué es un sistema experto
+h	0.97699726	sistema experto
+a	Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?
+c	1
+-------------------------------------
+r	si si hay vida después de la muerte nos convertimos en caballos
+h	0.98001736	vida después de la muerte
+a	Donde hay vida, hay esperanza.
+c	1
+-------------------------------------
+r	quien ganó la Champions del dos mil quince
+h	0.97206783	quien ganó la Champions
+a	Lo que dijiste es o muy complejo o muy simple para mi.
+c	1
+-------------------------------------
+r	quién es Manuel Elkin Patarroyo
+h	0.89890438	quién es Manuel XM
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	de que país es el atlético nacional
+h	0.90830511	de qué país es el AS
+a	Eso es algo que jamás había escuchado.
+c	0
+-------------------------------------
+r	quién inventó el bombillo
+h	0.87912798	quién inventó el bombillo
+a	Benjamin Franklin
+c	1
+-------------------------------------
+r	qué es un agujero negro
+h	0.98001736	qué es un agujero negro
+a	Un agujero negro es una estrella colapsada en donde la fuerza de gravedad es tan fuerte que ni siquiera la luz misma puede escapar.
+c	1
+-------------------------------------
+r	no tengo
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	no
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+-------------------------------------

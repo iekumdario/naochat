@@ -1,0 +1,13 @@
+1	Hola	Hola	0	0.83926082	Buenas.	1
+2	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+3	fui a Chiriquí	we Three Kings	14	0.75845021	No he escuchado bien, podrias repetir lo que haz dicho.	1
+4	fui a Chiriquí	we are Chiriquí	5	0.85514325	Puedes explicarme mejor eso? No lo acabo de entender.	0
+5	cuál es la capital de francia	cuál es la capital de francia	0	0.97151321	El más evidente.	0
+6	dónde queda australia	dónde	16	0.8419795	Trata de decir eso con algo de contexto.	0
+7	a Panamá		9	-1	¿Crees que hay vida después de la muerte?	0
+8	quién inventó el bombillo	quién inventó	12	0.90102941	Charlie Parker. :-)	1
+9	y quién inventó el transistor		31	-1	¿Dónde te gustaría ir de vacaciones?	0
+10	Mi actor favorito es angelina jolie	store favorito es angelina jolie	6	0.73328745	¿Que dijiste?	1
+11	Angelina Jolie	Angelina Jolie	0	0.95618767	¿Que dijiste?	1
+12	quién es albert einstein		25	-1	¿Dónde te gustaría ir de vacaciones?	0
+13	adiós	adiós	0	0.70986009	Espero haber sido de ayuda.	1

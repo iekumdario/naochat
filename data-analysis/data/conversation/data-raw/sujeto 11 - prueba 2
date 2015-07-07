@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	cuál es tu jugador de béisbol favorito
+h	0.94740868	cuál es tu jugador favorito
+a	Me estás preguntando sobre mi jugador favorito ?
+c	1
+-------------------------------------
+r	correcto
+h	0.80163819	correcto
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	0
+-------------------------------------
+r	cual es tu jugador favorito
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	rojo
+h	0.74152386	robo
+a	¿Que dijiste?
+c	0
+-------------------------------------
+r	rojo
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	me gusta ver mucho under the dome
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	donde está ubicado el monte Everest
+h	0.98090786	donde está ubicado el monte Everest
+a	El ubicado el monte Everest? No sé, dónde está ubicado el monte Everest?
+c	1
+-------------------------------------
+r	quién inventó la electricidad
+h	0.98001736	quién inventó la electricidad
+a	Thomas Edison.
+c	1
+-------------------------------------
+r	que es inteligencia artificial
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	adiós
+h	0.67619991	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

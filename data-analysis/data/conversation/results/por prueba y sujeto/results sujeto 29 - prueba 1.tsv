@@ -1,0 +1,11 @@
+1	hola	hola	0	0.81434357	¿Qué tal?	1
+2	cómo te llamas		15	-1	Cuentame una historia.	0
+3	cómo estás	cómo estás	0	0.84093726	Muy bien, ¿en qué puedo ayudarte?	1
+4	qué haces		10	-1	¿Cuál es tu película favorita?	0
+5	cuéntame algo	cuéntame algo	0	0.79617023	Knight dijo que estrelló su coche contra un muro y se perdió el examen más importante de su vida.	1
+6	qué música te gusta	qué música te gusta	0	0.98001736	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?	1
+7	qué películas te gustan	películas te gusta	6	0.79285246	Mi película favorita es "Terminator".	1
+8	cuál es tu actor favorito	cuál es tu actor favorito	0	0.97837865	Mi actor favorito es Arnold Schwarzenegger en "Terminator".	1
+9	recomiéndame una película		27	-1	Cuentame, ¿Que hay de nuevo?	0
+10	gracias		7	-1	¿Crees que las máquinas son inteligentes?	0
+11	adiós		6	-1	¿Cuál es tu color favorito?	0

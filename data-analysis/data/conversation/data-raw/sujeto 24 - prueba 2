@@ -1,0 +1,43 @@
+-------------------------------------
+-------------------------------------
+r	te gusta el fútbol
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	dónde queda Inglaterra
+h	0.96228975	dónde queda Inglaterra
+a	Inglaterra está ubicada en una pequeña isla frente a la costa de Europa.
+c	1
+-------------------------------------
+r	que inventos conoces
+h	0.84079218	que inventó
+a	¿Que dijiste?
+c	0
+-------------------------------------
+r	mas o menos que inventos conoces
+h	0.87579918	Mahou menos que inventó conocí
+a	Repite porfavor
+c	1
+-------------------------------------
+r	te voy a hacer otra pregunta
+h	0.78146261	qué voy a hacer otra pregunta
+a	Qué crees?
+c	0
+-------------------------------------
+r	háblame de la historia de la inteligencia artificial
+h	0.9311071	háblame de la historia de la inteligencia
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	inteligencia artificial conoces su historia
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	playa gorgona
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+-------------------------------------

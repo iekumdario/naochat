@@ -1,0 +1,38 @@
+-------------------------------------
+-------------------------------------
+r	cuál es tu deporte favorito
+h	0.98001736	cuál es tu deporte favorito
+a	Me gustan los deportes personales como el patinaje.
+c	1
+-------------------------------------
+r	dónde queda madrid
+h	0.92149973	dónde queda madrid
+a	Madrid es una ciudad de España.
+c	1
+-------------------------------------
+r	quíen inventó la bombilla
+h	0.7881394	la bombilla
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	quién inventó la bombilla
+h	0.93373185	quién inventó la bombilla
+a	Los Hermanos Wright.
+c	1
+-------------------------------------
+r	quien fue albert einstein
+h	0.86510116	quien fue albert
+a	Es un nombre interesante. ¿Sabes su origen o qué?
+c	1
+-------------------------------------
+r	te gusta la inteligencia artificial
+h	0.81540018	inteligencia artificial
+a	La Inteligencia Artificial es una rama de investigación que engloba varias áreas.
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+-------------------------------------

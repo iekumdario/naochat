@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.95833391	Hola
+a	Hola, ¿qué hay?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.93328351	cómo te llamas
+a	Nao, ¿y tú?
+c	1
+-------------------------------------
+r	Ariadna como estás
+h	0.7792511	haría Extreme
+a	¿Cómo?
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Mike dijo que todos conocemos listo que es el punto de una broma más inteligente.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	no y películas
+h	0.64182681	ipeliculas
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Rutger Hauer en "Blade Runner".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.82159615	gracies
+a	Repite porfavor
+c	1
+-------------------------------------
+r	adiós
+h	0.85408729	adiós
+a	Hasta luego.
+c	1
+-------------------------------------
+-------------------------------------

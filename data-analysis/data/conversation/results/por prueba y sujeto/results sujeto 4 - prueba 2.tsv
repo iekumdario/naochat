@@ -1,0 +1,11 @@
+1	cuál es tu deporte favorito	deporte favorito	12	0.72287083	Repite porfavor	1
+2	cuál es tu deporte favorito	cuál es tu deporte favorito	0	0.98001736	Me gustan los deportes personales como el patinaje.	1
+3	donde está ubicado Panamá	donde está ubicado Panamá	0	0.98004049	No he escuchado bien, podrias repetir lo que haz dicho.	1
+4	donde está ubicado el país de Panamá	donde está ubicado el país de Panamá	0	0.97071272	Se necesita un algoritmo mas complejo para responder eso correctamente.	1
+5	qué es la inteligencia artificial	qué es la inteligencia artificial	0	0.96785796	¿Acaso crees que soy una enciclopedia viviente?	1
+6	qué significa Mecatrónica	que signifie	16	0.78261805	¿Que dijiste?	1
+7	qué significa Mecatrónica	qué significa Mecatrónica	0	0.9672305	Qué crees?	1
+8	quién inventó el automóvil		29	-1	¿Crees que hay vida después de la muerte?	0
+9	quién inventó el automóvil	quién inventó el automóvil	0	0.91426408	Tony Blair. :-)	1
+10	adiós		6	-1	¿Cúal es tu actor favorito?	0
+11	adiós	adiós	0	0.83913058	Hasta luego.	1

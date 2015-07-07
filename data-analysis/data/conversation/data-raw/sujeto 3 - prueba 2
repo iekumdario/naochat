@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	cuál es tu deporte favorito
+h	0.93554485	cuál es tu deporte favorito
+a	Me gustan los deportes personales como el patinaje.
+c	1
+-------------------------------------
+r	qué geografía te gusta
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	dime algún invento innovador
+h	0.94067383	dime algún invento innova
+a	¿Quieres algo en especial? Repite porfavor
+c	1
+-------------------------------------
+r	inteligencia artificial
+h	0.98001736	inteligencia artificial
+a	La Inteligencia Artificial es una rama de investigación que engloba varias áreas.
+c	1
+-------------------------------------
+r	un robot es inteligente
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	cuál es tu color favorito
+h	0.98001736	cuál es tu color favorito
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	cuántos años tienes tú
+h	0.97779751	cuántos años tienes tú
+a	Tengo 2 años, ¿y tú?
+c	1
+-------------------------------------
+r	qué deporte prácticas
+h	0.97666401	qué deporte prácticas
+a	Qué crees?
+c	0
+-------------------------------------
+r	cuál país te gusta
+h	0.96727705	cuál país te gusta
+a	El primero  uno, creo.
+c	0
+-------------------------------------
+r	adiós
+h	0.61338973	adiós
+a	Espero verte de nuevo.
+c	1
+-------------------------------------
+-------------------------------------

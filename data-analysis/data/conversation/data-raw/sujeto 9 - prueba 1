@@ -1,0 +1,78 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.88871253	Hola
+a	¿Qué tal?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.93808937	cómo te llamas
+a	Me llamo Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.85375047	cómo estás
+a	Encantado para ayudarte en todo lo que pueda.
+c	1
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Andre dijo que es lo que son, en su caso, que es un cuerpo y en mi caso se trata de un ordenador.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98067898	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	Chuck Norris
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	Mr and Ms Smith
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Jude Law en "AI".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	claro
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	gracias
+h	0.97401237	gracias
+a	De nada.
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	adiós
+h	0.59843481	adiós
+a	Hasta luego.
+c	1
+-------------------------------------
+-------------------------------------

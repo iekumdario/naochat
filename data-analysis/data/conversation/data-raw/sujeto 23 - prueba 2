@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	hola nao quién es el mejor futbolista de brasil
+h	0.55980486	quién es el mejor
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	cuál es la capital de china
+h	0.92243981	cuál es la capital de china
+a	El más evidente.
+c	0
+-------------------------------------
+r	quién inventó la imprenta
+h	0.98605937	quién inventó la imprenta
+a	Thomas Edison.
+c	1
+-------------------------------------
+r	cuando se inventó la imprenta
+h	0.94283658	cuando se inventó la imprenta
+a	No sé cuándo.
+c	1
+-------------------------------------
+r	qué es la máquina de turing
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	qué es la máquina de turing
+h	0.90357691	qué es la máquina de turing
+a	Soy real, ¿y tu?
+c	0
+-------------------------------------
+r	cuántos habitantes tiene china
+h	0.85159874	cuántos habitantes tiene
+a	Alrededor de cien.
+c	1
+-------------------------------------
+r	cuando se inventó la imprenta
+h	0.95574886	cuando se inventó la imprenta
+a	El pasado es historia, el futuro un misterio. El hoy es un regalo, por eso se llama "el presente".
+c	1
+-------------------------------------
+r	quién inventó la imprenta
+h	0.92792457	quién inventó la imprenta
+a	Los Chinos, mucho antes que los europeos.
+c	1
+-------------------------------------
+r	que es el fútbol
+h	0.97828496	que es el fútbol
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	adiós
+h	0.7756896	adiós
+a	Espero haber sido de ayuda.
+c	0
+-------------------------------------
+-------------------------------------

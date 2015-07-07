@@ -1,0 +1,20 @@
+1	hola cómo te llamas	hola cómo te llamas	0	0.91503847	"Saludos, ¿en qué puedo ayudarte? Nao, ¿y tú?"	1
+2	Yarlyn cómo estás	cómo estás	7	0.84303612	Muy bien.	1
+3	qué haces		10	-1	¿Dónde te gustaría ir de vacaciones?	0
+4	qué haces	qué haces	0	0.88050485	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.	1
+5	cuéntame algo	cuéntame algo	0	0.98001736	Habib dijo que ellos aprendo en conversaciones y simplemente repetirlos en un momento posterior.	1
+6	qué música te gusta	qué música te gusta	0	0.87631947	Me encantan las canciones de Daft Punk.	1
+7	y películas		12	-1	¿Cuál es tu color favorito?	0
+8	y películas	película	3	0.66842228	"Mi película favorita es ""AI""."	1
+9	cuál es tu color favorito	cuál es tu color favorito	0	0.98001736	"Los daltónicos no pueden apreciar algunos colores, pero eso no significa que éstos no existan."	0
+10	recomiendame una película	recomiendame una película	0	0.98147088	Mi película favorita es Robocop. La has visto?	1
+11	claro que sí gracias adios	claro que sí gracias a Dios	2	0.97432876	A la orden.	1
+1	mencióname dos deportes		24	-1	¿Cuál es tu película favorita?	0
+2	mencióname dos deportes		24	-1	"Cuentame, ¿Que hay de nuevo?"	0
+3	dónde queda Canadá	dónde queda Canadá	0	0.9622798	Canadá es una nación enorme que ocupa gran parte del continente norteamericano.	1
+4	quién inventó el celular	quién inventó el celular	0	0.98001736	David Bacon. :-)	1
+5	que es inteligencia artificial	que es inteligencia artificial	0	0.97415829	¿Acaso crees que soy una enciclopedia viviente?	1
+6	quién fue alf		14	-1	¿Cúal es tu actriz favorita?	0
+7	quién fue alf		14	-1	¿Cuál es tu película favorita?	0
+8	adiós	adiós	0	0.88586175	Espero haber sido de ayuda.	1
+			5.789473684	0.310603829		0.631578947

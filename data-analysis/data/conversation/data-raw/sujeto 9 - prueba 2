@@ -1,0 +1,98 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.81420535	Hola
+a	¿Qué tal?
+c	1
+-------------------------------------
+r	hablame de deportes
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	el fútbol
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	qué piensas de los deportes
+h	0.8081792	qué piensas de los deportes
+a	Qué crees?
+c	1
+-------------------------------------
+r	bueno no se me gusta también el volleyball
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	cuál deporte te gusta a ti
+h	0.95695096	cuál deporte te gusta a ti
+a	El último  uno, creo.
+c	1
+-------------------------------------
+r	dónde queda Panamá
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	dónde queda Panamá
+h	0.98001736	dónde queda Panamá
+a	Panamá está en el istmo entre América del Norte y América del Sur.
+c	1
+-------------------------------------
+r	que ciudades conoces de panamá
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	no y tú
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	si y tú
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	quién inventó el teléfono
+h	0.96713114	quién inventó el teléfono
+a	Mary Shelley. :-)
+c	1
+-------------------------------------
+r	quién
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	a veces
+h	0.76180619	ABC
+a	¿Cómo?
+c	1
+-------------------------------------
+r	sabes de inteligencia artificial
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	sabes de inteligencia artificial
+h	0.87052256	sabes de inteligencia artificial
+a	No, háblame sobre él, ella o eso.
+c	1
+-------------------------------------
+r	había una vez un muñeco que se llamaba Nao
+h	0.98001736	había una vez un muñeco
+a	¿Cómo?
+c	1
+-------------------------------------
+r	bueno pues habia un muñeco que se llamaba nao que tuvo muchos hijos
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	a veces adiós
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+-------------------------------------

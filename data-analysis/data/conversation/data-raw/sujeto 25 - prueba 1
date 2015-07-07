@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	hola
+h	0.78767079	hola
+a	Hola, ¿qué hay?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.93209881	cuéntame algo
+a	Neal dijo que planeo usar sus comentarios como el chisme en conversaciones posteriores con quién.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	cuál es tu color favorito
+h	0.8344003	cuál es tu color favorito
+a	Los daltónicos no pueden apreciar algunos colores, pero eso no significa que éstos no existan.
+c	0
+-------------------------------------
+r	recomiéndame una película
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	gracias
+h	0.91639572	gracias
+a	A la orden.
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+-------------------------------------

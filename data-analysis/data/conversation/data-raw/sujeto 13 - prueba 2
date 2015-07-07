@@ -1,0 +1,68 @@
+-------------------------------------
+-------------------------------------
+r	quién inventó la luz
+h	0.97979945	quién inventó la luz
+a	Los Hermanos Wright.
+c	1
+-------------------------------------
+r	que es la inteligencia artificial
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	hay vida despues de la muerte
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	cual es tu deporte favorito
+h	0.75345767	puerto deportivo
+a	Repite porfavor
+c	1
+-------------------------------------
+r	cuál es tu deporte favorito
+h	0.98001736	cuál es tu deporte favorito
+a	Me gustan los deportes personales como el patinaje.
+c	1
+-------------------------------------
+r	que patinador conoces
+h	0.48167786	qué pasa si no reconoce
+a	Yo estoy bien, ¿qué tal tú?
+c	0
+-------------------------------------
+r	donde queda estados unidos
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	en que continente queda estados unidos
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	donde queda la ciudad de panamá
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	que es ciencia
+h	0.94305021	que es ciencia
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	que es google
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	cuál es tu color favorito
+h	0.98001736	cuál es tu color favorito
+a	¿Sabías que los esquimales pueden diferenciar hasta 12 tonos distintos de blancos?
+c	0
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+-------------------------------------

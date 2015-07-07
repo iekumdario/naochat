@@ -1,0 +1,23 @@
+1	hola cómo te llamas	hola cómo te llamas	0	0.9170478	Hola. Me llamo Nao.	1
+2	cómo estás		12	-1	¿Dónde fuiste de vacaciones la última vez?	0
+3	que haces		9	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+4	cuéntame algo	cuéntame algo	0	0.98001736	Michael me dijo que que se puede hablar y de hecho creo que los seres humanos que no puedo.	1
+5	qué música te gusta	qué música te gusta	0	0.98001736	Me encantan las canciones de Daft Punk.	1
+6	y qué películas	en qué película	3	0.62504673	Qué es en qué película como en qué película.	0
+7	cuál es tu actor favorito	cuál es tu actor favorito	0	0.98001736	"Mi actor favorito es Jude Law en ""AI""."	1
+8	recomiendame una película	recomiendame una película	0	0.98146969	Mi película favorita es Robocop. La has visto?	1
+9	gracias	gracias	0	0.96968454	A la orden.	1
+10	adiós		6	-1	¿Cuál es tu película favorita?	0
+1	Hola cuál es la capital de colombia	Hola cuál es la capital de	9	0.95321727	"Hola, ¿cómo te llamas? El más evidente."	1
+2	cuál es la capital de Colombia	cuál es la capital de Colombia	0	0.96902531	El más evidente.	0
+3	qué es un sistema experto	sistema experto	11	0.97699726	Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?	1
+4	si si hay vida después de la muerte nos convertimos en caballos	vida después de la muerte	38	0.98001736	"Donde hay vida, hay esperanza."	1
+5	quien ganó la Champions del dos mil quince	quien ganó la Champions	19	0.97206783	Lo que dijiste es o muy complejo o muy simple para mi.	1
+6	quién es Manuel Elkin Patarroyo	quién es Manuel XM	15	0.89890438	¿Acaso crees que soy una enciclopedia viviente?	1
+7	de que país es el atlético nacional	de qué país es el AS	20	0.90830511	Eso es algo que jamás había escuchado.	0
+8	quién inventó el bombillo	quién inventó el bombillo	0	0.87912798	Benjamin Franklin	1
+9	qué es un agujero negro	qué es un agujero negro	0	0.98001736	Un agujero negro es una estrella colapsada en donde la fuerza de gravedad es tan fuerte que ni siquiera la luz misma puede escapar.	1
+10	no tengo		8	-1	¿Crees que las máquinas pueden pensar?	0
+11	no		2	-1	¿Cuál es tu color favorito?	0
+12	adiós		6	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+			7.181818182	0.406862759		0.590909091

@@ -1,0 +1,88 @@
+-------------------------------------
+-------------------------------------
+r	hola como te llamas
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	hola
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	hola
+h	0.81658518	hola
+a	Saludos, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	cómo te llamas
+h	0.96731949	cómo te llamas
+a	Me llamo Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.84093726	cómo estás
+a	Yo estoy bien, ¿y tú?
+c	1
+-------------------------------------
+r	también que haces
+h	0.88739014	también
+a	Mira que bien.
+c	1
+-------------------------------------
+r	Cuéntame algo
+h	0.95561963	Cuéntame
+a	¿Cómo?
+c	1
+-------------------------------------
+r	qué música te gusta
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	a Playa Blanca
+h	0.92672426	a Playa Blanca
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y peliculas
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	me quede en mi casa
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	no recuerdo
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Jude Law en "AI".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	si gracias
+h	0.77263898	gracias
+a	De nada.
+c	1
+-------------------------------------
+-------------------------------------

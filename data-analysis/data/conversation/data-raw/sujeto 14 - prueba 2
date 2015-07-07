@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	que deporte te gusta
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	ninguno
+h	0.93174458	ninguno
+a	¿Nada de nada?
+c	1
+-------------------------------------
+r	y el tuyo cuál es
+h	0.9808982	YouTube cuál es
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	el tuyo cuál es
+h	0.98001736	cuál es
+a	El primero  uno, creo.
+c	0
+-------------------------------------
+r	te gusta jugar béisbol
+h	0.963552	te gusta jugar
+a	A ti también te debe gustar, ¿no?
+c	1
+-------------------------------------
+r	si
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	no
+h	0.68024641	mu
+a	¿Cómo?
+c	0
+-------------------------------------
+r	qué opinas del fútbol
+h	0.96129453	qué opinas del fútbol
+a	Yo no opino.
+c	1
+-------------------------------------
+r	entonces qué haces
+h	0.88861626	entonces qué haces
+a	Interesante deducción.  Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	no quiero tu servicio
+h	0.86090779	no quiero tu servicio
+a	¿Realmente quieres eso?
+c	1
+-------------------------------------
+r	si
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	adiós
+h	0.80309802	adiós
+a	Espero verte de nuevo.
+c	1
+-------------------------------------
+-------------------------------------

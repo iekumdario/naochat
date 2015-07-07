@@ -1,0 +1,472 @@
+[2009-09-17 00:18:16.108740] - inicio de la conversacion
+---------------------
+confidence: (0.79272759)
+[2009-09-17 00:18:27.375294](q): hola
+[2009-09-17 00:18:27.530423](a): Hola, ¿qué hay?
+confidence: (0.82841074)
+[2009-09-17 00:18:45.253004](q): imágenes
+[2009-09-17 00:18:45.263366](a): ¿Que dijiste?
+[2009-09-17 00:21:54.208278] - inicio de la conversacion
+---------------------
+confidence: (-1)
+[2009-09-17 00:22:04.369166](q):ERROR
+[2009-09-17 00:22:04.393963](a): ¿Cuál es tu color favorito?
+confidence: (-1)
+[2009-09-17 00:22:20.976343](q):ERROR
+[2009-09-17 00:22:20.987362](a): ¿Cuál es tu película favorita?
+confidence: (-1)
+[2009-09-17 00:22:35.807742](q):ERROR
+[2009-09-17 00:22:35.820541](a): ¿Cuál es tu deporte favorito?
+confidence: (-1)
+[2009-09-17 00:22:49.938900](q):ERROR
+[2009-09-17 00:23:31.697132] - inicio de la conversacion
+---------------------
+confidence: (0.65288132)
+[2009-09-17 00:23:42.429677](q): Hola
+[2009-09-17 00:23:42.450074](a): Hola.
+confidence: (0.80622315)
+[2009-09-17 00:23:54.910173](q): cómo estás
+[2009-09-17 00:23:54.926588](a): Yo estoy bien, ¿y tú?
+confidence: (0.91093963)
+[2009-09-17 00:24:08.887394](q): muy bien qué haces
+[2009-09-17 00:24:08.896731](a): Bien.
+confidence: (0.88947129)
+[2009-09-17 00:24:21.772725](q): cuéntame algo
+[2009-09-17 00:24:21.784141](a): Jo dijo que desmontar frases demasiado y no entiendo completamente las preguntas que me pregunte.
+confidence: (0.98001736)
+[2009-09-17 00:24:38.569278](q): qué música te gusta
+[2009-09-17 00:24:38.581778](a): Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+confidence: (0.96024227)
+[2009-09-17 00:24:58.673364](q): y cuál es tu color favorito
+[2009-09-17 00:24:58.690012](a): Los daltónicos no pueden apreciar algunos colores, pero eso no significa que éstos no existan.
+confidence: (0.87603974)
+[2009-09-17 00:25:19.804527](q): recomiendame una película
+[2009-09-17 00:25:19.813938](a): Mi película favorita es Robocop. La has visto?
+confidence: (0.74959475)
+[2009-09-17 00:25:36.932264](q): claro que sí gracias a dios
+[2009-09-17 00:25:36.943878](a): A la orden.
+[2009-09-17 00:28:38.888808] - inicio de la conversacion
+---------------------
+confidence: (-1)
+[2009-09-17 00:28:48.110073](q):ERROR
+[2009-09-17 00:28:48.166292](a): Cuentame, ¿Que hay de nuevo?
+confidence: (0.96228975)
+[2009-09-17 00:29:01.559737](q): dónde queda Inglaterra
+[2009-09-17 00:29:01.574553](a): Inglaterra está ubicada en una pequeña isla frente a la costa de Europa.
+confidence: (0.84079218)
+[2009-09-17 00:29:14.395813](q): que inventó
+[2009-09-17 00:29:14.406238](a): ¿Que dijiste?
+confidence: (0.87579918)
+[2009-09-17 00:29:27.013139](q): Mahou menos que inventó conocí
+[2009-09-17 00:29:27.020816](a): Repite porfavor
+confidence: (0.78146261)
+[2009-09-17 00:29:39.292644](q): qué voy a hacer otra pregunta
+[2009-09-17 00:29:39.335375](a): Qué crees?
+confidence: (0.9311071)
+[2009-09-17 00:29:54.304226](q): háblame de la historia de la inteligencia
+[2009-09-17 00:29:54.322084](a): No he escuchado bien, podrias repetir lo que haz dicho.
+confidence: (-1)
+[2009-09-17 00:30:10.457861](q):ERROR
+[2009-09-17 00:30:10.474060](a): Cuentame, ¿Que hay de nuevo?
+confidence: (-1)
+[2009-09-17 00:30:25.537104](q):ERROR
+[2009-09-17 00:30:25.549665](a): ¿Dónde fuiste de vacaciones la última vez?
+confidence: (-1)
+[2009-09-17 00:30:38.942013](q):ERROR
+[2009-09-17 00:30:38.962582](a): ¿Dónde te gustaría ir de vacaciones?
+[2009-09-17 00:31:24.554134] - inicio de la conversacion
+---------------------
+confidence: (-1)
+[2009-09-17 00:31:36.590748](q):ERROR
+[2009-09-17 00:31:36.651932](a): ¿Cúal es tu actor favorito?
+confidence: (-1)
+[2009-09-17 00:31:55.376809](q):ERROR
+[2009-09-17 00:31:55.399001](a): ¿Cuál es tu deporte favorito?
+confidence: (-1)
+[2009-09-17 00:32:11.934956](q):ERROR
+[2009-09-17 00:32:11.937644](a): ¿Cuál es tu color favorito?
+[2009-09-17 00:49:17.530548] - inicio de la conversacion
+---------------------
+confidence: (0.78767079)
+[2009-09-17 00:49:26.136334](q): hola
+[2009-09-17 00:49:26.166157](a): Hola, ¿qué hay?
+confidence: (-1)
+[2009-09-17 00:49:40.008397](q):ERROR
+[2009-09-17 00:49:40.456374](a): ¿Cuál es tu mejor recuerdo de infancia?
+confidence: (-1)
+[2009-09-17 00:49:51.292646](q):ERROR
+[2009-09-17 00:49:51.306183](a): ¿Cúal es tu actor favorito?
+confidence: (-1)
+[2009-09-17 00:50:03.935615](q):ERROR
+[2009-09-17 00:50:03.945835](a): Cuentame, ¿Que hay de nuevo?
+confidence: (-1)
+[2009-09-17 00:50:16.768690](q):ERROR
+[2009-09-17 00:50:16.791990](a): ¿Cuál es tu color favorito?
+confidence: (-1)
+[2009-09-17 00:50:31.521662](q):ERROR
+[2009-09-17 00:50:31.537691](a): Cuentame, ¿Que hay de nuevo?
+confidence: (0.93209881)
+[2009-09-17 00:50:46.416164](q): cuéntame algo
+[2009-09-17 00:50:46.442022](a): Neal dijo que planeo usar sus comentarios como el chisme en conversaciones posteriores con quién.
+confidence: (0.98001736)
+[2009-09-17 00:51:02.118594](q): qué música te gusta
+[2009-09-17 00:51:02.139327](a): Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+confidence: (-1)
+[2009-09-17 00:51:19.627288](q):ERROR
+[2009-09-17 00:51:19.639735](a): ¿Cuál es tu color favorito?
+confidence: (0.8344003)
+[2009-09-17 00:51:32.223561](q): cuál es tu color favorito
+[2009-09-17 00:51:32.239541](a): Los daltónicos no pueden apreciar algunos colores, pero eso no significa que éstos no existan.
+confidence: (-1)
+[2009-09-17 00:51:48.758894](q):ERROR
+[2009-09-17 00:51:48.768512](a): ¿Dónde te gustaría ir de vacaciones?
+confidence: (0.91639572)
+[2009-09-17 00:52:02.156714](q): gracias
+[2009-09-17 00:52:02.164432](a): A la orden.
+confidence: (-1)
+[2009-09-17 00:52:14.129659](q):ERROR
+[2009-09-17 00:52:14.160161](a): Cuentame una historia.
+[2009-09-17 00:54:39.387634] - inicio de la conversacion
+---------------------
+confidence: (0.831689)
+[2009-09-17 00:54:50.655132](q): fútbol
+[2009-09-17 00:54:50.695262](a): ¿Cómo?
+confidence: (-1)
+[2009-09-17 00:55:03.364835](q):ERROR
+[2009-09-17 00:55:03.374700](a): ¿Dónde te gustaría ir de vacaciones?
+confidence: (0.77861059)
+[2009-09-17 00:55:18.195849](q): qué opinan sobre el fútbol
+[2009-09-17 00:55:18.204033](a): Qué crees?
+confidence: (-1)
+[2009-09-17 00:55:36.740691](q):ERROR
+[2009-09-17 00:55:36.753317](a): Cuentame una historia.
+confidence: (0.76911819)
+[2009-09-17 00:55:51.197911](q): fútbol
+[2009-09-17 00:55:51.213625](a): No he escuchado bien, podrias repetir lo que haz dicho.
+confidence: (-1)
+[2009-09-17 00:56:06.318986](q):ERROR
+[2009-09-17 00:56:06.332573](a): ¿Crees que hay vida después de la muerte?
+confidence: (-1)
+[2009-09-17 00:56:20.427412](q):ERROR
+[2009-09-17 00:56:20.465328](a): ¿Crees que las máquinas pueden pensar?
+confidence: (-1)
+[2009-09-17 00:56:38.840406](q):ERROR
+[2009-09-17 00:56:38.850871](a): ¿Cúal es tu actriz favorita?
+confidence: (0.8302387)
+[2009-09-17 00:56:52.747816](q): miley cyrus
+[2009-09-17 00:56:52.759371](a): No he escuchado bien, podrias repetir lo que haz dicho.
+confidence: (-1)
+[2009-09-17 00:57:09.130752](q):ERROR
+[2009-09-17 00:57:09.143358](a): ¿Cúal es tu actor favorito?
+confidence: (-1)
+[2009-09-17 00:57:21.372053](q):ERROR
+[2009-09-17 00:57:21.392733](a): ¿Cúal es tu actor favorito?
+[2009-09-17 01:01:39.238376] - inicio de la conversacion
+---------------------
+confidence: (0.90377921)
+[2009-09-17 01:01:48.496593](q): Hola
+[2009-09-17 01:01:48.527064](a): ¿Qué tal?
+confidence: (0.97232646)
+[2009-09-17 01:02:01.613120](q): cómo te llamas
+[2009-09-17 01:02:01.624486](a): Nao, ¿y tú?
+confidence: (-1)
+[2009-09-17 01:02:18.964150](q):ERROR
+[2009-09-17 01:02:18.978011](a): ¿Crees que las máquinas pueden pensar?
+confidence: (-1)
+[2009-09-17 01:02:34.146897](q):ERROR
+[2009-09-17 01:02:34.157437](a): ¿Cuál es tu película favorita?
+confidence: (-1)
+[2009-09-17 01:02:51.228813](q):ERROR
+[2009-09-17 01:02:51.243094](a): ¿Crees que hay vida después de la muerte?
+confidence: (0.89605272)
+[2009-09-17 01:03:05.907401](q): cuéntame algo
+[2009-09-17 01:03:05.917860](a): Allison dijo que que se pone muy molesto porque él sabía lo que decir y no tengo que decirle que hable libremente.
+confidence: (0.98025548)
+[2009-09-17 01:03:28.541285](q): qué música te gusta
+[2009-09-17 01:03:28.554278](a): Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+confidence: (-1)
+[2009-09-17 01:03:46.302961](q):ERROR
+[2009-09-17 01:03:46.331360](a): Cuentame, ¿Que hay de nuevo?
+confidence: (0.88082725)
+[2009-09-17 01:03:59.502499](q): cuál es tu actor favorito
+[2009-09-17 01:03:59.514105](a): Mi actor favorito es Robin Williams en "El Hombre Bicentenario".
+confidence: (0.85254973)
+[2009-09-17 01:04:14.976158](q): recomiendame una película
+[2009-09-17 01:04:15.041614](a): Mi película favorita es Robocop. La has visto?
+confidence: (-1)
+[2009-09-17 01:04:31.528366](q):ERROR
+[2009-09-17 01:04:31.539816](a): ¿Dónde fuiste de vacaciones la última vez?
+confidence: (-1)
+[2009-09-17 01:04:49.979151](q):ERROR
+[2009-09-17 01:04:49.989625](a): ¿Cúal es tu actor favorito?
+confidence: (-1)
+[2009-09-17 01:05:03.630535](q):ERROR
+[2009-09-17 01:05:03.641309](a): ¿Cuál es tu color favorito?
+[2009-09-17 01:06:20.921001] - inicio de la conversacion
+---------------------
+confidence: (0.95920515)
+[2009-09-17 01:06:32.103535](q): qué opinas del tenis
+[2009-09-17 01:06:32.230039](a): Vaya, espero que Jose Quintero me dote de la capacidad para opinar.
+confidence: (-1)
+[2009-09-17 01:06:50.816108](q):ERROR
+[2009-09-17 01:06:50.837844](a): ¿Dónde te gustaría ir de vacaciones?
+confidence: (0.83313423)
+[2009-09-17 01:07:05.171072](q): España
+[2009-09-17 01:07:05.183699](a): Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?
+confidence: (0.98001736)
+[2009-09-17 01:07:22.608797](q): quién inventó la electricidad
+[2009-09-17 01:07:22.620654](a): Benjamin Franklin
+confidence: (-1)
+[2009-09-17 01:07:35.004882](q):ERROR
+[2009-09-17 01:07:35.016606](a): ¿Cuál es tu deporte favorito?
+confidence: (-1)
+[2009-09-17 01:07:47.714616](q):ERROR
+[2009-09-17 01:07:47.725549](a): ¿Cuál es tu color favorito?
+confidence: (-1)
+[2009-09-17 01:08:00.718338](q):ERROR
+[2009-09-17 01:08:00.730388](a): ¿Dónde te gustaría ir de vacaciones?
+confidence: (0.98001736)
+[2009-09-17 01:08:14.429647](q): dónde queda Panamá
+[2009-09-17 01:08:14.444849](a): Panamá está en el istmo entre América del Norte y América del Sur.
+confidence: (-1)
+[2009-09-17 01:08:28.463045](q):ERROR
+[2009-09-17 01:08:28.477838](a): ¿Cuál es tu deporte favorito?
+confidence: (-1)
+[2009-09-17 01:08:41.422593](q):ERROR
+[2009-09-17 01:08:41.436902](a): ¿Crees que las máquinas son inteligentes?
+confidence: (-1)
+[2009-09-17 01:08:55.564657](q):ERROR
+[2009-09-17 01:08:55.578643](a): ¿Cuál es tu deporte favorito?
+confidence: (-1)
+[2009-09-17 01:09:08.640949](q):ERROR
+[2009-09-17 01:09:08.650966](a): ¿Cúal es tu actriz favorita?
+confidence: (0.65770864)
+[2009-09-17 01:09:21.766718](q): luego
+[2009-09-17 01:09:21.777265](a): Repite porfavor
+[2009-09-17 01:11:10.134069] - inicio de la conversacion
+---------------------
+confidence: (0.74998927)
+[2009-09-17 01:11:18.984381](q): Hola
+[2009-09-17 01:11:19.013784](a): Saludos, ¿en qué puedo ayudarte?
+confidence: (0.89574289)
+[2009-09-17 01:11:33.400961](q): cómo te llamas
+[2009-09-17 01:11:33.415342](a): Nao.
+confidence: (0.84228373)
+[2009-09-17 01:11:44.371983](q): cómo estás
+[2009-09-17 01:11:44.381574](a): Yo estoy bien, ¿qué tal tú?
+confidence: (0.82213259)
+[2009-09-17 01:11:58.051406](q): qué haces
+[2009-09-17 01:11:58.074802](a): Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+confidence: (-1)
+[2009-09-17 01:12:14.105837](q):ERROR
+[2009-09-17 01:12:14.127593](a): ¿Crees que hay vida después de la muerte?
+confidence: (0.79356265)
+[2009-09-17 01:12:27.855074](q): qué música te gusta
+[2009-09-17 01:12:27.869606](a): Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+confidence: (0.71016598)
+[2009-09-17 01:12:44.848284](q): ipeliculas
+[2009-09-17 01:12:44.861466](a): Repite porfavor
+confidence: (0.98001736)
+[2009-09-17 01:12:56.686059](q): cuál es tu actor favorito
+[2009-09-17 01:12:56.704868](a): Mi actor favorito es Jude Law en "AI".
+confidence: (0.98146969)
+[2009-09-17 01:13:09.255110](q): recomiendame una película
+[2009-09-17 01:13:09.264175](a): Mi película favorita es Robocop. La has visto?
+confidence: (0.80178136)
+[2009-09-17 01:13:24.423221](q): gracias
+[2009-09-17 01:13:24.432051](a): De nada.
+confidence: (0.82383704)
+[2009-09-17 01:13:35.442821](q): adiós
+[2009-09-17 01:13:35.453811](a): Espero haber sido de ayuda.
+---------------------
+[2009-09-17 01:13:37.973342]fin de la conversacion
+---------------------
+[2009-09-17 01:14:21.712290] - inicio de la conversacion
+---------------------
+confidence: (0.94931662)
+[2009-09-17 01:14:31.639941](q): qué es la natación
+[2009-09-17 01:14:31.675051](a): ¿Acaso crees que soy una enciclopedia viviente?
+confidence: (0.8734045)
+[2009-09-17 01:14:47.528872](q): quién inventó la
+[2009-09-17 01:14:47.537973](a): Los Hermanos Wright.
+confidence: (0.75369924)
+[2009-09-17 01:14:59.725786](q): dónde queda el Barcelona
+[2009-09-17 01:14:59.742329](a): ¿Que dijiste?
+confidence: (0.90506148)
+[2009-09-17 01:15:12.106567](q): dónde queda el barcelona
+[2009-09-17 01:15:12.127084](a): ¿Que dijiste?
+confidence: (-1)
+[2009-09-17 01:15:23.723001](q):ERROR
+[2009-09-17 01:15:23.742945](a): ¿Cúal es tu actriz favorita?
+confidence: (0.96933579)
+[2009-09-17 01:15:37.614536](q): Megan Fox
+[2009-09-17 01:15:37.627348](a): No he escuchado bien, podrias repetir lo que haz dicho.
+confidence: (0.96271664)
+[2009-09-17 01:15:53.353012](q): Megan Fox
+[2009-09-17 01:15:53.362619](a): No he escuchado bien, podrias repetir lo que haz dicho.
+confidence: (-1)
+[2009-09-17 01:16:07.719701](q):ERROR
+[2009-09-17 01:16:07.739534](a): ¿Crees que las máquinas son inteligentes?
+confidence: (-1)
+[2009-09-17 01:16:21.253062](q):ERROR
+[2009-09-17 01:16:21.264169](a): ¿Cuál es tu película favorita?
+confidence: (0.90198529)
+[2009-09-17 01:16:35.958848](q): las crónicas de narnia
+[2009-09-17 01:16:35.973480](a): ¿Cómo?
+confidence: (0.9308117)
+[2009-09-17 01:16:47.703886](q): Las crónicas de Narnia
+[2009-09-17 01:16:47.712772](a): ¿Que dijiste?
+confidence: (0.54815114)
+[2009-09-17 01:16:59.803406](q): adiós
+[2009-09-17 01:16:59.820404](a): Hasta luego.
+---------------------
+[2009-09-17 01:17:01.593493]fin de la conversacion
+---------------------
+[2009-09-17 01:29:59.348232] - inicio de la conversacion
+---------------------
+[2009-09-17 01:30:33.116754] - inicio de la conversacion
+---------------------
+confidence: (-1)
+[2009-09-17 01:30:42.787119](q):ERROR
+[2009-09-17 01:30:42.814344](a): Cuentame, ¿Que hay de nuevo?
+confidence: (0.98118323)
+[2009-09-17 01:30:57.812054](q): cómo te llamas
+[2009-09-17 01:30:57.835111](a): Nao, ¿y tú?
+confidence: (0.95049375)
+[2009-09-17 01:31:11.815045](q): Maybelline
+[2009-09-17 01:31:11.822983](a): No he escuchado bien, podrias repetir lo que haz dicho.
+confidence: (-1)
+[2009-09-17 01:31:26.234637](q):ERROR
+[2009-09-17 01:31:26.234309](a): ¿Dónde te gustaría ir de vacaciones?
+confidence: (0.865767)
+[2009-09-17 01:31:38.998529](q): qué haces
+[2009-09-17 01:31:39.010514](a): Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+confidence: (0.85006285)
+[2009-09-17 01:31:53.905012](q): cuéntame algo
+[2009-09-17 01:31:53.916638](a): Charlie dijo que escriba una palabra y luego escriba una palabra que suena como él.
+confidence: (-1)
+[2009-09-17 01:32:09.553957](q):ERROR
+[2009-09-17 01:32:09.585534](a): ¿Crees que las máquinas son inteligentes?
+confidence: (0.95312053)
+[2009-09-17 01:32:25.650701](q): música te gusta
+[2009-09-17 01:32:25.660236](a): Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+confidence: (-1)
+[2009-09-17 01:32:44.093178](q):ERROR
+[2009-09-17 01:32:44.103380](a): ¿Cuál es tu color favorito?
+confidence: (0.98001736)
+[2009-09-17 01:32:58.122976](q): cuál es tu actor favorito
+[2009-09-17 01:32:58.131810](a): Mi actor favorito es Rutger Hauer en "Blade Runner".
+confidence: (0.86857915)
+[2009-09-17 01:33:12.581013](q): recomiendame una película
+[2009-09-17 01:33:12.591044](a): Mi película favorita es Robocop. La has visto?
+confidence: (0.81153274)
+[2009-09-17 01:33:27.970552](q): gracias
+[2009-09-17 01:33:27.978189](a): De nada.
+confidence: (-1)
+[2009-09-17 01:33:40.987978](q):ERROR
+[2009-09-17 01:33:40.997405](a): ¿Cuál es tu deporte favorito?
+[2009-09-17 01:34:48.728621] - inicio de la conversacion
+---------------------
+confidence: (0.97208673)
+[2009-09-17 01:35:00.359106](q): qué opinión sobre el deporte
+[2009-09-17 01:35:00.381759](a): Vaya, espero que Jose Quintero me dote de la capacidad para opinar.
+[2009-09-17 01:35:18.541112](a): Cuentame una historia.
+confidence: (-1)
+[2009-09-17 01:35:18.531191](q):ERROR
+confidence: (-1)
+[2009-09-17 01:35:31.028344](q):ERROR
+[2009-09-17 01:35:31.039948](a): Cuentame una historia.
+confidence: (0.88145006)
+[2009-09-17 01:35:43.884631](q): quién inventó el facebook
+[2009-09-17 01:35:43.892436](a): Eli Whitney inventó la desmotadora de algodón.
+confidence: (-1)
+[2009-09-17 01:35:59.221957](q):ERROR
+[2009-09-17 01:35:59.255514](a): ¿Cuál es tu deporte favorito?
+confidence: (-1)
+[2009-09-17 01:36:12.859923](q):ERROR
+[2009-09-17 01:36:12.869981](a): ¿Crees que hay vida después de la muerte?
+confidence: (-1)
+[2009-09-17 01:36:27.455606](q):ERROR
+[2009-09-17 01:36:27.452634](a): ¿Dónde fuiste de vacaciones la última vez?
+confidence: (-1)
+[2009-09-17 01:36:42.432992](q):ERROR
+[2009-09-17 01:36:42.445917](a): ¿Cuál es tu color favorito?
+confidence: (0.84131491)
+[2009-09-17 01:36:56.988496](q): dime un
+[2009-09-17 01:36:56.999776](a): ¿Qué podría decirte? ¿Cómo?
+confidence: (-1)
+[2009-09-17 01:37:12.205034](q):ERROR
+[2009-09-17 01:37:12.233639](a): ¿Dónde te gustaría ir de vacaciones?
+confidence: (0.92623359)
+[2009-09-17 01:37:27.627532](q): qué es la inteligencia artificial
+[2009-09-17 01:37:27.683888](a): ¿Acaso crees que soy una enciclopedia viviente?
+confidence: (0.8397904)
+[2009-09-17 01:37:43.379966](q): adiós
+[2009-09-17 01:37:43.394910](a): Espero haber sido de ayuda.
+---------------------
+[2009-09-17 01:37:45.901721]fin de la conversacion
+---------------------
+[2009-09-17 01:39:37.210832] - inicio de la conversacion
+---------------------
+confidence: (0.81434357)
+[2009-09-17 01:39:47.415490](q): hola
+[2009-09-17 01:39:47.445846](a): ¿Qué tal?
+confidence: (-1)
+[2009-09-17 01:39:59.833890](q):ERROR
+[2009-09-17 01:39:59.850513](a): Cuentame una historia.
+confidence: (0.84093726)
+[2009-09-17 01:40:18.273910](q): cómo estás
+[2009-09-17 01:40:18.281187](a): Muy bien, ¿en qué puedo ayudarte?
+confidence: (-1)
+[2009-09-17 01:40:32.048381](q):ERROR
+[2009-09-17 01:40:32.063674](a): ¿Cuál es tu película favorita?
+confidence: (0.79617023)
+[2009-09-17 01:40:44.402353](q): cuéntame algo
+[2009-09-17 01:40:44.417570](a): Knight dijo que estrelló su coche contra un muro y se perdió el examen más importante de su vida.
+confidence: (0.98001736)
+[2009-09-17 01:41:00.372861](q): qué música te gusta
+[2009-09-17 01:41:00.396259](a): Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+confidence: (0.79285246)
+[2009-09-17 01:41:18.292784](q): películas te gusta
+[2009-09-17 01:41:18.320929](a): Mi película favorita es "Terminator".
+confidence: (0.97837865)
+[2009-09-17 01:41:31.858753](q): cuál es tu actor favorito
+[2009-09-17 01:41:31.872860](a): Mi actor favorito es Arnold Schwarzenegger en "Terminator".
+confidence: (-1)
+[2009-09-17 01:41:46.306361](q):ERROR
+[2009-09-17 01:41:46.317844](a): Cuentame, ¿Que hay de nuevo?
+confidence: (-1)
+[2009-09-17 01:42:01.006089](q):ERROR
+[2009-09-17 01:42:01.029868](a): ¿Crees que las máquinas son inteligentes?
+confidence: (-1)
+[2009-09-17 01:42:14.665080](q):ERROR
+[2009-09-17 01:42:14.681393](a): ¿Cuál es tu color favorito?
+[2009-09-17 01:42:44.320487] - inicio de la conversacion
+---------------------
+confidence: (0.98001736)
+[2009-09-17 01:42:53.916516](q): cuál es tu deporte favorito
+[2009-09-17 01:42:53.939088](a): Me gustan los deportes personales como el patinaje.
+confidence: (0.92149973)
+[2009-09-17 01:43:07.658789](q): dónde queda madrid
+[2009-09-17 01:43:07.668904](a): Madrid es una ciudad de España.
+confidence: (0.7881394)
+[2009-09-17 01:43:19.178903](q): la bombilla
+[2009-09-17 01:43:19.192726](a): ¿Que dijiste?
+confidence: (0.93373185)
+[2009-09-17 01:43:30.849689](q): quién inventó la bombilla
+[2009-09-17 01:43:30.866000](a): Los Hermanos Wright.
+confidence: (0.86510116)
+[2009-09-17 01:43:42.439538](q): quien fue albert
+[2009-09-17 01:43:42.448648](a): Es un nombre interesante. ¿Sabes su origen o qué?
+confidence: (0.81540018)
+[2009-09-17 01:43:56.961829](q): inteligencia artificial
+[2009-09-17 01:43:56.970046](a): La Inteligencia Artificial es una rama de investigación que engloba varias áreas.
+confidence: (-1)
+[2009-09-17 01:44:11.437864](q):ERROR
+[2009-09-17 01:44:11.455551](a): ¿Crees que las máquinas son inteligentes?
+confidence: (-1)
+[2009-09-17 01:44:24.945725](q):ERROR
+[2009-09-17 01:44:24.972661](a): ¿Crees que hay vida después de la muerte?
+confidence: (-1)
+[2009-09-17 01:44:38.223634](q):ERROR
+[2009-09-17 01:44:38.237341](a): ¿Cuál es tu película favorita?

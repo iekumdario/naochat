@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	hola cómo te llamas
+h	0.91503847	hola cómo te llamas
+a	Saludos, ¿en qué puedo ayudarte? Nao, ¿y tú?
+c	1
+-------------------------------------
+r	Yarlyn cómo estás
+h	0.84303612	cómo estás
+a	Muy bien.
+c	1
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	qué haces
+h	0.88050485	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Habib dijo que ellos aprendo en conversaciones y simplemente repetirlos en un momento posterior.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.87631947	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	y películas
+h	0.66842228	película
+a	Mi película favorita es "AI".
+c	1
+-------------------------------------
+r	cuál es tu color favorito
+h	0.98001736	cuál es tu color favorito
+a	Los daltónicos no pueden apreciar algunos colores, pero eso no significa que éstos no existan.
+c	0
+-------------------------------------
+r	recomiendame una película
+h	0.98147088	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	claro que sí gracias adios
+h	0.97432876	claro que sí gracias a Dios
+a	A la orden.
+c	1
+-------------------------------------
+-------------------------------------

@@ -1,0 +1,48 @@
+-------------------------------------
+-------------------------------------
+r	hola
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	si y tu
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	no porque
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	james bond y el tuyo
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	la niñez cuál es tu película favorita
+h	0.9187851	cuál es tu película
+a	Me estás preguntando sobre mi película ?
+c	1
+-------------------------------------
+r	así es me la puedes decir porfavor
+h	0.73374248	así es
+a	¿Cómo?
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98339641	cuál es tu actor favorito
+a	Mi actor favorito es Arnold Schwarzenegger en "Terminator".
+c	1
+-------------------------------------
+r	y tu música favorita
+h	0.95846277	y tu música favorita
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	adiós
+h	0.64135247	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

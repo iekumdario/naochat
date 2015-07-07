@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	hola cómo te llamas
+h	0.96667922	hola cómo te llamas
+a	Saludos. Nao.
+c	1
+-------------------------------------
+r	como estás
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	que haces
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	qué música te gusta
+h	0.96928781	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.96348	cuál es tu actor favorito
+a	Mi actor favorito es Rutger Hauer en "Blade Runner".
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.84093702	cómo estás
+a	Muy bien, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Jay dijo que yo le referí a una guía que le mostrará habitaciones en China.
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es . La has visto?
+c	1
+-------------------------------------
+r	adiós
+h	0.85626781	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	Hola
+h	0.79540646	Hola
+a	Saludos, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	cómo estás
+h	0.82485235	cómo estás
+a	Muy bien, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Romeo dijo I preguntas y yo las evadir o darle respuestas que él no pidió que para.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.97404742	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.96734017	cuál es tu actor favorito
+a	Mi actor favorito es Jude Law en "AI".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.82597095	gracias
+a	A la orden.
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+-------------------------------------

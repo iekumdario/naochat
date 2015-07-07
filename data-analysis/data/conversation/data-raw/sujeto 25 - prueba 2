@@ -1,0 +1,38 @@
+-------------------------------------
+-------------------------------------
+r	qué es el fútbol
+h	0.831689	fútbol
+a	¿Cómo?
+c	0
+-------------------------------------
+r	que qué es el fútbol
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	qué opinas sobre el fútbol
+h	0.77861059	qué opinan sobre el fútbol
+a	Qué crees?
+c	0
+-------------------------------------
+r	cuales son tus deportes favoritos
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	qué es el fútbol
+h	0.76911819	fútbol
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	tal vez
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	miley cyrus
+h	0.8302387	miley cyrus
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+-------------------------------------

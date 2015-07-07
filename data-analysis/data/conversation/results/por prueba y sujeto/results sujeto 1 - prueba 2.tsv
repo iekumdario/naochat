@@ -1,0 +1,9 @@
+1	hola		4	-1	¿Crees que las máquinas son inteligentes?	0
+2	si y tu		7	-1	¿Crees que las máquinas pueden pensar?	0
+3	no porque		9	-1	¿Cúal es tu actor favorito?	0
+4	james bond y el tuyo		20	-1	¿Cuál es tu mejor recuerdo de infancia?	0
+5	la niñez cuál es tu película favorita	cuál es tu película	19	0.9187851	Me estás preguntando sobre mi película ?	1
+6	así es me la puedes decir porfavor	así es	28	0.73374248	¿Cómo?	1
+7	cuál es tu actor favorito	cuál es tu actor favorito	0	0.98339641	Mi actor favorito es Arnold Schwarzenegger en "Terminator".	1
+8	y tu música favorita	y tu música favorita	0	0.95846277	Me encantan las canciones de Daft Punk.	1
+9	adiós	adiós	0	0.64135247	Espero haber sido de ayuda.	1

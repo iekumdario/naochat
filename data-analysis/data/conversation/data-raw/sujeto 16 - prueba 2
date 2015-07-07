@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	nombres de deportes
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	conoces el béisbol
+h	0.49912527	conocer Facebook
+a	¿Cómo?
+c	0
+-------------------------------------
+r	conoces el béisbol
+h	0.67725283	béisbol
+a	Repite porfavor
+c	0
+-------------------------------------
+r	conoces el béisbol
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	donde está ubicado venezuela
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	lima donde está ubicado
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	el béisbol béisbol
+h	0.85468179	face
+a	Repite porfavor
+c	0
+-------------------------------------
+r	sabes quién es juan pablo segundo
+h	0.93831843	sabes quién es juan pablo segundo
+a	Jeje, conozco a alguien con tu mismo nombre.
+c	0
+-------------------------------------
+r	donde está lima
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+r	el blanco
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	jennifer lópez
+h	0.79466987	jennifer lópez
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	Jennifer López
+h	0.95170844	Jennifer López
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+-------------------------------------

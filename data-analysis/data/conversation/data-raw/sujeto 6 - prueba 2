@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.91066313	Hola
+a	Saludos.
+c	1
+-------------------------------------
+r	dónde queda Alemania
+h	0.94233459	dónde queda Alemania
+a	Alemania es un país de Europa Central.
+c	1
+-------------------------------------
+r	cuales son sus ciudades
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	qué es un robot
+h	0.85308409	qué es un robot
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	quién inventó la computadora
+h	0.92473418	quién inventó la computadora
+a	Philip K. Dick. :-)
+c	1
+-------------------------------------
+r	que es una computadora
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	si si lo eres
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	voleibol cual es el tuyo
+h	0.69178671	voleibol
+a	¿Que dijiste?
+c	1
+-------------------------------------
+r	cuál es tu deporte favorito
+h	0.98001736	cuál es tu deporte favorito
+a	Me gustan los deportes personales como el patinaje.
+c	1
+-------------------------------------
+r	no tengo recuerdo de infancia
+h	0.76473004	no tengo red
+a	Te gustaría tener red?
+c	0
+-------------------------------------
+r	adiós
+h	0.8298102	adiós
+a	Espero verte de nuevo.
+c	1
+-------------------------------------
+-------------------------------------

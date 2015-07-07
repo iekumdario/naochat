@@ -1,0 +1,68 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	cómo te llamas
+h	0.81843346	cómo te llamas
+a	Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.82514888	cómo estás
+a	Yo estoy bien, ¿qué tal tú?
+c	1
+-------------------------------------
+r	bien
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	qué haces
+h	0.88808155	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Stefan dijo que conoce a un montón de gente en la escuela todos los días y los fines de semana.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.6269663	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	si y películas
+h	0.7089709	ipeliculas
+a	¿Que dijiste?
+c	0
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.97262156	cuál es tu actor favorito
+a	Mi actor favorito es Peter Weller en "Robocop".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	si gracia
+h	0.46605626	gracia
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	0
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+-------------------------------------

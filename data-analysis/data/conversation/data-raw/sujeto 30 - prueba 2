@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	cuál es tu deporte favorito
+h	0.79651642	cuál es tu deporte favorito
+a	Me gustan los deportes personales como el patinaje.
+c	1
+-------------------------------------
+r	qué opinas del fútbol
+h	0.94701767	qué opinas del fútbol
+a	Yo no opino.
+c	1
+-------------------------------------
+r	dónde queda Rusia
+h	0.97670513	dónde queda Rusia
+a	Antiguo imperio del este de Europa y norte de Asia de 1547 a 1917 gobernado por los zares. Su capital es San Petersburgo.
+c	1
+-------------------------------------
+r	dónde queda Japón
+h	0.98413348	dónde queda Japón
+a	Japón es un país insular en la parte oriental de Asia.
+c	1
+-------------------------------------
+r	cuál es el mejor país del mundo
+h	0.92087424	cuál es el mejor país del mundo
+a	El más evidente.
+c	1
+-------------------------------------
+r	quién te inventó
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	no quién te inventó
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	no quién inventó la rueda
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	quién es la persona más importante
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	si
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	adiós
+h	0.70028126	adiós
+a	Espero verte de nuevo.
+c	1
+-------------------------------------
+-------------------------------------

@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.95927358	Hola
+a	Buenas.
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.78419238	cómo te llamas
+a	Me llamo Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	qué haces
+h	0.79824615	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.98783159	cuéntame algo
+a	Arthur dijo que él pasó sus niveles una y luego su padre lo llevó aquí en un coche.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.90629172	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	y películas
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.87410033	cuál es tu actor favorito
+a	Mi actor favorito es Jude Law en "AI".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.89525026	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.84066373	gracias
+a	A la orden.
+c	1
+-------------------------------------
+-------------------------------------

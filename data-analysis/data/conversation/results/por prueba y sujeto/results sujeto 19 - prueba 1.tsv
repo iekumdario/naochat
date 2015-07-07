@@ -1,0 +1,12 @@
+1	hola hola	hola hola	0	0.76636487	Hola. Saludos, ¿en qué puedo ayudarte?	1
+2	como te llama		13	-1	Cuentame, ¿Que hay de nuevo?	0
+3	cómo estás		12	-1	¿Cúal es tu actriz favorita?	0
+4	qué haces		10	-1	Cuentame, ¿Que hay de nuevo?	0
+5	cuéntame algo	cuéntame algo	0	0.98001736	Alex dijo que yo respondí a la pregunta de la misma manera le contesté la primera vez que me pidió.	1
+6	qué música te gusta		21	-1	¿Crees que las máquinas son inteligentes?	0
+7	y peliculas que qué película te gusta	sipeliculas que qué película te gusta	2	0.81385642	Mi película favorita es "El Hombre Bicentenario".	1
+8	cuál es tu actor favorito	cuál es tu actor favorito	0	0.98001736	Mi actor favorito es Peter Weller en "Robocop".	1
+9	recomiendame una película	recomiendame una película	0	0.98146969	Mi película favorita es Robocop. La has visto?	1
+10	si		2	-1	¿Dónde fuiste de vacaciones la última vez?	0
+11	gracia		6	-1	Cuentame una historia.	0
+12	adiós	adiós	0	0.73090804	Espero haber sido de ayuda.	1

@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	qué opinas del tenis
+h	0.95920515	qué opinas del tenis
+a	Vaya, espero que Jose Quintero me dote de la capacidad para opinar.
+c	1
+-------------------------------------
+r	en qué digo dónde queda españa
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	donde queda España
+h	0.83313423	España
+a	Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?
+c	0
+-------------------------------------
+r	quién inventó la electricidad
+h	0.98001736	quién inventó la electricidad
+a	Benjamin Franklin
+c	1
+-------------------------------------
+r	dónde queda Panamá
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	1
+-------------------------------------
+r	el rosado
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	0
+-------------------------------------
+r	dónde queda Panamá
+h	0.98001736	dónde queda Panamá
+a	Panamá está en el istmo entre América del Norte y América del Sur.
+c	1
+-------------------------------------
+r	el fútbol
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	tal vez
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+-------------------------------------

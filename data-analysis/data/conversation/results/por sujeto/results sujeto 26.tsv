@@ -1,0 +1,23 @@
+3	Ayda		4	-1	¿Crees que las máquinas pueden pensar?	0
+4	cómo estás		12	-1	¿Cuál es tu película favorita?	0
+5	qué haces		10	-1	¿Crees que hay vida después de la muerte?	0
+8	y que películas		16	-1	"Cuentame, ¿Que hay de nuevo?"	0
+11	gracias		7	-1	¿Cúal es tu actor favorito?	0
+12	adiós		6	-1	¿Cuál es tu color favorito?	0
+2	en qué digo dónde queda españa		33	-1	¿Dónde te gustaría ir de vacaciones?	0
+5	dónde queda Panamá		20	-1	¿Cuál es tu color favorito?	1
+6	el rosado		9	-1	¿Dónde te gustaría ir de vacaciones?	0
+8	el fútbol		10	-1	¿Crees que las máquinas son inteligentes?	0
+9	tal vez		7	-1	¿Cuál es tu deporte favorito?	0
+10	adiós		6	-1	¿Cúal es tu actriz favorita?	0
+3	donde queda España	España	12	0.83313423	Lo siento pero no te entendí. Podrías indicarme cuál sería la respuesta correcta?	0
+10	recomiendame una película	recomiendame una película	0	0.85254973	Mi película favorita es Robocop. La has visto?	1
+9	cuál es tu actor favorito	cuál es tu actor favorito	0	0.88082725	"Mi actor favorito es Robin Williams en ""El Hombre Bicentenario""."	1
+6	cuéntame algo	cuéntame algo	0	0.89605272	Allison dijo que que se pone muy molesto porque él sabía lo que decir y no tengo que decirle que hable libremente.	1
+1	Hola	Hola	0	0.90377921	¿Qué tal?	1
+1	qué opinas del tenis	qué opinas del tenis	0	0.95920515	"Vaya, espero que Jose Quintero me dote de la capacidad para opinar."	1
+2	cómo te llamas	cómo te llamas	0	0.97232646	"Nao, ¿y tú?"	1
+4	quién inventó la electricidad	quién inventó la electricidad	0	0.98001736	Benjamin Franklin	1
+7	dónde queda Panamá	dónde queda Panamá	0	0.98001736	Panamá está en el istmo entre América del Norte y América del Sur.	1
+7	qué música te gusta	qué música te gusta	0	0.98025548	"Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?"	1
+			1.2	0.923816495		0.9

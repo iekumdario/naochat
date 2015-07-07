@@ -1,0 +1,85 @@
+[2009-09-17 00:12:52.152221] - inicio de la conversacion
+---------------------
+confidence: (0.80522853)
+[2009-09-17 00:13:01.970466](q): Hola
+[2009-09-17 00:13:02.117395](a): Hola, ¿cómo te llamas?
+confidence: (0.97095013)
+[2009-09-17 00:13:16.056205](q): me llamo Bianca
+[2009-09-17 00:13:16.067492](a): Jeje, conozco a alguien con tu mismo nombre.
+confidence: (-1)
+[2009-09-17 00:13:27.882606](q):ERROR
+[2009-09-17 00:13:27.901159](a): ¿Crees que las máquinas son inteligentes?
+[2009-09-17 00:13:42.885801](a): Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+confidence: (0.88357329)
+[2009-09-17 00:13:42.877834](q): qué haces
+confidence: (0.87815797)
+[2009-09-17 00:13:59.043969](q): cuéntame algo
+[2009-09-17 00:13:59.057682](a): Eddie dijo que veía y no hay nada en el directorio de búsqueda de lo que las cosas que él cree.
+confidence: (0.90473872)
+[2009-09-17 00:14:13.931504](q): qué música te gusta
+[2009-09-17 00:14:13.945490](a): Me encantan las canciones de Daft Punk.
+confidence: (0.69023788)
+[2009-09-17 00:14:28.159486](q): ipeliculas
+[2009-09-17 00:14:28.175160](a): ¿Cómo?
+confidence: (0.72042197)
+[2009-09-17 00:14:41.525817](q): favoritos
+[2009-09-17 00:14:41.536094](a): No he escuchado bien, podrias repetir lo que haz dicho.
+confidence: (0.98001736)
+[2009-09-17 00:14:56.530320](q): cuál es tu actor favorito
+[2009-09-17 00:14:56.543470](a): Mi actor favorito es Robin Williams en "El Hombre Bicentenario".
+confidence: (0.98155099)
+[2009-09-17 00:15:12.822353](q): recomiendame una película
+[2009-09-17 00:15:12.838391](a): Mi película favorita es Robocop. La has visto?
+confidence: (-1)
+[2009-09-17 00:15:28.882190](q):ERROR
+[2009-09-17 00:15:28.900083](a): ¿Cuál es tu deporte favorito?
+confidence: (-1)
+[2009-09-17 00:15:41.307981](q):ERROR
+[2009-09-17 00:15:41.317858](a): ¿Cúal es tu actriz favorita?
+confidence: (-1)
+[2009-09-17 00:15:53.402756](q):ERROR
+[2009-09-17 00:15:53.414299](a): ¿Crees que hay vida después de la muerte?
+confidence: (0.68757439)
+[2009-09-17 00:16:07.605945](q): vale hasta luego
+[2009-09-17 00:16:07.641933](a): Bien.
+[2009-09-17 00:17:02.048177] - inicio de la conversacion
+---------------------
+confidence: (0.79651642)
+[2009-09-17 00:17:25.912003](q): cuál es tu deporte favorito
+[2009-09-17 00:17:25.928874](a): Me gustan los deportes personales como el patinaje.
+confidence: (0.94701767)
+[2009-09-17 00:17:41.446116](q): qué opinas del fútbol
+[2009-09-17 00:17:41.460031](a): Yo no opino.
+confidence: (0.97670513)
+[2009-09-17 00:17:53.254340](q): dónde queda Rusia
+[2009-09-17 00:17:53.268125](a): Antiguo imperio del este de Europa y norte de Asia de 1547 a 1917 gobernado por los zares. Su capital es San Petersburgo.
+confidence: (0.98413348)
+[2009-09-17 00:18:13.892472](q): dónde queda Japón
+[2009-09-17 00:18:13.910851](a): Japón es un país insular en la parte oriental de Asia.
+confidence: (0.92087424)
+[2009-09-17 00:18:29.552570](q): cuál es el mejor país del mundo
+[2009-09-17 00:18:29.560716](a): El más evidente.
+confidence: (-1)
+[2009-09-17 00:18:41.479406](q):ERROR
+[2009-09-17 00:18:41.494141](a): ¿Crees que las máquinas son inteligentes?
+confidence: (-1)
+[2009-09-17 00:19:00.392353](q):ERROR
+[2009-09-17 00:19:00.403317](a): ¿Crees que las máquinas pueden pensar?
+confidence: (-1)
+[2009-09-17 00:19:15.568921](q):ERROR
+[2009-09-17 00:19:15.589902](a): ¿Cuál es tu mejor recuerdo de infancia?
+confidence: (-1)
+[2009-09-17 00:19:29.187238](q):ERROR
+[2009-09-17 00:19:29.198398](a): ¿Cuál es tu mejor recuerdo de infancia?
+confidence: (-1)
+[2009-09-17 00:19:50.499235](q):ERROR
+[2009-09-17 00:19:50.506876](a): ¿Crees que las máquinas son inteligentes?
+confidence: (-1)
+[2009-09-17 00:20:04.638760](q):ERROR
+[2009-09-17 00:20:04.649211](a): ¿Cuál es tu película favorita?
+confidence: (0.70028126)
+[2009-09-17 00:20:17.390014](q): adiós
+[2009-09-17 00:20:17.400297](a): Espero verte de nuevo.
+---------------------
+[2009-09-17 00:20:19.692997]fin de la conversacion
+---------------------

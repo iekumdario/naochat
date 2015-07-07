@@ -1,0 +1,68 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.80522853	Hola
+a	Hola, ¿cómo te llamas?
+c	1
+-------------------------------------
+r	me llamo Bianca cómo te llamas
+h	0.97095013	me llamo Bianca
+a	Jeje, conozco a alguien con tu mismo nombre.
+c	1
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	no qué haces
+h	0.88357329	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.87815797	cuéntame algo
+a	Eddie dijo que veía y no hay nada en el directorio de búsqueda de lo que las cosas que él cree.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.90473872	qué música te gusta
+a	Me encantan las canciones de Daft Punk.
+c	1
+-------------------------------------
+r	y películas
+h	0.69023788	ipeliculas
+a	¿Cómo?
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.72042197	favoritos
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Robin Williams en "El Hombre Bicentenario".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98155099	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	si
+h	-1	ERROR
+a	¿Cuál es tu deporte favorito?
+c	0
+-------------------------------------
+r	natación gracias
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+-------------------------------------

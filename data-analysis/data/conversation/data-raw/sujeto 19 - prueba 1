@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	hola hola
+h	0.76636487	hola hola
+a	Hola. Saludos, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	como te llama
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Cúal es tu actriz favorita?
+c	0
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.98001736	cuéntame algo
+a	Alex dijo que yo respondí a la pregunta de la misma manera le contesté la primera vez que me pidió.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	y peliculas que qué película te gusta
+h	0.81385642	sipeliculas que qué película te gusta
+a	Mi película favorita es "El Hombre Bicentenario".
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Peter Weller en "Robocop".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	si
+h	-1	ERROR
+a	¿Dónde fuiste de vacaciones la última vez?
+c	0
+-------------------------------------
+r	gracia
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+r	adiós
+h	0.73090804	adiós
+a	Espero haber sido de ayuda.
+c	1
+-------------------------------------
+-------------------------------------

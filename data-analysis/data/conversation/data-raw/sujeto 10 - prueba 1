@@ -1,0 +1,58 @@
+-------------------------------------
+-------------------------------------
+r	Hola Nao.
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	cómo te llamas
+h	0.96747082	cómo te llamas
+a	Nao.
+c	1
+-------------------------------------
+r	cómo estás
+h	0.84093738	cómo estás
+a	Muy bien, ¿en qué puedo ayudarte?
+c	1
+-------------------------------------
+r	que haces
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.96425736	cuéntame algo
+a	Peter dijo que le parece que no puedo estar muy seguro de nada.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98001736	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	y películas
+h	0.76692796	ipeliculas
+a	¿Cómo?
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.97649461	cuál es tu actor favorito
+a	Mi actor favorito es Robin Williams en "El Hombre Bicentenario".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98146969	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.8041361	gracias
+a	De nada.
+c	1
+-------------------------------------
+r	adiós
+h	0.86125135	adiós
+a	Hasta luego.
+c	1
+-------------------------------------
+-------------------------------------

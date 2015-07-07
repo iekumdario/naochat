@@ -1,0 +1,38 @@
+-------------------------------------
+-------------------------------------
+r	cómo se juega al fútbol
+h	0.91852772	cómo se juega al fútbol
+a	No sé cómo jugar fútbol.
+c	1
+-------------------------------------
+r	cuál es la ubicación de roma
+h	0.97778046	cuál es mi ubicación
+a	Es esta una pregunta tramposa
+c	1
+-------------------------------------
+r	quién inventó la rueda
+h	0.97676021	quién inventó la rueda
+a	Los Chinos, mucho antes que los europeos.
+c	1
+-------------------------------------
+r	cuándo se inventó el primer robot
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	quién es Paulo Coelho
+h	0.98106992	quién es Paulo Coelho
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	gracias
+h	0.80480689	gracias
+a	De nada.
+c	1
+-------------------------------------
+r	hasta luego
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+-------------------------------------

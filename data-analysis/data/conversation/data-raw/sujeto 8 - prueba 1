@@ -1,0 +1,53 @@
+-------------------------------------
+-------------------------------------
+r	cómo te llamas
+h	0.9211638	cómo te llamas
+a	Nao.
+c	1
+-------------------------------------
+r	como tas
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	qué haces
+h	0.85737669	qué haces
+a	Trabajo las 24 horas del día para ofrecerte el mejor servicio posible.
+c	1
+-------------------------------------
+r	cuéntame algo
+h	0.97801548	cuéntame algo
+a	Penny dijo que el programador es un ser humano por lo que tiene sentimientos, pero yo no.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98198491	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	y que películas
+h	0.86462808	películas
+a	Mi película favorita es "AI".
+c	1
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.98001736	cuál es tu actor favorito
+a	Mi actor favorito es Peter Weller en "Robocop".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.98147088	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	0.96370453	gracias
+a	De nada.
+c	1
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	Cuentame una historia.
+c	0
+-------------------------------------
+-------------------------------------

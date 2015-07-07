@@ -1,0 +1,43 @@
+-------------------------------------
+-------------------------------------
+r	cuál es tu equipo de fútbol favorito
+h	0.91752976	cuál es tu equipo de fútbol favorito
+a	Yo nací sin el gen de los deportes.
+c	1
+-------------------------------------
+r	dónde queda Panamá
+h	0.98001736	dónde queda Panamá
+a	Panamá está en el istmo entre América del Norte y América del Sur.
+c	1
+-------------------------------------
+r	quién inventó Facebook
+h	0.97604972	quién inventó Facebook
+a	Los Chinos, mucho antes que los europeos.
+c	1
+-------------------------------------
+r	quién es Obama
+h	0.98001736	quién es Obama
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	dónde está ubicado colombia
+h	0.91712302	dónde está ubicado colombia
+a	Repite porfavor
+c	1
+-------------------------------------
+r	donde está ubicado Colombia
+h	0.90106803	donde está ubicado Colombia
+a	El ubicado Colombia? No sé, dónde está ubicado Colombia?
+c	1
+-------------------------------------
+r	que es la coca-cola
+h	-1	ERROR
+a	¿Crees que las máquinas son inteligentes?
+c	0
+-------------------------------------
+r	adiós
+h	0.86633003	adiós
+a	Espero verte de nuevo.
+c	1
+-------------------------------------
+-------------------------------------

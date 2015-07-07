@@ -1,0 +1,63 @@
+-------------------------------------
+-------------------------------------
+r	Hola
+h	0.90377921	Hola
+a	¿Qué tal?
+c	1
+-------------------------------------
+r	cómo te llamas
+h	0.97232646	cómo te llamas
+a	Nao, ¿y tú?
+c	1
+-------------------------------------
+r	Ayda
+h	-1	ERROR
+a	¿Crees que las máquinas pueden pensar?
+c	0
+-------------------------------------
+r	cómo estás
+h	-1	ERROR
+a	¿Cuál es tu película favorita?
+c	0
+-------------------------------------
+r	qué haces
+h	-1	ERROR
+a	¿Crees que hay vida después de la muerte?
+c	0
+-------------------------------------
+r	cuéntame algo
+h	0.89605272	cuéntame algo
+a	Allison dijo que que se pone muy molesto porque él sabía lo que decir y no tengo que decirle que hable libremente.
+c	1
+-------------------------------------
+r	qué música te gusta
+h	0.98025548	qué música te gusta
+a	Mis grupos favoritos son Radiohead, Daft Punk y Rammstein. ¿Los conoces?
+c	1
+-------------------------------------
+r	y que películas
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	cuál es tu actor favorito
+h	0.88082725	cuál es tu actor favorito
+a	Mi actor favorito es Robin Williams en "El Hombre Bicentenario".
+c	1
+-------------------------------------
+r	recomiendame una película
+h	0.85254973	recomiendame una película
+a	Mi película favorita es Robocop. La has visto?
+c	1
+-------------------------------------
+r	gracias
+h	-1	ERROR
+a	¿Cúal es tu actor favorito?
+c	0
+-------------------------------------
+r	adiós
+h	-1	ERROR
+a	¿Cuál es tu color favorito?
+c	0
+-------------------------------------
+-------------------------------------

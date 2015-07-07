@@ -1,0 +1,732 @@
+[2009-09-17 00:25:37.404057]: Inicio del Ciclo
+[2009-09-17 00:29:54.931912]: Inicio del Ciclo
+[2009-09-17 00:31:45.570063]: Inicio del Ciclo
+[2009-09-17 00:31:46.613910]: Grabando
+[2009-09-17 00:31:51.725050]: Grabacion finalizada
+[2009-09-17 00:31:51.732265]: [STT]Conversion a flac
+[2009-09-17 00:31:53.311853]: [STT]API Request
+[2009-09-17 00:32:03.375377]: [STT]API Response
+[2009-09-17 00:32:03.386783]: Brain Request
+[2009-09-17 00:32:03.505515]: Brain Response
+[2009-09-17 00:32:03.512066]: Ejecutando TTS
+[2009-09-17 00:32:07.142974]: Fin del ciclo
+[2009-09-17 00:32:08.189012]: Grabando
+[2009-09-17 00:32:14.604616]: Grabacion finalizada
+[2009-09-17 00:32:14.614508]: [STT]Conversion a flac
+[2009-09-17 00:32:16.148502]: [STT]API Request
+[2009-09-17 00:32:20.213956]: [STT]API Response
+[2009-09-17 00:32:20.256081]: Brain Request
+[2009-09-17 00:32:20.263398]: Brain Response
+[2009-09-17 00:32:20.270110]: Ejecutando TTS
+[2009-09-17 00:32:22.200809]: Fin del ciclo
+[2009-09-17 00:32:23.239728]: Grabando
+[2009-09-17 00:32:28.333208]: Grabacion finalizada
+[2009-09-17 00:32:28.338864]: [STT]Conversion a flac
+[2009-09-17 00:32:29.882828]: [STT]API Request
+[2009-09-17 00:32:34.311763]: [STT]API Response
+[2009-09-17 00:32:34.325454]: Brain Request
+[2009-09-17 00:32:34.328980]: Brain Response
+[2009-09-17 00:32:34.332537]: Ejecutando TTS
+[2009-09-17 00:32:38.542128]: Fin del ciclo
+[2009-09-17 00:32:39.579248]: Grabando
+[2009-09-17 00:32:44.715691]: Grabacion finalizada
+[2009-09-17 00:32:44.642137]: [STT]Conversion a flac
+[2009-09-17 00:32:46.005960]: [STT]API Request
+[2009-09-17 00:32:49.654020]: [STT]API Response
+[2009-09-17 00:32:49.665853]: Brain Request
+[2009-09-17 00:32:49.669458]: Brain Response
+[2009-09-17 00:32:49.673442]: Ejecutando TTS
+[2009-09-17 00:32:53.523103]: Fin del ciclo
+[2009-09-17 00:32:54.580661]: Grabando
+[2009-09-17 00:32:59.324907]: Grabacion finalizada
+[2009-09-17 00:32:59.335002]: [STT]Conversion a flac
+[2009-09-17 00:33:00.461256]: [STT]API Request
+[2009-09-17 00:33:04.016409]: [STT]API Response
+[2009-09-17 00:33:04.028676]: Brain Request
+[2009-09-17 00:33:04.031569]: Brain Response
+[2009-09-17 00:33:04.046629]: Ejecutando TTS
+[2009-09-17 00:33:09.411586]: Fin del ciclo
+[2009-09-17 00:33:10.447125]: Grabando
+[2009-09-17 00:33:15.414577]: Grabacion finalizada
+[2009-09-17 00:33:15.819837]: [STT]Conversion a flac
+[2009-09-17 00:33:16.786946]: [STT]API Request
+[2009-09-17 00:33:19.691497]: [STT]API Response
+[2009-09-17 00:33:19.704233]: Brain Request
+[2009-09-17 00:33:19.714628]: Brain Response
+[2009-09-17 00:33:19.719466]: Ejecutando TTS
+[2009-09-17 00:33:24.053577]: Fin del ciclo
+[2009-09-17 00:33:25.101619]: Grabando
+[2009-09-17 00:33:30.275206]: Grabacion finalizada
+[2009-09-17 00:33:30.190395]: [STT]Conversion a flac
+[2009-09-17 00:33:31.692674]: [STT]API Request
+[2009-09-17 00:33:34.906174]: [STT]API Response
+[2009-09-17 00:33:34.918151]: Brain Request
+[2009-09-17 00:33:34.921735]: Brain Response
+[2009-09-17 00:33:34.928141]: Ejecutando TTS
+[2009-09-17 00:33:42.296172]: Fin del ciclo
+[2009-09-17 00:33:43.326974]: Grabando
+[2009-09-17 00:33:48.671905]: Grabacion finalizada
+[2009-09-17 00:33:48.683326]: [STT]Conversion a flac
+[2009-09-17 00:33:49.746681]: [STT]API Request
+[2009-09-17 00:33:52.214635]: [STT]API Response
+[2009-09-17 00:33:52.224870]: Brain Request
+[2009-09-17 00:33:52.226973]: Brain Response
+[2009-09-17 00:33:52.230184]: Ejecutando TTS
+[2009-09-17 00:33:55.805088]: Fin del ciclo
+[2009-09-17 00:33:56.829872]: Grabando
+[2009-09-17 00:34:01.914864]: Grabacion finalizada
+[2009-09-17 00:34:02.349754]: [STT]Conversion a flac
+[2009-09-17 00:34:03.654419]: [STT]API Request
+[2009-09-17 00:34:05.784682]: [STT]API Response
+[2009-09-17 00:34:05.794490]: Brain Request
+[2009-09-17 00:34:05.796876]: Brain Response
+[2009-09-17 00:34:05.803227]: Ejecutando TTS
+[2009-09-17 00:34:07.888813]: Fin del ciclo
+[2009-09-17 00:34:08.925958]: Grabando
+[2009-09-17 00:34:13.696038]: Grabacion finalizada
+[2009-09-17 00:34:14.127957]: [STT]Conversion a flac
+[2009-09-17 00:34:15.357021]: [STT]API Request
+[2009-09-17 00:34:17.517515]: [STT]API Response
+[2009-09-17 00:34:17.533906]: Brain Request
+[2009-09-17 00:34:17.539631]: Brain Response
+[2009-09-17 00:34:17.552705]: Ejecutando TTS
+[2009-09-17 00:34:19.604330]: Fin del ciclo
+[2009-09-17 00:34:20.650917]: Grabando
+[2009-09-17 00:34:25.393171]: Grabacion finalizada
+[2009-09-17 00:34:25.388970]: [STT]Conversion a flac
+[2009-09-17 00:34:26.488272]: [STT]API Request
+[2009-09-17 00:34:29.094931]: [STT]API Response
+[2009-09-17 00:34:29.103126]: Brain Request
+[2009-09-17 00:34:29.107170]: Brain Response
+[2009-09-17 00:34:29.111399]: Ejecutando TTS
+[2009-09-17 00:34:31.867932]: Fin del ciclo
+[2009-09-17 00:34:32.919136]: Grabando
+[2009-09-17 00:34:37.612151]: Grabacion finalizada
+[2009-09-17 00:34:37.612604]: [STT]Conversion a flac
+[2009-09-17 00:34:38.868826]: [STT]API Request
+[2009-09-17 00:34:41.435273]: [STT]API Response
+[2009-09-17 00:34:41.444850]: Brain Request
+[2009-09-17 00:34:41.448781]: Brain Response
+[2009-09-17 00:34:41.455385]: Ejecutando TTS
+[2009-09-17 00:34:45.472345]: Fin del ciclo
+[2009-09-17 00:34:46.505877]: Grabando
+[2009-09-17 00:34:51.236810]: Grabacion finalizada
+[2009-09-17 00:34:51.237585]: [STT]Conversion a flac
+[2009-09-17 00:34:52.509082]: [STT]API Request
+[2009-09-17 00:34:55.637891]: [STT]API Response
+[2009-09-17 00:34:55.650225]: Brain Request
+[2009-09-17 00:34:55.653745]: Brain Response
+[2009-09-17 00:34:55.663789]: Ejecutando TTS
+[2009-09-17 00:34:59.587721]: Fin del ciclo
+[2009-09-17 00:35:00.618638]: Grabando
+[2009-09-17 00:35:05.388487]: Grabacion finalizada
+[2009-09-17 00:35:05.782807]: [STT]Conversion a flac
+[2009-09-17 00:35:06.988612]: [STT]API Request
+[2009-09-17 00:35:09.725952]: [STT]API Response
+[2009-09-17 00:35:09.733964]: Brain Request
+[2009-09-17 00:35:09.736500]: Brain Response
+[2009-09-17 00:35:09.742758]: Ejecutando TTS
+[2009-09-17 00:35:11.512128]: Fin del ciclo
+[2009-09-17 00:35:12.559202]: Grabando
+[2009-09-17 00:35:18.044970]: Grabacion finalizada
+[2009-09-17 00:35:17.968437]: [STT]Conversion a flac
+[2009-09-17 00:35:19.011111]: [STT]API Request
+[2009-09-17 00:35:22.467577]: [STT]API Response
+[2009-09-17 00:35:22.478201]: Brain Request
+[2009-09-17 00:35:22.484655]: Brain Response
+[2009-09-17 00:35:22.491208]: Ejecutando TTS
+[2009-09-17 00:35:24.811439]: Fin del ciclo
+[2009-09-17 01:24:48.348059]: Inicio del Ciclo
+[2009-09-17 01:24:49.383793]: Grabando
+[2009-09-17 01:24:54.130716]: Grabacion finalizada
+[2009-09-17 01:24:54.134383]: [STT]Conversion a flac
+[2009-09-17 01:24:55.749801]: [STT]API Request
+[2009-09-17 01:24:57.540630]: [STT]API Response
+[2009-09-17 01:24:57.549872]: Brain Request
+[2009-09-17 01:24:57.567114]: Brain Response
+[2009-09-17 01:24:57.576309]: Ejecutando TTS
+[2009-09-17 01:25:01.320919]: Fin del ciclo
+[2009-09-17 01:25:02.363939]: Grabando
+[2009-09-17 01:25:07.438761]: Grabacion finalizada
+[2009-09-17 01:25:07.447149]: [STT]Conversion a flac
+[2009-09-17 01:25:08.455425]: [STT]API Request
+[2009-09-17 01:25:13.294609]: [STT]API Response
+[2009-09-17 01:25:13.304997]: Brain Request
+[2009-09-17 01:26:40.265461]: Inicio del Ciclo
+[2009-09-17 01:26:41.312689]: Grabando
+[2009-09-17 01:26:46.040705]: Grabacion finalizada
+[2009-09-17 01:26:46.056108]: [STT]Conversion a flac
+[2009-09-17 01:26:47.110392]: [STT]API Request
+[2009-09-17 01:26:48.983121]: [STT]API Response
+[2009-09-17 01:26:48.994666]: Brain Request
+[2009-09-17 01:26:49.017942]: Brain Response
+[2009-09-17 01:26:49.023141]: Ejecutando TTS
+[2009-09-17 01:26:53.094396]: Fin del ciclo
+[2009-09-17 01:26:54.134814]: Grabando
+[2009-09-17 01:26:58.940795]: Grabacion finalizada
+[2009-09-17 01:26:59.383565]: [STT]Conversion a flac
+[2009-09-17 01:27:00.411196]: [STT]API Request
+[2009-09-17 01:27:02.349820]: [STT]API Response
+[2009-09-17 01:27:02.358097]: Brain Request
+[2009-09-17 01:27:02.367334]: Brain Response
+[2009-09-17 01:27:02.370602]: Ejecutando TTS
+[2009-09-17 01:27:05.429130]: Fin del ciclo
+[2009-09-17 01:27:06.468336]: Grabando
+[2009-09-17 01:27:11.496331]: Grabacion finalizada
+[2009-09-17 01:27:11.932562]: [STT]Conversion a flac
+[2009-09-17 01:27:13.286417]: [STT]API Request
+[2009-09-17 01:27:15.631449]: [STT]API Response
+[2009-09-17 01:27:15.639704]: Brain Request
+[2009-09-17 01:27:15.642286]: Brain Response
+[2009-09-17 01:27:15.646365]: Ejecutando TTS
+[2009-09-17 01:27:18.758826]: Fin del ciclo
+[2009-09-17 01:27:19.817862]: Grabando
+[2009-09-17 01:27:24.540941]: Grabacion finalizada
+[2009-09-17 01:27:24.541931]: [STT]Conversion a flac
+[2009-09-17 01:27:25.629208]: [STT]API Request
+[2009-09-17 01:27:29.349706]: [STT]API Response
+[2009-09-17 01:27:29.363972]: Brain Request
+[2009-09-17 01:27:29.366632]: Brain Response
+[2009-09-17 01:27:29.370738]: Ejecutando TTS
+[2009-09-17 01:27:32.433481]: Fin del ciclo
+[2009-09-17 01:27:33.483265]: Grabando
+[2009-09-17 01:27:38.571647]: Grabacion finalizada
+[2009-09-17 01:27:38.583625]: [STT]Conversion a flac
+[2009-09-17 01:27:40.092848]: [STT]API Request
+[2009-09-17 01:27:43.217393]: [STT]API Response
+[2009-09-17 01:27:43.226943]: Brain Request
+[2009-09-17 01:27:43.230841]: Brain Response
+[2009-09-17 01:27:43.233773]: Ejecutando TTS
+[2009-09-17 01:27:46.510161]: Fin del ciclo
+[2009-09-17 01:27:47.543111]: Grabando
+[2009-09-17 01:27:52.411719]: Grabacion finalizada
+[2009-09-17 01:27:52.319882]: [STT]Conversion a flac
+[2009-09-17 01:27:53.569504]: [STT]API Request
+[2009-09-17 01:27:56.184504]: [STT]API Response
+[2009-09-17 01:27:56.192627]: Brain Request
+[2009-09-17 01:27:56.197671]: Brain Response
+[2009-09-17 01:27:56.203622]: Ejecutando TTS
+[2009-09-17 01:27:59.790340]: Fin del ciclo
+[2009-09-17 01:28:00.834769]: Grabando
+[2009-09-17 01:28:05.596144]: Grabacion finalizada
+[2009-09-17 01:28:05.603500]: [STT]Conversion a flac
+[2009-09-17 01:28:07.128049]: [STT]API Request
+[2009-09-17 01:28:09.027618]: [STT]API Response
+[2009-09-17 01:28:09.035673]: Brain Request
+[2009-09-17 01:28:09.040984]: Brain Response
+[2009-09-17 01:28:09.046545]: Ejecutando TTS
+[2009-09-17 01:28:12.132673]: Fin del ciclo
+[2009-09-17 01:28:13.161655]: Grabando
+[2009-09-17 01:28:18.516949]: Grabacion finalizada
+[2009-09-17 01:28:18.941190]: [STT]Conversion a flac
+[2009-09-17 01:28:20.258913]: [STT]API Request
+[2009-09-17 01:28:22.793416]: [STT]API Response
+[2009-09-17 01:28:22.809949]: Brain Request
+[2009-09-17 01:28:22.814678]: Brain Response
+[2009-09-17 01:28:22.821065]: Ejecutando TTS
+[2009-09-17 01:28:26.844709]: Fin del ciclo
+[2009-09-17 01:28:27.876936]: Grabando
+[2009-09-17 01:28:32.620944]: Grabacion finalizada
+[2009-09-17 01:28:32.633208]: [STT]Conversion a flac
+[2009-09-17 01:28:33.921356]: [STT]API Request
+[2009-09-17 01:28:36.847171]: [STT]API Response
+[2009-09-17 01:28:36.856145]: Brain Request
+[2009-09-17 01:28:36.859567]: Brain Response
+[2009-09-17 01:28:36.863241]: Ejecutando TTS
+[2009-09-17 01:28:40.151171]: Fin del ciclo
+[2009-09-17 01:28:41.199914]: Grabando
+[2009-09-17 01:28:45.947917]: Grabacion finalizada
+[2009-09-17 01:28:45.958113]: [STT]Conversion a flac
+[2009-09-17 01:28:47.703264]: [STT]API Request
+[2009-09-17 01:28:49.737174]: [STT]API Response
+[2009-09-17 01:28:49.746833]: Brain Request
+[2009-09-17 01:28:49.755182]: Brain Response
+[2009-09-17 01:28:49.758961]: Ejecutando TTS
+[2009-09-17 01:28:53.869747]: Fin del ciclo
+[2009-09-17 01:28:54.908143]: Grabando
+[2009-09-17 01:29:00.003753]: Grabacion finalizada
+[2009-09-17 01:29:00.419298]: [STT]Conversion a flac
+[2009-09-17 01:29:01.566711]: [STT]API Request
+[2009-09-17 01:29:03.577944]: [STT]API Response
+[2009-09-17 01:29:03.587382]: Brain Request
+[2009-09-17 01:29:03.604835]: Brain Response
+[2009-09-17 01:29:03.610720]: Ejecutando TTS
+[2009-09-17 01:29:08.384361]: Fin del ciclo
+[2009-09-17 01:29:09.413214]: Grabando
+[2009-09-17 01:29:14.149607]: Grabacion finalizada
+[2009-09-17 01:29:14.570462]: [STT]Conversion a flac
+[2009-09-17 01:29:15.883635]: [STT]API Request
+[2009-09-17 01:29:18.035609]: [STT]API Response
+[2009-09-17 01:29:18.046879]: Brain Request
+[2009-09-17 01:29:18.050179]: Brain Response
+[2009-09-17 01:29:18.060450]: Ejecutando TTS
+[2009-09-17 01:29:22.141545]: Fin del ciclo
+[2009-09-17 01:29:23.202542]: Grabando
+[2009-09-17 01:29:28.093769]: Grabacion finalizada
+[2009-09-17 01:29:28.110375]: [STT]Conversion a flac
+[2009-09-17 01:29:29.360622]: [STT]API Request
+[2009-09-17 01:29:30.952194]: [STT]API Response
+[2009-09-17 01:29:30.962398]: Brain Request
+[2009-09-17 01:29:30.968971]: Brain Response
+[2009-09-17 01:29:30.973295]: Ejecutando TTS
+[2009-09-17 01:29:33.470721]: Fin del ciclo
+[2009-09-17 01:31:15.394333]: Inicio del Ciclo
+[2009-09-17 01:31:16.429178]: Grabando
+[2009-09-17 01:31:21.179368]: Grabacion finalizada
+[2009-09-17 01:31:21.186229]: [STT]Conversion a flac
+[2009-09-17 01:31:22.195339]: [STT]API Request
+[2009-09-17 01:31:23.488044]: [STT]API Response
+[2009-09-17 01:31:23.496980]: Brain Request
+[2009-09-17 01:31:23.515935]: Brain Response
+[2009-09-17 01:31:23.521476]: Ejecutando TTS
+[2009-09-17 01:31:27.418965]: Fin del ciclo
+[2009-09-17 01:31:28.472864]: Grabando
+[2009-09-17 01:31:33.273451]: Grabacion finalizada
+[2009-09-17 01:31:33.279979]: [STT]Conversion a flac
+[2009-09-17 01:31:34.883742]: [STT]API Request
+[2009-09-17 01:31:36.656423]: [STT]API Response
+[2009-09-17 01:31:36.667925]: Brain Request
+[2009-09-17 01:31:36.672192]: Brain Response
+[2009-09-17 01:31:36.677356]: Ejecutando TTS
+[2009-09-17 01:31:40.321199]: Fin del ciclo
+[2009-09-17 01:31:41.355201]: Grabando
+[2009-09-17 01:31:46.926733]: Grabacion finalizada
+[2009-09-17 01:31:46.922762]: [STT]Conversion a flac
+[2009-09-17 01:31:47.958640]: [STT]API Request
+[2009-09-17 01:31:50.147881]: [STT]API Response
+[2009-09-17 01:31:50.159681]: Brain Request
+[2009-09-17 01:31:50.164773]: Brain Response
+[2009-09-17 01:31:50.170226]: Ejecutando TTS
+[2009-09-17 01:31:53.390886]: Fin del ciclo
+[2009-09-17 01:31:54.458962]: Grabando
+[2009-09-17 01:31:59.320273]: Grabacion finalizada
+[2009-09-17 01:31:59.328002]: [STT]Conversion a flac
+[2009-09-17 01:32:00.513895]: [STT]API Request
+[2009-09-17 01:32:02.544786]: [STT]API Response
+[2009-09-17 01:32:02.552593]: Brain Request
+[2009-09-17 01:32:02.557758]: Brain Response
+[2009-09-17 01:32:02.566893]: Ejecutando TTS
+[2009-09-17 01:32:06.288437]: Fin del ciclo
+[2009-09-17 01:32:07.334216]: Grabando
+[2009-09-17 01:32:12.328259]: Grabacion finalizada
+[2009-09-17 01:32:12.333202]: [STT]Conversion a flac
+[2009-09-17 01:32:13.672211]: [STT]API Request
+[2009-09-17 01:32:17.381641]: [STT]API Response
+[2009-09-17 01:32:17.391451]: Brain Request
+[2009-09-17 01:32:17.397293]: Brain Response
+[2009-09-17 01:32:17.400847]: Ejecutando TTS
+[2009-09-17 01:32:20.883948]: Fin del ciclo
+[2009-09-17 01:32:21.944344]: Grabando
+[2009-09-17 01:32:26.977599]: Grabacion finalizada
+[2009-09-17 01:32:26.995000]: [STT]Conversion a flac
+[2009-09-17 01:32:28.043200]: [STT]API Request
+[2009-09-17 01:32:35.586690]: [STT]API Response
+[2009-09-17 01:32:35.597175]: Brain Request
+[2009-09-17 01:32:35.599898]: Brain Response
+[2009-09-17 01:32:35.604167]: Ejecutando TTS
+[2009-09-17 01:32:37.129365]: Fin del ciclo
+[2009-09-17 01:32:38.168248]: Grabando
+[2009-09-17 01:32:42.906596]: Grabacion finalizada
+[2009-09-17 01:32:42.908874]: [STT]Conversion a flac
+[2009-09-17 01:32:43.872164]: [STT]API Request
+[2009-09-17 01:32:47.363884]: [STT]API Response
+[2009-09-17 01:32:47.372683]: Brain Request
+[2009-09-17 01:32:47.376720]: Brain Response
+[2009-09-17 01:32:47.382544]: Ejecutando TTS
+[2009-09-17 01:32:51.574480]: Fin del ciclo
+[2009-09-17 01:32:52.620484]: Grabando
+[2009-09-17 01:32:57.656414]: Grabacion finalizada
+[2009-09-17 01:32:57.667745]: [STT]Conversion a flac
+[2009-09-17 01:32:59.316082]: [STT]API Request
+[2009-09-17 01:33:02.728792]: [STT]API Response
+[2009-09-17 01:33:02.738391]: Brain Request
+[2009-09-17 01:33:02.742520]: Brain Response
+[2009-09-17 01:33:02.771700]: Ejecutando TTS
+[2009-09-17 01:33:06.051850]: Fin del ciclo
+[2009-09-17 01:33:07.115031]: Grabando
+[2009-09-17 01:33:12.092252]: Grabacion finalizada
+[2009-09-17 01:33:12.099103]: [STT]Conversion a flac
+[2009-09-17 01:33:13.242331]: [STT]API Request
+[2009-09-17 01:33:15.656423]: [STT]API Response
+[2009-09-17 01:33:15.673445]: Brain Request
+[2009-09-17 01:33:15.679927]: Brain Response
+[2009-09-17 01:33:15.685531]: Ejecutando TTS
+[2009-09-17 01:33:18.192885]: Fin del ciclo
+[2009-09-17 01:40:15.068951]: Inicio del Ciclo
+[2009-09-17 01:40:16.136223]: Grabando
+[2009-09-17 01:40:20.967537]: Grabacion finalizada
+[2009-09-17 01:40:20.981160]: [STT]Conversion a flac
+[2009-09-17 01:40:22.343824]: [STT]API Request
+[2009-09-17 01:40:24.257704]: [STT]API Response
+[2009-09-17 01:40:24.274236]: Brain Request
+[2009-09-17 01:40:24.294376]: Brain Response
+[2009-09-17 01:40:24.299377]: Ejecutando TTS
+[2009-09-17 01:40:25.944150]: Fin del ciclo
+[2009-09-17 01:40:27.022151]: Grabando
+[2009-09-17 01:40:32.158483]: Grabacion finalizada
+[2009-09-17 01:40:32.181775]: [STT]Conversion a flac
+[2009-09-17 01:40:34.202757]: [STT]API Request
+[2009-09-17 01:40:36.804316]: [STT]API Response
+[2009-09-17 01:40:36.814402]: Brain Request
+[2009-09-17 01:40:36.821739]: Brain Response
+[2009-09-17 01:40:36.828126]: Ejecutando TTS
+[2009-09-17 01:40:38.371703]: Fin del ciclo
+[2009-09-17 01:40:39.429507]: Grabando
+[2009-09-17 01:40:45.150092]: Grabacion finalizada
+[2009-09-17 01:40:45.015887]: [STT]Conversion a flac
+[2009-09-17 01:40:46.682441]: [STT]API Request
+[2009-09-17 01:40:52.329935]: [STT]API Response
+[2009-09-17 01:40:52.344126]: Brain Request
+[2009-09-17 01:40:52.361974]: Brain Response
+[2009-09-17 01:40:52.369642]: Ejecutando TTS
+[2009-09-17 01:40:56.007676]: Fin del ciclo
+[2009-09-17 01:40:57.077589]: Grabando
+[2009-09-17 01:41:01.892710]: Grabacion finalizada
+[2009-09-17 01:41:01.896826]: [STT]Conversion a flac
+[2009-09-17 01:41:04.131658]: [STT]API Request
+[2009-09-17 01:41:06.220652]: [STT]API Response
+[2009-09-17 01:41:06.230172]: Brain Request
+[2009-09-17 01:41:06.234667]: Brain Response
+[2009-09-17 01:41:06.243625]: Ejecutando TTS
+[2009-09-17 01:41:09.250004]: Fin del ciclo
+[2009-09-17 01:41:10.304397]: Grabando
+[2009-09-17 01:41:15.452236]: Grabacion finalizada
+[2009-09-17 01:41:15.466247]: [STT]Conversion a flac
+[2009-09-17 01:41:16.815261]: [STT]API Request
+[2009-09-17 01:41:18.821584]: [STT]API Response
+[2009-09-17 01:41:19.336360]: Brain Request
+[2009-09-17 01:41:19.348874]: Brain Response
+[2009-09-17 01:41:19.364058]: Ejecutando TTS
+[2009-09-17 01:41:21.489875]: Fin del ciclo
+[2009-09-17 01:41:22.573817]: Grabando
+[2009-09-17 01:41:27.863887]: Grabacion finalizada
+[2009-09-17 01:41:27.869357]: [STT]Conversion a flac
+[2009-09-17 01:41:29.205657]: [STT]API Request
+[2009-09-17 01:41:30.832356]: [STT]API Response
+[2009-09-17 01:41:30.843462]: Brain Request
+[2009-09-17 01:41:30.854392]: Brain Response
+[2009-09-17 01:41:30.859922]: Ejecutando TTS
+[2009-09-17 01:41:36.201574]: Fin del ciclo
+[2009-09-17 01:41:37.274304]: Grabando
+[2009-09-17 01:41:42.096850]: Grabacion finalizada
+[2009-09-17 01:41:42.119188]: [STT]Conversion a flac
+[2009-09-17 01:41:43.402254]: [STT]API Request
+[2009-09-17 01:41:45.529001]: [STT]API Response
+[2009-09-17 01:41:45.542957]: Brain Request
+[2009-09-17 01:41:45.549974]: Brain Response
+[2009-09-17 01:41:45.558398]: Ejecutando TTS
+[2009-09-17 01:41:48.886101]: Fin del ciclo
+[2009-09-17 01:41:49.949200]: Grabando
+[2009-09-17 01:41:54.757488]: Grabacion finalizada
+[2009-09-17 01:41:54.769908]: [STT]Conversion a flac
+[2009-09-17 01:41:56.490965]: [STT]API Request
+[2009-09-17 01:41:59.127022]: [STT]API Response
+[2009-09-17 01:41:59.138714]: Brain Request
+[2009-09-17 01:41:59.152089]: Brain Response
+[2009-09-17 01:41:59.165581]: Ejecutando TTS
+[2009-09-17 01:42:02.389107]: Fin del ciclo
+[2009-09-17 01:42:03.465234]: Grabando
+[2009-09-17 01:42:08.325245]: Grabacion finalizada
+[2009-09-17 01:42:08.332147]: [STT]Conversion a flac
+[2009-09-17 01:42:09.764824]: [STT]API Request
+[2009-09-17 01:42:12.428862]: [STT]API Response
+[2009-09-17 01:42:12.440556]: Brain Request
+[2009-09-17 01:42:12.449515]: Brain Response
+[2009-09-17 01:42:12.453865]: Ejecutando TTS
+[2009-09-17 01:42:18.872567]: Fin del ciclo
+[2009-09-17 01:42:19.948874]: Grabando
+[2009-09-17 01:42:24.972398]: Grabacion finalizada
+[2009-09-17 01:42:24.980530]: [STT]Conversion a flac
+[2009-09-17 01:42:26.436383]: [STT]API Request
+[2009-09-17 01:42:28.672975]: [STT]API Response
+[2009-09-17 01:42:28.687363]: Brain Request
+[2009-09-17 01:42:28.695207]: Brain Response
+[2009-09-17 01:42:28.700625]: Ejecutando TTS
+[2009-09-17 01:42:32.934667]: Fin del ciclo
+[2009-09-17 01:42:33.988820]: Grabando
+[2009-09-17 01:42:38.929460]: Grabacion finalizada
+[2009-09-17 01:42:38.956190]: [STT]Conversion a flac
+[2009-09-17 01:42:40.454673]: [STT]API Request
+[2009-09-17 01:42:42.791280]: [STT]API Response
+[2009-09-17 01:42:42.802823]: Brain Request
+[2009-09-17 01:42:42.806835]: Brain Response
+[2009-09-17 01:42:42.812484]: Ejecutando TTS
+[2009-09-17 01:42:46.946831]: Fin del ciclo
+[2009-09-17 01:42:48.001166]: Grabando
+[2009-09-17 01:42:52.745922]: Grabacion finalizada
+[2009-09-17 01:42:52.755058]: [STT]Conversion a flac
+[2009-09-17 01:42:54.236724]: [STT]API Request
+[2009-09-17 01:42:56.724917]: [STT]API Response
+[2009-09-17 01:42:56.735723]: Brain Request
+[2009-09-17 01:42:56.740822]: Brain Response
+[2009-09-17 01:42:56.749865]: Ejecutando TTS
+[2009-09-17 01:42:58.428610]: Fin del ciclo
+[2009-09-17 01:42:59.500985]: Grabando
+[2009-09-17 01:43:05.296192]: Grabacion finalizada
+[2009-09-17 01:43:06.019047]: [STT]Conversion a flac
+[2009-09-17 01:43:07.596523]: [STT]API Request
+[2009-09-17 01:43:10.039265]: [STT]API Response
+[2009-09-17 01:43:10.050504]: Brain Request
+[2009-09-17 01:43:10.064041]: Brain Response
+[2009-09-17 01:43:10.068464]: Ejecutando TTS
+[2009-09-17 01:43:13.217378]: Fin del ciclo
+[2009-09-17 01:43:14.280101]: Grabando
+[2009-09-17 01:47:03.637516]: Inicio del Ciclo
+[2009-09-17 01:47:04.754902]: Grabando
+[2009-09-17 01:47:09.616418]: Grabacion finalizada
+[2009-09-17 01:47:09.501709]: [STT]Conversion a flac
+[2009-09-17 01:47:11.364913]: [STT]API Request
+[2009-09-17 01:47:13.101531]: [STT]API Response
+[2009-09-17 01:47:13.114805]: Brain Request
+[2009-09-17 01:47:13.143466]: Brain Response
+[2009-09-17 01:47:13.148150]: Ejecutando TTS
+[2009-09-17 01:47:14.792387]: Fin del ciclo
+[2009-09-17 01:47:15.846933]: Grabando
+[2009-09-17 01:47:21.100771]: Grabacion finalizada
+[2009-09-17 01:47:21.106583]: [STT]Conversion a flac
+[2009-09-17 01:47:22.648098]: [STT]API Request
+[2009-09-17 01:47:24.155181]: [STT]API Response
+[2009-09-17 01:47:24.170734]: Brain Request
+[2009-09-17 01:47:24.178194]: Brain Response
+[2009-09-17 01:47:24.184566]: Ejecutando TTS
+[2009-09-17 01:47:28.247173]: Fin del ciclo
+[2009-09-17 01:47:29.314601]: Grabando
+[2009-09-17 01:47:34.111243]: Grabacion finalizada
+[2009-09-17 01:47:34.112634]: [STT]Conversion a flac
+[2009-09-17 01:47:35.233107]: [STT]API Request
+[2009-09-17 01:47:57.270897]: Brain Request
+[2009-09-17 01:47:57.275502]: Brain Response
+[2009-09-17 01:47:57.279967]: Ejecutando TTS
+[2009-09-17 01:48:00.841635]: Fin del ciclo
+[2009-09-17 01:48:01.911924]: Grabando
+[2009-09-17 01:48:07.152550]: Grabacion finalizada
+[2009-09-17 01:48:07.152120]: [STT]Conversion a flac
+[2009-09-17 01:48:09.147891]: [STT]API Request
+[2009-09-17 02:12:55.171470]: Inicio del Ciclo
+[2009-09-17 02:12:56.206258]: Grabando
+[2009-09-17 02:13:01.354918]: Grabacion finalizada
+[2009-09-17 02:13:01.362415]: [STT]Conversion a flac
+[2009-09-17 02:13:03.032445]: [STT]API Request
+[2009-09-17 02:13:06.525066]: [STT]API Response
+[2009-09-17 02:13:06.535413]: Brain Request
+[2009-09-17 02:13:06.666514]: Brain Response
+[2009-09-17 02:13:06.671150]: Ejecutando TTS
+[2009-09-17 02:13:14.163258]: Fin del ciclo
+[2009-09-17 02:13:15.225210]: Grabando
+[2009-09-17 02:13:20.644631]: Grabacion finalizada
+[2009-09-17 02:13:20.659593]: [STT]Conversion a flac
+[2009-09-17 02:13:21.724123]: [STT]API Request
+[2009-09-17 02:13:25.031445]: [STT]API Response
+[2009-09-17 02:13:25.801414]: Brain Request
+[2009-09-17 02:13:25.803528]: Brain Response
+[2009-09-17 02:13:25.808991]: Ejecutando TTS
+[2009-09-17 02:13:29.297463]: Fin del ciclo
+[2009-09-17 02:13:30.351532]: Grabando
+[2009-09-17 02:13:35.085210]: Grabacion finalizada
+[2009-09-17 02:13:35.094538]: [STT]Conversion a flac
+[2009-09-17 02:13:36.529986]: [STT]API Request
+[2009-09-17 02:13:42.379479]: [STT]API Response
+[2009-09-17 02:13:42.388204]: Brain Request
+[2009-09-17 02:13:42.389910]: Brain Response
+[2009-09-17 02:13:42.393119]: Ejecutando TTS
+[2009-09-17 02:13:46.300062]: Fin del ciclo
+[2009-09-17 02:13:47.352930]: Grabando
+[2009-09-17 02:13:52.090256]: Grabacion finalizada
+[2009-09-17 02:13:52.093581]: [STT]Conversion a flac
+[2009-09-17 02:13:53.309971]: [STT]API Request
+[2009-09-17 02:13:55.453405]: [STT]API Response
+[2009-09-17 02:13:55.462218]: Brain Request
+[2009-09-17 02:13:55.465749]: Brain Response
+[2009-09-17 02:13:55.469768]: Ejecutando TTS
+[2009-09-17 02:13:58.517835]: Fin del ciclo
+[2009-09-17 02:13:59.555863]: Grabando
+[2009-09-17 02:14:04.073515]: Grabacion finalizada
+[2009-09-17 02:14:04.076542]: [STT]Conversion a flac
+[2009-09-17 02:14:05.538516]: [STT]API Request
+[2009-09-17 02:14:11.346264]: [STT]API Response
+[2009-09-17 02:14:11.355825]: Brain Request
+[2009-09-17 02:14:11.359464]: Brain Response
+[2009-09-17 02:14:11.362874]: Ejecutando TTS
+[2009-09-17 02:14:14.419421]: Fin del ciclo
+[2009-09-17 02:14:15.446955]: Grabando
+[2009-09-17 02:14:20.176728]: Grabacion finalizada
+[2009-09-17 02:14:20.175374]: [STT]Conversion a flac
+[2009-09-17 02:14:21.509855]: [STT]API Request
+[2009-09-17 02:14:24.205458]: [STT]API Response
+[2009-09-17 02:14:24.216426]: Brain Request
+[2009-09-17 02:14:24.218764]: Brain Response
+[2009-09-17 02:14:24.223646]: Ejecutando TTS
+[2009-09-17 02:14:29.556489]: Fin del ciclo
+[2009-09-17 02:14:30.596239]: Grabando
+[2009-09-17 02:14:35.588613]: Grabacion finalizada
+[2009-09-17 02:14:35.595429]: [STT]Conversion a flac
+[2009-09-17 02:14:37.389018]: [STT]API Request
+[2009-09-17 02:14:39.446184]: [STT]API Response
+[2009-09-17 02:14:39.456002]: Brain Request
+[2009-09-17 02:14:39.458965]: Brain Response
+[2009-09-17 02:14:39.463361]: Ejecutando TTS
+[2009-09-17 02:14:43.049634]: Fin del ciclo
+[2009-09-17 02:14:44.103995]: Grabando
+[2009-09-17 02:14:49.325401]: Grabacion finalizada
+[2009-09-17 02:14:49.333824]: [STT]Conversion a flac
+[2009-09-17 02:14:50.686331]: [STT]API Request
+[2009-09-17 02:14:53.447587]: [STT]API Response
+[2009-09-17 02:14:53.459095]: Brain Request
+[2009-09-17 02:14:53.463773]: Brain Response
+[2009-09-17 02:14:53.466846]: Ejecutando TTS
+[2009-09-17 02:14:59.648369]: Fin del ciclo
+[2009-09-17 02:15:00.687860]: Grabando
+[2009-09-17 02:15:05.739484]: Grabacion finalizada
+[2009-09-17 02:15:06.172221]: [STT]Conversion a flac
+[2009-09-17 02:15:07.203546]: [STT]API Request
+[2009-09-17 02:15:11.218140]: [STT]API Response
+[2009-09-17 02:15:11.304955]: Brain Request
+[2009-09-17 02:15:11.309859]: Brain Response
+[2009-09-17 02:15:11.317191]: Ejecutando TTS
+[2009-09-17 02:15:14.781426]: Fin del ciclo
+[2009-09-17 02:15:15.827258]: Grabando
+[2009-09-17 02:15:20.717611]: Grabacion finalizada
+[2009-09-17 02:15:20.717993]: [STT]Conversion a flac
+[2009-09-17 02:15:21.787088]: [STT]API Request
+[2009-09-17 02:15:26.289674]: [STT]API Response
+[2009-09-17 02:15:26.300935]: Brain Request
+[2009-09-17 02:15:26.306449]: Brain Response
+[2009-09-17 02:15:26.309521]: Ejecutando TTS
+[2009-09-17 02:15:29.621329]: Fin del ciclo
+[2009-09-17 02:15:30.680570]: Grabando
+[2009-09-17 02:15:35.829617]: Grabacion finalizada
+[2009-09-17 02:15:35.830407]: [STT]Conversion a flac
+[2009-09-17 02:15:37.057226]: [STT]API Request
+[2009-09-17 02:15:58.991071]: [STT]API Response
+[2009-09-17 02:15:58.999733]: Brain Request
+[2009-09-17 02:15:59.003955]: Brain Response
+[2009-09-17 02:15:59.010740]: Ejecutando TTS
+[2009-09-17 02:16:01.452221]: Fin del ciclo
+[2009-09-17 02:16:02.486315]: Grabando
+[2009-09-17 02:16:07.206388]: Grabacion finalizada
+[2009-09-17 02:16:07.213929]: [STT]Conversion a flac
+[2009-09-17 02:16:08.362012]: [STT]API Request
+[2009-09-17 02:16:17.029641]: [STT]API Response
+[2009-09-17 02:16:17.038415]: Brain Request
+[2009-09-17 02:16:17.040988]: Brain Response
+[2009-09-17 02:16:17.044553]: Ejecutando TTS
+[2009-09-17 02:16:20.726179]: Fin del ciclo
+[2009-09-17 02:16:21.768638]: Grabando
+[2009-09-17 02:16:27.284701]: Grabacion finalizada
+[2009-09-17 02:16:27.292176]: [STT]Conversion a flac
+[2009-09-17 02:16:28.662725]: [STT]API Request
+[2009-09-17 02:16:39.708337]: [STT]API Response
+[2009-09-17 02:16:39.719978]: Brain Request
+[2009-09-17 02:16:39.722259]: Brain Response
+[2009-09-17 02:16:39.725000]: Ejecutando TTS
+[2009-09-17 02:16:42.666001]: Fin del ciclo
+[2009-09-17 02:16:43.692980]: Grabando
+[2009-09-17 02:16:48.397531]: Grabacion finalizada
+[2009-09-17 02:16:48.408667]: [STT]Conversion a flac
+[2009-09-17 02:16:49.407476]: [STT]API Request
+[2009-09-17 02:17:16.789716]: [STT]API Response
+[2009-09-17 02:17:16.802250]: Brain Request
+[2009-09-17 02:17:16.806481]: Brain Response
+[2009-09-17 02:17:16.810965]: Ejecutando TTS
+[2009-09-17 02:17:19.095690]: Fin del ciclo
+[2009-09-17 02:19:11.207351]: Inicio del Ciclo
+[2009-09-17 02:19:12.235489]: Grabando
+[2009-09-17 02:19:16.990747]: Grabacion finalizada
+[2009-09-17 02:19:16.990351]: [STT]Conversion a flac
+[2009-09-17 02:19:18.490112]: [STT]API Request
+[2009-09-17 02:19:22.789590]: [STT]API Response
+[2009-09-17 02:19:22.799106]: Brain Request
+[2009-09-17 02:19:22.814984]: Brain Response
+[2009-09-17 02:19:22.820889]: Ejecutando TTS
+[2009-09-17 02:19:24.489735]: Fin del ciclo
+[2009-09-17 02:20:15.887761]: Inicio del Ciclo
+[2009-09-17 02:20:16.922547]: Grabando
+[2009-09-17 02:20:22.019915]: Grabacion finalizada
+[2009-09-17 02:20:22.017767]: [STT]Conversion a flac
+[2009-09-17 02:20:23.416712]: [STT]API Request
+[2009-09-17 02:20:25.528389]: [STT]API Response
+[2009-09-17 02:20:25.539891]: Brain Request
+[2009-09-17 02:20:25.554172]: Brain Response
+[2009-09-17 02:20:25.559132]: Ejecutando TTS
+[2009-09-17 02:20:29.799480]: Fin del ciclo
+[2009-09-17 02:20:30.870027]: Grabando
+[2009-09-17 02:20:35.605906]: Grabacion finalizada
+[2009-09-17 02:20:35.614513]: [STT]Conversion a flac
+[2009-09-17 02:20:36.674842]: [STT]API Request
+[2009-09-17 02:20:39.700412]: [STT]API Response
+[2009-09-17 02:20:39.707612]: Brain Request
+[2009-09-17 02:20:39.710516]: Brain Response
+[2009-09-17 02:20:39.714984]: Ejecutando TTS
+[2009-09-17 02:20:43.600444]: Fin del ciclo
+[2009-09-17 02:20:44.648232]: Grabando
+[2009-09-17 02:20:49.524005]: Grabacion finalizada
+[2009-09-17 02:20:49.522888]: [STT]Conversion a flac
+[2009-09-17 02:20:51.190114]: [STT]API Request
+[2009-09-17 02:20:55.131305]: [STT]API Response
+[2009-09-17 02:20:55.141783]: Brain Request
+[2009-09-17 02:20:55.151418]: Brain Response
+[2009-09-17 02:20:55.155439]: Ejecutando TTS
+[2009-09-17 02:21:00.010860]: Fin del ciclo
+[2009-09-17 02:21:01.066956]: Grabando
+[2009-09-17 02:21:05.773180]: Grabacion finalizada
+[2009-09-17 02:21:05.789221]: [STT]Conversion a flac
+[2009-09-17 02:21:07.045021]: [STT]API Request
+[2009-09-17 02:21:09.893551]: [STT]API Response
+[2009-09-17 02:21:09.901764]: Brain Request
+[2009-09-17 02:21:09.904301]: Brain Response
+[2009-09-17 02:21:09.910246]: Ejecutando TTS
+[2009-09-17 02:21:15.453813]: Fin del ciclo
+[2009-09-17 02:21:16.503851]: Grabando
+[2009-09-17 02:21:20.559002]: Grabacion finalizada
+[2009-09-17 02:21:20.568617]: [STT]Conversion a flac
+[2009-09-17 02:21:21.580179]: [STT]API Request
+[2009-09-17 02:21:25.880412]: [STT]API Response
+[2009-09-17 02:21:25.916915]: Brain Request
+[2009-09-17 02:21:25.918927]: Brain Response
+[2009-09-17 02:21:25.923443]: Ejecutando TTS
+[2009-09-17 02:21:28.734535]: Fin del ciclo
+[2009-09-17 02:21:29.797093]: Grabando
+[2009-09-17 02:21:34.978191]: Grabacion finalizada
+[2009-09-17 02:21:34.993000]: [STT]Conversion a flac
+[2009-09-17 02:21:36.186354]: [STT]API Request
+[2009-09-17 02:21:39.676745]: [STT]API Response
+[2009-09-17 02:21:39.687327]: Brain Request
+[2009-09-17 02:21:39.694090]: Brain Response
+[2009-09-17 02:21:39.698055]: Ejecutando TTS
+[2009-09-17 02:21:42.510147]: Fin del ciclo
+[2009-09-17 02:21:43.546614]: Grabando
+[2009-09-17 02:21:48.617737]: Grabacion finalizada
+[2009-09-17 02:21:48.623120]: [STT]Conversion a flac
+[2009-09-17 02:21:50.389884]: [STT]API Request
+[2009-09-17 02:21:53.512723]: [STT]API Response
+[2009-09-17 02:21:53.519896]: Brain Request
+[2009-09-17 02:21:53.530464]: Brain Response
+[2009-09-17 02:21:53.536138]: Ejecutando TTS
+[2009-09-17 02:21:57.432830]: Fin del ciclo
+[2009-09-17 02:21:58.475445]: Grabando
+[2009-09-17 02:22:03.517871]: Grabacion finalizada
+[2009-09-17 02:22:03.416215]: [STT]Conversion a flac
+[2009-09-17 02:22:04.755682]: [STT]API Request
+[2009-09-17 02:22:07.813982]: [STT]API Response
+[2009-09-17 02:22:07.825237]: Brain Request
+[2009-09-17 02:22:07.827966]: Brain Response
+[2009-09-17 02:22:07.833753]: Ejecutando TTS
+[2009-09-17 02:22:09.522003]: Fin del ciclo
+[2009-09-17 02:22:10.556648]: Grabando
+[2009-09-17 02:22:15.291491]: Grabacion finalizada
+[2009-09-17 02:22:15.292625]: [STT]Conversion a flac
+[2009-09-17 02:22:16.544834]: [STT]API Request
+[2009-09-17 02:22:19.619573]: [STT]API Response
+[2009-09-17 02:22:19.628672]: Brain Request
+[2009-09-17 02:22:19.634533]: Brain Response
+[2009-09-17 02:22:19.638892]: Ejecutando TTS
+[2009-09-17 02:22:22.216373]: Fin del ciclo
+[2009-09-17 02:22:23.259162]: Grabando
+[2009-09-17 02:22:28.402476]: Grabacion finalizada
+[2009-09-17 02:22:28.409800]: [STT]Conversion a flac
+[2009-09-17 02:22:29.424491]: [STT]API Request
+[2009-09-17 02:22:32.789893]: [STT]API Response
+[2009-09-17 02:22:32.803246]: Brain Request
+[2009-09-17 02:22:32.807884]: Brain Response
+[2009-09-17 02:22:32.811352]: Ejecutando TTS
+[2009-09-17 02:22:35.093554]: Fin del ciclo

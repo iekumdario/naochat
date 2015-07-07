@@ -1,0 +1,43 @@
+-------------------------------------
+-------------------------------------
+r	con que se juega fútbol
+h	0.74532151	fútbol
+a	Me perdí.
+c	0
+-------------------------------------
+r	quién es Messi
+h	0.95834184	quién es Messi
+a	¿Acaso crees que soy una enciclopedia viviente?
+c	1
+-------------------------------------
+r	quién descubrió américa
+h	-1	ERROR
+a	¿Cuál es tu mejor recuerdo de infancia?
+c	0
+-------------------------------------
+r	quien creó la luz
+h	0.94928634	quien creó la luz
+a	No he escuchado bien, podrias repetir lo que haz dicho.
+c	1
+-------------------------------------
+r	quién inventó el wikileaks
+h	-1	ERROR
+a	Cuentame, ¿Que hay de nuevo?
+c	0
+-------------------------------------
+r	pregúntame
+h	-1	ERROR
+a	¿Dónde te gustaría ir de vacaciones?
+c	1
+-------------------------------------
+r	a España
+h	0.87438267	España
+a	¿Cómo?
+c	1
+-------------------------------------
+r	en avión
+h	0.90549105	en avión
+a	Qué es en avión como en avión.
+c	0
+-------------------------------------
+-------------------------------------
