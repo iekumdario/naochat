@@ -2,6 +2,8 @@
 
 def wer(r, h):
     """
+        Author: Martin Thoma
+        Source: http://martin-thoma.com/word-error-rate-calculation/
         Calculation of WER with Levenshtein distance.
         Works only for iterables up to 254 elements (uint8).
         O(nm) time ans space complexity.
