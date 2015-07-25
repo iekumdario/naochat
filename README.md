@@ -1,5 +1,5 @@
 # naochat
-Chatbot en español, basado en [S.A.R.A.](http://goo.gl/DWGD3R) y parte del set "standard" (anteriormente incluido con PyAIML) traducido a español, así como [WikiVoice](https://goo.gl/Xkq9Nz) para utilizar con el robot NAO de Aldebaran Robotics.
+Chatbot en español, basado en [S.A.R.A.](http://goo.gl/DWGD3R) y parte del set "standard" (anteriormente incluido con PyAIML) traducido a español, así como [WikiVoice](https://goo.gl/Xkq9Nz) para utilizar con el robot NAO de Aldebaran Robotics. Función WER por [Martin Thoma](http://goo.gl/2W1th6).
 
 El género del bot se cambió a masculino, para ser utilizado con el robot NAO
 
